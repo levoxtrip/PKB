@@ -10,6 +10,7 @@
 
 
 [Reflection](./Reflection.md)
+[Ruminating](./Ruminating.md)
 
 
 [Self](./Self.md)
