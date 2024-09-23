@@ -1,5 +1,5 @@
 # Uncomfortable
-Ich wachse dadurch, dass ich mich in ungemütliche Situationen begebe, die mich aus meine comfort-zone bringen
+Ich wachse dadurch, dass ich mich in ungemütliche Situationen begebe, die mich aus meine comfort-zone bringen; Dinge die ich nicht machen möchte bzw. wo ich Resistance spüre.
 
 Jeder Champion wächst über sich hinaus.
 
