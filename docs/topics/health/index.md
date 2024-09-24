@@ -4,7 +4,7 @@
 [Acceptance](./Acceptance.md)
 [Fear](./Fear.md)
 [Gratitude](./Gratitude.md)
-
+[Happiness](Happiness.md.md)
 [Journaling](./Journaling.md)
 
 
