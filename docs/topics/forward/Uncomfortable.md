@@ -20,6 +20,8 @@ ich hasste jede minute des trainings, der situation in der ich stecke, aber ich 
 
 There will be Suffering – It’s how we React to Suffering that Counts
 
+We working. Thats all we know. We don't want shit given to us - Lebron James
+
 ## Tool
 
 ### Worst case scenario

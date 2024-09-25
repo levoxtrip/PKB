@@ -24,7 +24,11 @@ Reflect on where you might be passively waiting for others to act. What proactiv
 outcomes?
 
 ## Start action
-Expect some resistance when you start taking action. Your mind comes up with all sorts of excuses and reasons not to act
+Expect some resistance when you start taking action. Your mind comes up with all sorts of excuses and reasons not to act.
+
+Focus on the next move - not on the endgoal
+There is always something you can do today to get a little
+
 
 What are 3 action steps that bring you closer to your goal?
 
