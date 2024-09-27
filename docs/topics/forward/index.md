@@ -4,9 +4,12 @@
 
 [Action](Action.md)
 
+[Business](Business.md)
+
 [Challenges](Challenges.md)
 
 [Creativity](Creativity.md)
+[Failure](Failure.md)
 
 [Problem Solving](ProblemSolving.md)
 
