@@ -3,6 +3,8 @@
 simple formula for success is to do more of what works and less of what doesn’t.
 ruthlessly analyze what’s working and what isn’t.
 
+## Do ordinary things
+Ordinary people can do extraordinary things by choosing to be what most people are unwilling to be: consistent, hardworking, patient, and determined.”
 
 ## Repetition
 Do the work. Over and over again, just do the work.
