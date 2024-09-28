@@ -4,7 +4,7 @@ simple formula for success is to do more of what works and less of what doesn’
 ruthlessly analyze what’s working and what isn’t.
 
 
-#Repetition
+## Repetition
 Do the work. Over and over again, just do the work.
 After you build the courage to get onstage that first time, it’s all about repetition.”
 
