@@ -5,3 +5,6 @@ So, put yourself out there today —you never know who you might meet and end up
 
 jeder von uns lebt in seiner eigenen Welt - 
 jeder Mensch konstruiert sich seine ganz persönliche Weltanschauung, die die Basis unserer subjektiven Wirklichkeit darstellt.
+
+## Networking
+Successful networking means both meeting people and, in turn, helping them attain their goals

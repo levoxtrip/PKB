@@ -15,6 +15,8 @@
 
 [Reflection](./Reflection.md)
 
+[Relax](./Relax.md)
+
 [Ruminating](./Ruminating.md)
 
 

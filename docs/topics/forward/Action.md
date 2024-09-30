@@ -1,5 +1,8 @@
 # Action
 
+Are you willing to actually do something, or are you just talk about it for the rest of your life.
+
+
 ## Mindset
 There is always something you can do to improve your current situation/postion.
 
