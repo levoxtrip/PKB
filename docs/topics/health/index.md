@@ -7,7 +7,7 @@
 
 [Gratitude](./Gratitude.md)
 
-[Happiness](Happiness.md.md)
+[Happiness](Happiness.md)
 
 [Journaling](./Journaling.md)
 

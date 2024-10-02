@@ -2,6 +2,17 @@
 
 Your mindset should be: problems that you have are opportunities to grow and to learn. They help you to grow.
 
+## Question Framework
+(1) Understanding the problem
+- What do I know?
+- What do I not know?
+
+(2) Relationships
+- How do the elements/parts relate to each other?
+
+(3) Visualise
+- What relation/diagramm can I create to explain this problem?
+
 ## Start with problems
 - Collect all relevant information that is connected with the problem.
 
