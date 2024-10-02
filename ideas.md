@@ -1,0 +1,1 @@
+When something gets updated -> automation send email/post online etc.
