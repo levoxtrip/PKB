@@ -10,8 +10,12 @@
 [Challenges](Challenges.md)
 
 [Creativity](Creativity.md)
+
 [Failure](Failure.md)
+
 [Finance](Finance.md)
+
+[Goals](Goals.md)
 
 [Problem Solving](ProblemSolving.md)
 

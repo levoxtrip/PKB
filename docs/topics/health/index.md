@@ -24,6 +24,7 @@
 
 [Stress](./Stress.md)
 
+[Thinking](./Thinking.md)
 
 
 ## Physical Health
