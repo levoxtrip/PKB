@@ -1,7 +1,7 @@
+---
+checked 24/10/04
+---
 # Business
-
-
-
 
 # Attitude
 Reach out cold to people
