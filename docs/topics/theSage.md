@@ -9,6 +9,9 @@ What is the underlying idea of the information you want to add?
 ### Environment
 Your environment is stronger than your will - mold your environment so you are nudged to good behaviour and avoid the behaviours you dont want.
 
+### Honesty
+100% honesty always pays off
+
 ## Focus
 90% of success is not getting distracted.
 

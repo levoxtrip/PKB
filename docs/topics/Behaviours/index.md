@@ -1,3 +1,0 @@
-# Behaviours
-
-[Honesty](Honesty.md)

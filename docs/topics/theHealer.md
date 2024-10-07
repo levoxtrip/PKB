@@ -6,5 +6,10 @@ What is the underlying idea of the information you want to add?
 ## Control
 Focus on what is in your control rather being upset about something you can't controll
 
+## Energy
+If you want to feal physically and mentally energized you have to move your body - by exersize or by walking
+*Tool*
+
+
 ## Values
 Prioritize your mental physical health

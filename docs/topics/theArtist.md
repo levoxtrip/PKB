@@ -8,8 +8,14 @@ Constantly conduct experiments - in big and small ways. New industries. New Hobb
 
 If you are under 90 years old - try things
 
+## Play
+Make time for play, relaxation and exploration
+
 ## Writing
 Curiosity is the crack cocaine of the writing world. Hook your readers, and they'll follow you. 
 
 Keep it simple: Just one thought per sentence. Bite-sized and easily digestible
 
+## Walking
+You can walk yourself into new and good ideas
+*TOOL*
