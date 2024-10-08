@@ -3,12 +3,12 @@ challenge, obstacles, motivation, resilience, mastery, purpose, action, pushing 
 
 What is the underlying idea of the information you want to add?
 
-# Action
+## Action
 
 Are you willing to actually do something, or are you just talk about it for the rest of your life.
 
 
-## Mindset
+### Mindset
 There is always something you can do to improve your current situation/postion.
 
 Act with a positive mindset.
@@ -17,11 +17,11 @@ It is never going to get any better or any easier
 
 Your work, your projects, your business, your actions gonna make your dreams come true
 
-### You take the action
+#### You take the action
 
 Stop waiting for life to give you what you think you deserve and go out and make it happen.
 
-## Start action
+### Start action
 Expect some resistance when you start taking action. Your mind comes up with all sorts of excuses and reasons not to act.
 
 Focus on the next move - not on the end goal
@@ -29,20 +29,20 @@ There is always something you can do today to get a little
 
 What are 3 action steps that bring you closer to your goal?
 
-### Tool 
-#### Time limit
+#### Tool 
+##### Time limit
 Just act for 3 min.
 
-#### Pre-Game Routine
+##### Pre-Game Routine
 A starting behaviour that is so easy and automatic that you can't say no - no motivation necessary
 
 
 
 
 
-# Business
+## Business
 
-## Attitude
+### Attitude
 Reach out cold to people
 
 you gotta have a little fuck it in your system
@@ -61,7 +61,7 @@ Don't get to dependend on another service like insta, youtube, facebook
 If they change something you get to dependend
 
 
-## Business Ideas
+### Business Ideas
 Understand how other people think and feel
 Understanding other peoples perspektive - figuering out if you can solve that for them
 
@@ -81,26 +81,46 @@ be one step in front of your audience
 go on yelp - find a niche 
 
 
-# Challenge
+## Challenge
 
 Be grateful for your struggles and challenges - they are opportunities and benefits that bring you forward and enable you to develope further and gain new experiences.
+
+With every hard thing you do the next thing will get easier for you
 
 [Gratitude](../health/Gratitude.md)
 
 
 
-# Dead
+## Dead
 When you remember yourself that you gonna die, you realise that you have nothing to loose
 
-# Motivation
+## Exersize
+Sport gives you energy
+
+## Faith
+I believe I can reach my dream
+
+## Failure
+
+### Mindset
+I'm going to Fail - this is how I learn 
+
+## Motivation
 Lack of mental motivation is often linked with lack of movement
 *TOOL*
 
-# Process
+Imagine how proud your future family is gonna be
+### Mindset
+You can have everything you want in life if you are willing to work hard for it
+
+## Process
 Appreciate the journey. Fall in love with doing, not finishing
 
-# Success
+## Success
 
 consitenly do the boring things when you don't feel like doing them
 
 The only focus should be on getting better at what you're doing. Focus on what you are doing. Get better at what are you doing. Everything else is a waste of time.
+
+## To-do
+Attach reason to your task - why is doing this task benefit you? Why is it important?

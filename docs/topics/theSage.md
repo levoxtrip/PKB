@@ -12,8 +12,17 @@ Your environment is stronger than your will - mold your environment so you are n
 ### Honesty
 100% honesty always pays off
 
+## Finance
+What is your motivation to save money?
+
+### Mindset
+Image how rich saving money is gonna make you
+
 ## Focus
 90% of success is not getting distracted.
+
+## Less
+Life with minimal amount of things is the better one.
 
 ## Mind
 
@@ -21,6 +30,8 @@ Your environment is stronger than your will - mold your environment so you are n
 Feelings are signals/messages that we need to be understand
 
 ### Thoughts
+Our thoughts shape our world
+
 Disidentify with your thoughts - you are not your thoughts
 
 
