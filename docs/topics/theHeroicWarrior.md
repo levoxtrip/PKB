@@ -90,6 +90,9 @@ With every hard thing you do the next thing will get easier for you
 [Gratitude](../health/Gratitude.md)
 
 
+## Daily
+On wakeup think about what fun intresting things you gonna have ahead today - learning,  projects ...
+*TOOL*
 
 ## Dead
 When you remember yourself that you gonna die, you realise that you have nothing to loose
@@ -107,6 +110,9 @@ I'm going to Fail - this is how I learn
 
 ## Motivation
 Lack of mental motivation is often linked with lack of movement
+*TOOL*
+
+Do NSDR and Whimhof when you are tired and unmotivated
 *TOOL*
 
 Imagine how proud your future family is gonna be
