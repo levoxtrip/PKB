@@ -122,6 +122,11 @@ You can have everything you want in life if you are willing to work hard for it
 ## Process
 Appreciate the journey. Fall in love with doing, not finishing
 
+## Purpose
+FIND WHAT YOU'D DIE FOR AND THEN LIVE FOR IT
+
+I fight for my dream!
+
 ## Success
 
 consitenly do the boring things when you don't feel like doing them
