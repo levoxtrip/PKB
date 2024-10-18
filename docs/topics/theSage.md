@@ -15,11 +15,22 @@ Your environment is stronger than your will - mold your environment so you are n
 ## Finance
 What is your motivation to save money?
 
+## Journaling
+
+### Daily
+3 THINGS TO TRACK
+1. One meaningful thing you need to get done today
+2. One thing you learned today to be better tomorrow
+3. One thing you are grateful today
+
 ### Mindset
 Image how rich saving money is gonna make you
 
 ## Focus
 90% of success is not getting distracted.
+
+## Learning
+We don't learn from experience - we learn from reflection/active recall of learning
 
 ## Less
 Life with minimal amount of things is the better one.
@@ -46,6 +57,7 @@ intentionally awake
 *tool*
 
 ### Reflection
+We don't learn from experience - we learn from reflection on experience
 Reflect often - keep a record of what worked and what not
 
 
