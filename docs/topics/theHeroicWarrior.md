@@ -80,6 +80,19 @@ be one step in front of your audience
 
 go on yelp - find a niche 
 
+#### Consumer
+What does the consumer need?
+
+What can I give the customer?
+
+Which skills do I have?
+a) skills that many out there have
+
+b) differentiations
+
+What products/services can I create?
+
+Who would want to pay for these?
 
 ## Challenge
 
@@ -118,6 +131,7 @@ Do NSDR and Whimhof when you are tired and unmotivated
 Imagine how proud your future family is gonna be
 ### Mindset
 You can have everything you want in life if you are willing to work hard for it
+The only way to happiness is through pain!!!
 
 ## Process
 Appreciate the journey. Fall in love with doing, not finishing
@@ -135,3 +149,5 @@ The only focus should be on getting better at what you're doing. Focus on what y
 
 ## To-do
 Attach reason to your task - why is doing this task benefit you? Why is it important?
+
+What is the task/obstacle when you take away any emotion or fear?

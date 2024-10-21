@@ -8,6 +8,9 @@ Constantly conduct experiments - in big and small ways. New industries. New Hobb
 
 If you are under 90 years old - try things
 
+## Ideas
+Reading artbooks relaxed on saturday morning gives me great new ideas
+
 ## Play
 Make time for play, relaxation and exploration
 

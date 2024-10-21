@@ -15,6 +15,8 @@ Your environment is stronger than your will - mold your environment so you are n
 ## Finance
 What is your motivation to save money?
 
+From podcast: More money didn't make the people actually happier.
+
 ### Mindset
 Image how rich saving money is gonna make you
 
@@ -28,6 +30,10 @@ Life with minimal amount of things is the better one.
 
 ### Feelings
 Feelings are signals/messages that we need to be understand
+
+### Emotions
+
+
 
 ### Thoughts
 Our thoughts shape our world
