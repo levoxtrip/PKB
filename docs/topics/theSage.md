@@ -6,6 +6,15 @@ What is the underlying idea of the information you want to add?
 
 ## Behaviour
 
+### Awareness
+Stop giving your attention to anything that isn't contributing to your happiness or goal.
+
+Single Focus on the moment/ the thing right in front of you
+
+#### Tool
+Om as a Mantra to come back to the current moment
+
+
 ### Environment
 Your environment is stronger than your will - mold your environment so you are nudged to good behaviour and avoid the behaviours you dont want.
 
@@ -38,17 +47,26 @@ Life with minimal amount of things is the better one.
 
 ## Mind
 
-### Feelings
+### Feelings/Emotions
 Feelings are signals/messages that we need to be understand
 
-### Emotions
+#### Approval
+Low self-esteem and neglectful experiences with your first caregivers may make you constantly need and seek approval as an adult
 
+When is it that you crave others approval most? At work? 
+
+##### Tools
+Celebrate your successes
+Cultivate self compassion
+Positive mantra about yourself
 
 
 ### Thoughts
 Our thoughts shape our world
 
 Disidentify with your thoughts - you are not your thoughts
+
+Pay particular attention to any repetitive thought patterns
 
 ## Purposeful Thinking
 What ever ideas you have or hear, the opposite may also be true.

@@ -36,7 +36,30 @@ Just act for 3 min.
 ##### Pre-Game Routine
 A starting behaviour that is so easy and automatic that you can't say no - no motivation necessary
 
-
+## Affirmation
+I deserve to be appreciated.
+I am strong.
+I can do this.
+I am proud of who I am.
+I am stronger because of my struggles.
+I am kind.
+I am beautiful inside and out.
+I am enough.
+I am grateful for the gifts in my life.
+I am attracting positive experiences in my life.
+I am open to new opportunities.
+I deserve respect and loyalty.
+I will achieve my goals.
+I am successful.
+I appreciate what I have in life right now.
+I embrace change.
+I deserve peace.
+I will Stay away from negative forces in life.
+I am a gift.
+I am confident.
+I am blessed.
+I choose to see the positive, even in tough times.
+I will follow my heart.
 
 
 
