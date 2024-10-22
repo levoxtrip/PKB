@@ -21,6 +21,9 @@ Take the time for the people.
 ### Tool
 Schedule regular calls with the people that meant the most to me.
 
+## Events
+Even if you “hate every minute leading up to that event” and “look for every excuse to get out of it,” it’s one of the best ways to grow as a person
+
 ## Family
 eat with your family without any distraction so you can have good and deep conversation
 

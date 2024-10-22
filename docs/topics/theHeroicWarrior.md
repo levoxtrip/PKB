@@ -126,6 +126,9 @@ With every hard thing you do the next thing will get easier for you
 [Gratitude](../health/Gratitude.md)
 
 
+## Confidence
+You can gain confidence by reflect which obstacles you already overcame yesterday, last week, last year
+
 ## Daily
 On wakeup think about what fun intresting things you gonna have ahead today - learning,  projects ...
 *TOOL*
