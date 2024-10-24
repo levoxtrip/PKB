@@ -3,6 +3,8 @@ self, health, wellbeing self care, emotional balacnce
 
 What is the underlying idea of the information you want to add?
 
+Nothing matters more than health. Without good health, life cannot be enjoyed.
+
 ## Anxiety
 When I begin to feel anxious, I tell myself, My body is just preparing itself for peak performance: I’m amped, alert, and ready for action. By reframing my emotion, I can turn what’s otherwise debilitating into something motivating.
 

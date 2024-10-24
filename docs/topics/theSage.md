@@ -34,6 +34,11 @@ Environment is the invisible hand that shapes human behaviour
 
 Your environment is stronger than your will - mold your environment so you are nudged to good behaviour and avoid the behaviours you dont want.
 
+### Forgiveness
+forgive yourself when you don't achieve what you wanted to reach
+
+Worry less about getting things done. Worry more about things worth doing.
+
 ### Honesty
 100% honesty always pays off
 
@@ -79,6 +84,10 @@ If you have difficulty feeling your emotions start focusing your attention on th
 
 No expression your emotions can have severe physiological problems.
 
+The way we use our body affects our emotions and biochemistry
+
+What we focus on determines what we feel
+
 #### Approval
 Low self-esteem and neglectful experiences with your first caregivers may make you constantly need and seek approval as an adult
 
@@ -98,6 +107,26 @@ Trying to achieve something in sorter time with a deadline could be a challenge
 
 Sometimes we get complacent because we do the same things every day - get out of your rut - change your routine
 work at a different place
+
+#### Spiral thinking
+
+##### Tools
+Focus on your breath
+Name 5 things or impressions that you see,hear, feel right now
+Name 5 sounds that you here right now
+Name 5 body feelings
+
+Than each 4, 3, 2, 1 
+
+#### Active Mind
+
+##### Tools
+Rewatch favorite movie from adelescence, try to notice a many details of an object close to you.
+
+Cold water
+
+Hate playlist
+
 
 ### Thoughts
 Our thoughts shape our world
