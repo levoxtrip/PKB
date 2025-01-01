@@ -30,7 +30,7 @@ Your actions gonna make your dreams come true.
 - Would you stil do this if nobody knew?
 
 ### Tools
-[Time Limited Action](./Tools/TimeLimittedAction.md)
+[Time Limited Action](../Tools/TimeLimittedAction.md)
 
 
 
