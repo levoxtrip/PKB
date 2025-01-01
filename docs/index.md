@@ -1,9 +1,2 @@
 # Welcome
-For information about [Forward](./topics/move.md)
-
-
-
-
-
-
-
+[Strive](./topics/strive.md)
