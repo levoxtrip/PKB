@@ -1,6 +1,8 @@
 site_name: PKB
 theme:
   name: terminal
+  features:
+    - navigation.side.toc.hide
 
 
 

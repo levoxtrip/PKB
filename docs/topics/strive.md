@@ -56,5 +56,9 @@ Love the process of doing what you doing!
 ## Oportunities
 I'm not waiting for opportunities, I am taking action to create them.
 
+## Projects
+In the beginning move fast and take high risk. 
+Later in the project slower and take less risks - more methodicaly
+
 ## Serve
 The point of all of this is to make the world not just yourself a better place
