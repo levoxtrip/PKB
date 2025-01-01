@@ -3,8 +3,16 @@
 
 You don't need more time; You need more focus.
 
+## Clear headspace
+Having a cluttered mind can hinder discipline and consitency. Organise your mind is crucial for maintaining discipline.
+
+Meditate to clear your mind.
+
+
 ## Distractions
 Distractions are the assasins of great work. 
+
+Tidstractions are major reason why people lose motivation and focus.
 
 90% of distractions begin within:
  - from internal triggers (emotions like boredom anxiety stress)
@@ -26,3 +34,4 @@ The only place where you can experience the flow of life is in the Now. So accep
 
 ## Tools
 [Focus Blocks](../Tools/FocusBlocks.md)
+[Imagine White Screen](../Tools/ImagineWhiteScreen.md)

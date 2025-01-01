@@ -53,8 +53,25 @@ Exploid both in a wa thats beneficial for yourself and others.
 ## Love
 Love the process of doing what you doing!
 
+## Next step
+Focus on the next step.
+
+If you’re writing a book, focus on writing the best paragraph and not the entire book. If you’re playing sports, focus on the next play and not winning the game. If you’re starting a company, focus on delighting one customer. Or, if you’re my kids, don’t focus on the pile of T-shirts to be folded, focus on one shirt.
+**Focus on a small but critical part of the task that moves you forward. Execute. Repeat**
+
+
 ## Oportunities
 I'm not waiting for opportunities, I am taking action to create them.
+
+## Positioning
+Giving yourself options for the future always appears unconfortable in the current moment. Putting yourself in a better position for tomorrow means doing something hard today. This can mean a lower return, living below your means or working hard when everyone else is having fun.
+
+"Poor positioning kills more dreams than poor decisions."
+
+Master your circumstances rather than be mastered by them. 
+
+the best way to put yourself in a good position is with good preparation
+
 
 ## Projects
 In the beginning move fast and take high risk. 
