@@ -1,6 +1,6 @@
 site_name: Personel development Knowledge Base
 theme:
-  name: material
+  name: terminal
   features:
     - navigation.tabs
     - navigation.sections
