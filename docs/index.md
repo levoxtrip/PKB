@@ -1,2 +1,2 @@
 # Welcome
-[Strive](./topics/strive.md)
+This is a collection of knowledge that tries to improve the daily life.
