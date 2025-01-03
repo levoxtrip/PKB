@@ -20,12 +20,13 @@ If you want to do great work its an advantage to be optimistic, even though that
 
 You need that confidence, that absolute belief that you are the best and that you will win.
 
-Develop a healthy self-esteem - it is a essential part of our overall mental health
+Develop a healthy self-esteem - it is a essential part of our overall mental health.
 
 ### Mindset
 The future is bright
 
 The dots will connect themself on the way
+
 
 ## Expectations
 Our brains expectaations are woven into everthing we experience.
@@ -62,6 +63,9 @@ If you're having trouble sticking to a new habit, try a smaller version until it
 ### Stop
 Increase friction for unwanted habits.
 
+## Honesty
+Honesty always pays off.
+
 ## Identity
 Your identity is the idea you carry in your mind of what type of person you are.
 
@@ -72,6 +76,11 @@ Create an identity of a person that does certain things:
 - I'm a person that overcomes hard and uncomfortable things - therefore I tackle all hard tasks when they need to be solved.
 - I'm a person that is financially save - therefore I don't buy unnecessary thinggs and save the most money possible.
 
+### Alter Ego
+
+
+## Judgment
+Are you juding just the outside without looking whats inside?
 
 ## Life Guidelines
 - Do what you love - build cool stuff
@@ -85,14 +94,36 @@ Create an identity of a person that does certain things:
 - Accept that the good always also contains the bad
 - Constrain your life - having smallest amount of/ doing the simplest of
 
+## Long vs. shortime
+Be willing to delay short-term gratification in order to ahieve better long-term results.
+
+In short term you are good as your intensity. In long term you are good as your [consistency](strive.md#consitency)
+
 ## Non-Attachment
 Everytime you get scared of losing something try to move towards non-attachment.
+
+## Patience
+Good things need their time. Trust the process. Have pacience.
+
+Most people need 10 years to establish their craft/mission.
+
+Two things define you. Your patience when you don't have much and the attitude when you have everything.
+
+## Perspective
+The problems and solutions we see in front of us depend on the lenses through which we view the world.
+
+## Positivity
+Create a mindset where you think everything is happening in your favour.
+
+If you can't do something, you can't do it YET. You are not bad at it. You just haven't done it enough times.
 
 ## Sleep
 Prioritize your sleep.
 
 Don't eat or drink two hours before sleep.
-Avoid bright blue light
+Avoid bright blue light an hour before bed.
+meditate 10 min.
+read for 30 min.
 
 ## Self-Acceptance
 Talk to yourself positively - say thinks like I like myself.
@@ -101,19 +132,38 @@ I accept who I am. I don't need to compare myself with others or judge what othe
 
 [Self Acceptance List](../Tools/SelfAcceptanceList.md)
 
+## Self-Expression
+How we express ourselves and speak to others has a profound impact on the type of world we're creating.
+
+## Self-Belief
+Create self-belief through overcoming challenging tasks.
+
+[Confidence](be.md#confidence) comes from evidence of past acomplishments.
+
 ## Self-talk
 Become aware of your negative self talk - distance yourself from it when it is coming up.
 
 The way we talk to ourselves in moments of doubt is crucial.
 
-### Self love
+Talk to your inner daemon(inner critic) like to a friend. 
+High five your daemon.
+
+### Self love/esteem
+Self-esteem is how we value and see ourselves
+Self-esteem is often a self-assessment and, therefore, a self-generated feeling.
+
+
+At the end of the day tell yourself - I love you, you did the best you could today and even if you didn't accomplish all you had planned, love you anyway
+
+Exercise has been shown to have a positive impact on self-esteem and life satisfaction.
+
 May you be happy
 May you be safe
 May you be healthy
 May you life with ease
 
-At the end of the day tell yourself - I love you, you did the best you could today and even if you didn't accomplish all you had planned, love you anyway
-
+#### Forgiveness
+Forgive yourself when you don't achieve what you wanted to reach.
 
 ## Values
 

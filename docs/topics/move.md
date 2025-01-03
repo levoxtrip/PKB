@@ -5,6 +5,13 @@ Movement gives you energy.
 Create joy around exercise.
 Follow your joy - play basketball - go skating.
 
+Everytime you do a workout - remind yourself I'm an athlete
+
+The goal is not to run a marathon - it's to become a runner.
+
+### Balancing
+Put socks and shoes on the floor - blanace on the other leg and put your socks and shoes on while balancing.
+
 ## Feet
 How we use our feet relates to everything else in your body.
 
