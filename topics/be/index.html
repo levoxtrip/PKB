@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="generator" content="mkdocs-1.6.1, mkdocs-terminal-4.7.0">
+     
+     
+    <link rel="icon" type="image/png" sizes="192x192" href="../../img/android-chrome-192x192.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="../../img/android-chrome-512x512.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="../../img/apple-touch-icon.png" />
+<link rel="shortcut icon" type="image/png" sizes="48x48" href="../../img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="../../img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="../../img/favicon-32x32.png" />
+
+
+    
+ 
+<title>Be - PKB</title>
+
+
+<link href="../../css/fontawesome/css/fontawesome.min.css" rel="stylesheet">
+<link href="../../css/fontawesome/css/solid.min.css" rel="stylesheet">
+<link href="../../css/normalize.css" rel="stylesheet">
+<link href="../../css/terminal.css" rel="stylesheet">
+<link href="../../css/theme.css" rel="stylesheet">
+<link href="../../css/theme.tile_grid.css" rel="stylesheet">
+<link href="../../css/theme.footer.css" rel="stylesheet">
+<!-- default color palette -->
+<link href="../../css/palettes/default.css" rel="stylesheet">
+
+<!-- page layout -->
+<style>
+/* initially set page layout to a one column grid */
+.terminal-mkdocs-main-grid {
+    display: grid;
+    grid-column-gap: 1.4em;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+}
+
+/*  
+*   when side navigation is not hidden, use a two column grid.  
+*   if the screen is too narrow, fall back to the initial one column grid layout.
+*   in this case the main content will be placed under the navigation panel. 
+*/
+@media only screen and (min-width: 70em) {
+    .terminal-mkdocs-main-grid {
+        grid-template-columns: 4fr 9fr;
+    }
+}</style>
+
+
+
+     
+    
+    
+
+    
+    <!-- search css support -->
+<link href="../../css/search/bootstrap-modal.css" rel="stylesheet">
+<!-- search scripts -->
+<script>
+    var base_url = "../..",
+    shortcuts = "{}";
+</script>
+<script src="../../js/jquery/jquery-1.10.1.min.js" defer></script>
+<script src="../../js/bootstrap/bootstrap.min.js" defer></script>
+<script src="../../js/mkdocs/base.js" defer></script>
+    
+    
+    
+    
+    <script src="../../search/main.js"></script>
+    
+
+    
+</head>
+
+<body class="terminal"><div class="container">
+    <div class="terminal-nav">
+        <header class="terminal-logo">
+            <div id="mkdocs-terminal-site-name" class="logo terminal-prompt"><a href="/" class="no-style">PKB</a></div>
+        </header>
+        
+        <nav class="terminal-menu">
+            
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                
+                <li property="itemListElement" typeof="ListItem">
+                    <a href="../.." class="menu-item " property="item" typeof="WebPage">
+                        <span property="name">Welcome</span>
+                    </a>
+                    <meta property="position" content="0">
+                </li>
+                
+                
+                
+                
+                
+                    
+                    
+
+
+<li property="itemListElement" typeof="ListItem">
+    <a href="#" class="menu-item" data-toggle="modal" data-target="#mkdocs_search_modal" property="item" typeof="SearchAction">
+        <i aria-hidden="true" class="fa fa-search"></i> <span property="name">Search</span>
+    </a>
+    <meta property="position" content="1">
+</li>
+                    
+            </ul>
+            
+        </nav>
+    </div>
+</div>
+        
+    <div class="container">
+        <div class="terminal-mkdocs-main-grid"><aside id="terminal-mkdocs-side-panel"><nav>
+  
+    <ul class="terminal-mkdocs-side-nav-items">
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../..">Welcome</a>
+        
+    
+    
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+        
+        
+
+        
+            
+    
+        
+        
+            
+            
+            <span class="
+        
+    
+
+    terminal-mkdocs-side-nav-item terminal-mkdocs-side-nav-section-no-index">Tools</span>
+        
+    
+    
+        
+      
+        
+            <ul class="terminal-mkdocs-side-nav-li-ul">
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/FocusBlocks/">Focus Block</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/ImagineWhiteScreen/">Imagine white Screen</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/Painting/">Painting</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/SelfAcceptanceList/">Self-Acceptance List</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/StoreBox/">Store in Box</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/ThinkWalk/">ThinkWalk</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/TimeLimittedAction/">Time limitted action</a>
+        
+    
+    </li>
+            
+            
+    </ul>
+        
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+        
+        
+
+        
+            
+    
+        
+        <span class="
+        
+    
+
+    terminal-mkdocs-side-nav-item--active terminal-mkdocs-side-nav-section-no-index">Topics</span>
+    
+    
+        
+      
+        
+            <ul class="terminal-mkdocs-side-nav-li-ul">
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../ListAchievements/">List of my achievements</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        <span class="
+
+    terminal-mkdocs-side-nav-item--active">Be</span>
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../connect/">Connect</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../create/">Create</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../die/">Die</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../feel/">Feel</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../focus/">Focus</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../invest/">Invest</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../learn/">Learn</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../love/">Love</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../move/">Move</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../reflect/">Reflect</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../relax/">Relax</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../simplify/">Simplify</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../strive/">Strive</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../think/">Think</a>
+        
+    
+    </li>
+            
+            
+    </ul>
+        
+    
+  </li>
+        
+    </ul>
+  
+</nav>
+</aside>
+            <main id="terminal-mkdocs-main-content">
+<section id="mkdocs-terminal-content">
+    <h1 id="be">Be</h1>
+<h2 id="bad-day">Bad day</h2>
+<p>When you have a bad day - make that somebody else has a great day. Use your suffering into service - doing something good for something else.</p>
+<ul>
+<li>What can I do to make this a great day?</li>
+</ul>
+<h2 id="balance">Balance</h2>
+<p>Life and the body try to stay balanced between pleasure and pain! Both sides cause stress to the systems so it tries everything to get back to the balanced status.</p>
+<p>Balance <a href="#confidence">confidence</a> with humility.</p>
+<h2 id="behaviour">Behaviour</h2>
+<p>How we behave is based on how we react to internal and external triggers.</p>
+<h2 id="confidence">Confidence</h2>
+<p>Act and think confident</p>
+<p>If you want to do great work its an advantage to be optimistic, even though that means you'll risk looking like a fool sometimes.</p>
+<p>You need that confidence, that absolute belief that you are the best and that you will win.</p>
+<p>Develop a healthy self-esteem - it is a essential part of our overall mental health</p>
+<h3 id="mindset">Mindset</h3>
+<p>The future is bright</p>
+<p>The dots will connect themself on the way</p>
+<h2 id="expectations">Expectations</h2>
+<p>Our brains expectaations are woven into everthing we experience.</p>
+<p>Positive expectations can trigger natural release of dopamine.</p>
+<p>Expect that what you have to do to be hard but also that you can achieve it.</p>
+<p>Many negative emotions besides anxiety can be a product of our expectations.</p>
+<p>Transactional efforts - expectations to get something back for efforts - set expectations that are increasingly diffult to meet. The more we expet from what we do, the more likely we are to be disappointed.</p>
+<p>If you try something new imagine why other would enjoy it.</p>
+<h2 id="habits">Habits</h2>
+<p>1st law(cue): Make it obvious - Time-based or Activity-Based
+2nd law(craving): make it attractive
+3rd law(Response): Make it Easy
+4th law(Reward): Make it satisfying</p>
+<p>Never miss two days of a habbit in a row.</p>
+<p>Focus on consistency</p>
+<h3 id="build">Build</h3>
+<h4 id="stack-habits">Stack habits</h4>
+<p>after (current habit) I will (new habit) 
+The correct trigger is essential. Make the cue that triggers the habit as visible as possible.</p>
+<h4 id="mini-habits">Mini habits</h4>
+<p>If you're having trouble sticking to a new habit, try a smaller version until it becomes automatic. <strong>Do less than you're capable of but do it more consistently.</strong></p>
+<h3 id="stop">Stop</h3>
+<p>Increase friction for unwanted habits.</p>
+<h2 id="identity">Identity</h2>
+<p>Your identity is the idea you carry in your mind of what type of person you are.</p>
+<p>The goal is not to run a marathon - it is to become a runner.</p>
+<p>Create an identity of a person that does certain things:
+- I am a healthy person - therefore I eat healthy and do exercise regularly.
+- I'm a person that overcomes hard and uncomfortable things - therefore I tackle all hard tasks when they need to be solved.
+- I'm a person that is financially save - therefore I don't buy unnecessary thinggs and save the most money possible.</p>
+<h2 id="life-guidelines">Life Guidelines</h2>
+<ul>
+<li>Do what you love - build cool stuff</li>
+<li>Be and act optimistic</li>
+<li>Act consitent and pacient</li>
+<li>Everything passes away</li>
+<li>Accept what life throws at you - mastery over anxiety</li>
+<li>You feel better after doing hard uncomfortable things</li>
+<li>Whatever scares you - go do it - not doing is what scares you</li>
+<li>Keep balance of Stress and Relax - Stress helps you achieving your goals</li>
+<li>Accept that the good always also contains the bad</li>
+<li>Constrain your life - having smallest amount of/ doing the simplest of</li>
+</ul>
+<h2 id="non-attachment">Non-Attachment</h2>
+<p>Everytime you get scared of losing something try to move towards non-attachment.</p>
+<h2 id="sleep">Sleep</h2>
+<p>Prioritize your sleep.</p>
+<p>Don't eat or drink two hours before sleep.
+Avoid bright blue light</p>
+<h2 id="self-acceptance">Self-Acceptance</h2>
+<p>Talk to yourself positively - say thinks like I like myself.</p>
+<p>I accept who I am. I don't need to compare myself with others or judge what others do.</p>
+<p><a href="../../Tools/SelfAcceptanceList/">Self Acceptance List</a></p>
+<h2 id="self-talk">Self-talk</h2>
+<p>Become aware of your negative self talk - distance yourself from it when it is coming up.</p>
+<p>The way we talk to ourselves in moments of doubt is crucial.</p>
+<h3 id="self-love">Self love</h3>
+<p>May you be happy
+May you be safe
+May you be healthy
+May you life with ease</p>
+<p>At the end of the day tell yourself - I love you, you did the best you could today and even if you didn't accomplish all you had planned, love you anyway</p>
+<h2 id="values">Values</h2>
+<h3 id="money">Money</h3>
+<p>Money is nice but one can choose to see it not as the absolute measure of wealth, but as a useful tool to help achieve true inner wealth.</p>
+<h3 id="define-your-values">Define your values</h3>
+<ul>
+<li>What is important to you?</li>
+<li>What do you want in your life?</li>
+<li>What is pushing you?</li>
+<li>What is your message?</li>
+</ul>
+</section>
+
+            </main>
+        </div>
+        <hr><footer>
+    <div class="terminal-mkdocs-footer-grid">
+        <div id="terminal-mkdocs-footer-copyright-info">
+            
+            <p class="text-center text-muted">&copy; 2024 <a href="https://github.com/levoxtrip" target="_blank" rel="noopener"> Leon Volbers</a>
+</p>
+             Site built with <a href="http://www.mkdocs.org">MkDocs</a> and <a href="https://github.com/ntno/mkdocs-terminal">Terminal for MkDocs</a>.
+        </div>
+    </div>
+</footer>
+    </div>
+
+    
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="alertdialog" aria-modal="true" aria-labelledby="searchModalLabel">
+    <div class="modal-dialog modal-lg" role="search">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="searchModalLabel">Search</h5>
+                <button type="button" class="close btn btn-default btn-ghost" data-dismiss="modal"><span aria-hidden="true">x</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p id="searchInputLabel">Type to start searching</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" aria-labelledby="searchInputLabel" placeholder="" id="mkdocs-search-query" title="Please enter search terms here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No document matches found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    
+    
+</body>
+
+</html>
