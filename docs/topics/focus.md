@@ -12,7 +12,7 @@ Meditate to clear your mind.
 ## Distractions
 Distractions are the assasins of great work. 
 
-Tidstractions are major reason why people lose motivation and focus.
+Distractions are major reason why people lose motivation and focus.
 
 90% of distractions begin within:
  - from internal triggers (emotions like boredom anxiety stress)

@@ -2,8 +2,12 @@
 ## Companion
 See other people as companions not as competition.
 
-## Forgive
-Forgive other people, not necessarily because they deserve it but because you deserve it.
+## Expectations
+Don't expect anything from other people.
+
+Other people don't have to fullfill you expectations. 
+
+Other people disappointed you because your ego expected something from them what they couldn't fullfill.
 
 ## Give
 All great servicce comes from this feeling of generosity and abundance.

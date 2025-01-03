@@ -6,7 +6,12 @@ When you have a bad day - make that somebody else has a great day. Use your suff
 - What can I do to make this a great day?
 
 ## Balance
+Life and the body try to stay balanced between pleasure and pain! Both sides cause stress to the systems so it tries everything to get back to the balanced status.
+
 Balance [confidence](#confidence) with humility.
+
+## Behaviour
+How we behave is based on how we react to internal and external triggers.
 
 ## Confidence
 Act and think confident
@@ -21,6 +26,20 @@ Develop a healthy self-esteem - it is a essential part of our overall mental hea
 The future is bright
 
 The dots will connect themself on the way
+
+## Expectations
+Our brains expectaations are woven into everthing we experience.
+
+Positive expectations can trigger natural release of dopamine.
+
+Expect that what you have to do to be hard but also that you can achieve it.
+
+Many negative emotions besides anxiety can be a product of our expectations.
+
+Transactional efforts - expectations to get something back for efforts - set expectations that are increasingly diffult to meet. The more we expet from what we do, the more likely we are to be disappointed.
+
+If you try something new imagine why other would enjoy it.
+
 
 ## Habits
 1st law(cue): Make it obvious - Time-based or Activity-Based
@@ -65,6 +84,15 @@ Create an identity of a person that does certain things:
 - Keep balance of Stress and Relax - Stress helps you achieving your goals
 - Accept that the good always also contains the bad
 - Constrain your life - having smallest amount of/ doing the simplest of
+
+## Non-Attachment
+Everytime you get scared of losing something try to move towards non-attachment.
+
+## Sleep
+Prioritize your sleep.
+
+Don't eat or drink two hours before sleep.
+Avoid bright blue light
 
 ## Self-Acceptance
 Talk to yourself positively - say thinks like I like myself.
