@@ -42,6 +42,30 @@ Transactional efforts - expectations to get something back for efforts - set exp
 If you try something new imagine why other would enjoy it.
 
 
+## Gratitude
+When you wake up and when you go to be you should feel incredibly happy and grateful that you are still alive.
+
+Appreciate what you already have instead of looking for things to get happy.
+
+Appreciate the small things instead just the big things in your life.
+
+
+### The now
+Be grateful for the current moment.
+
+Be grateful 
+- that you are alive
+- the chance that you got born
+- that you got born in this time 
+
+### You won the lottery
+Being alive means already you won the lottery - you are amoung the wealthiest people in the world.
+
+Fourteen out of fifteen people will never again experience life's simple joys because they are dead.
+
+### Reflections
+- What do you have right now what you used to dram about having?
+
 ## Habits
 1st law(cue): Make it obvious - Time-based or Activity-Based
 2nd law(craving): make it attractive
@@ -62,6 +86,49 @@ If you're having trouble sticking to a new habit, try a smaller version until it
 
 ### Stop
 Increase friction for unwanted habits.
+
+
+## Happiness
+True happiness comes from growth.
+
+What makes you happy is building and creating projects.
+
+Be fully engaged in your life.
+
+Everyday moments of tiny happiness matters more then big prices.
+
+Finding joy in life often comes fromm simple low-cost activities rather than extravagant pursuits.
+
+The harder we try to be happy the less happy we are.
+
+Happiness = Satisfaction/Needs
+
+Buddtha taught that your happiness and unhappiness are in fact one. There is none without the other.
+
+Practising [gratitude](#gratitude) makes ones happier. People who are happier tend to be more grateful and appreciative for what they have.
+
+Have hobbies directed towards your dreams.
+
+Commit 100 Percent To The Things That Make You Happy.
+
+[Movement](move.md), [sleep](#sleep), healthy eating support happiness.
+
+Do good deeds for others.
+Feel like part of something bigger.
+Connect with people.
+
+### Money
+As long as you have money for your necessities money is not a factor that controls your happiness.
+
+Use your money to create more time for you.
+
+Use your money to create experiences.
+
+### Tools
+[Smiling](../Tools/Smiling.md)
+[Power Posture](../Tools/PowerPosture.md)
+[Immerse in Nature](../Tools/ImmerseNature.md)
+[20 min Happiness](../Tools/HappinessJournal.md)
 
 ## Honesty
 Honesty always pays off.
@@ -166,8 +233,17 @@ May you life with ease
 Forgive yourself when you don't achieve what you wanted to reach.
 
 ## Values
+We value things more that are hard to get.
+
+Knowing your value hierachy allows you to make decisions that can help you reach a profound level of fulfillment.
+
+Decide what you want in your life and what you will not allow to intrude.
+
+
 
 ### Money
+Dont solve for money, dont solve for prestige.
+
 Money is nice but one can choose to see it not as the absolute measure of wealth, but as a useful tool to help achieve true inner wealth.
 
 

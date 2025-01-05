@@ -1,3 +1,11 @@
+# Feel
+Feelings are signals/messages.
+
+If you have difficulty feeling your emotions start focusing your attention on the inner energy field in your body.
+
+Not expressing your emotions can ahve severe physiological problems.
+
+
 ## Acceptance
 Accept the present moment like you have chosen it to be like it is - unconditionally and without reservation
 
@@ -8,8 +16,22 @@ Instead of surpressing unpleasant feelings, accept the feelings.
 Accept what you have and how your life is.
 
 
+## Approval
+Low [self-esteem](be.md#self-loveesteem) and neglectful experiences with your first caregivers may make you constanty need and seek approval as an adult.
+
+### Reflection
+- When is it that you crave others approval most? At work?
+
+### Tools
+[Celebrate your Success](../Tools/CelebrateSuccess.md)
+[Positive Mantra](../Tools/PositiveMantra.md)
+
 ## Completeness
 To fill the hole of feeling uncomplete we enter the pursuit of ego gratification and strive after possesions, money, success or recognition - so we can feel better about ourselves. But even with these things the hole is still there. 
+
+
+## Dreams
+In our dreams we process what we have experienced.
 
 ## Ego
 Ego is always seeking for something to attach itself to in order to uphold and strengthen it's illusory sense of self. It will attach itself to your problems.

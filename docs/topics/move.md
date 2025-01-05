@@ -1,6 +1,8 @@
 # Move
 Movement gives you energy.
 
+The way we use our body affects our emotions and biochemistry.
+
 ## Exercise
 Create joy around exercise.
 Follow your joy - play basketball - go skating.

@@ -1,6 +1,8 @@
 ## Action
 creating as many opportunities as we could through purposefull action
 
+Don't wait til tomorrow for what you can do today.
+
 Action creates [confidence](./be.md#confidence) and momentum.
 
 ### Challenging action

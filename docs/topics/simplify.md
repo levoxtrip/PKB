@@ -15,6 +15,8 @@ Spend you money on experiences and education instead of things.
 
 Often we consume as an attempt to remove an unease in ourself.
 
+Appreciate having less than striving for more things.
+
 ### Reflection
 - do you need it?
 - do you have something similar?
@@ -30,6 +32,10 @@ Often we consume as an attempt to remove an unease in ourself.
 ## Craving
 Everything you crave is because you think it will give you a better state of mind/being in life.
 And maybe it will momentarily - but the trick is to focus on the now - not the the future state.
+
+The less you crave things the easier it is to be happy.
+
+**We need to cut out the cue for the graved or desired thing out of our environment.**
 
 Buddha taught that the root of suffering is to be found in our constant wanting and craving.
 
