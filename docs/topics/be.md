@@ -29,7 +29,7 @@ The dots will connect themself on the way
 
 
 ## Expectations
-Our brains expectaations are woven into everthing we experience.
+Our brains expectations are woven into everthing we experience.
 
 Positive expectations can trigger natural release of dopamine.
 
