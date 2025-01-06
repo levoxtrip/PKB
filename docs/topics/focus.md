@@ -17,9 +17,14 @@ Distractions are the assasins of great work.
 Distractions are major reason why people lose motivation and focus.
 
 90% of distractions begin within:
- - from internal triggers (emotions like boredom anxiety stress)
+ - from internal triggers (emotions like boredom, anxiety, fatique, uncertainty, stress)
  - External trigger - external prompt from environment
  - Planning problems
+
+Master the internal triggers. 
+
+
+Everything you do is the desire to escape discomfort.
 
 When things go wrong its almost because of distractions.
 
@@ -27,8 +32,13 @@ Distraction notebook to keep track of what distracts you
 
 ### Reflections
 - Why did I get distracted?
-- What emotion you try to escape
+- What emotion you try to escape?
+- What drives your distractions?
 
+### Tools
+
+[Distraction Logging](../Tools/DistractionLogging.md)
+[Distraction Surf](../Tools/DistractionSurf.md)
 
 ## Now
 The only place where you can experience the flow of life is in the Now. So accept the present moment 

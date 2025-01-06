@@ -1,5 +1,12 @@
 # Be
 
+Serving: Do good deeds for others.
+
+Belonging: Feel like a part of something bigger.
+
+Connect with other people
+
+
 ## Bad day
 When you have a bad day - make that somebody else has a great day. Use your suffering into service - doing something good for something else.
 
@@ -43,7 +50,15 @@ If you try something new imagine why other would enjoy it.
 
 
 ## Gratitude
+Choose to be grateful. Remember how it could be worse, it could always be worse.
+
+Consciously practicing gratitude makes on happier.
+
+Remind yourself regularly what you are grateful for.
+
 When you wake up and when you go to be you should feel incredibly happy and grateful that you are still alive.
+
+Be grateful that you have people who love yoyu, even if they don't show it in the way you wish they do.
 
 Appreciate what you already have instead of looking for things to get happy.
 
@@ -65,6 +80,9 @@ Fourteen out of fifteen people will never again experience life's simple joys be
 
 ### Reflections
 - What do you have right now what you used to dram about having?
+
+### Tools
+[Emotional State of Enormous Gratitude](../Tools/EmotionalStateGratitude.md)
 
 ## Habits
 1st law(cue): Make it obvious - Time-based or Activity-Based
@@ -146,6 +164,7 @@ Create an identity of a person that does certain things:
 ### Alter Ego
 
 
+
 ## Judgment
 Are you juding just the outside without looking whats inside?
 
@@ -197,7 +216,20 @@ Talk to yourself positively - say thinks like I like myself.
 
 I accept who I am. I don't need to compare myself with others or judge what others do.
 
+We all have our strength and weaknesses - Neither quality defines your core worth
+
 [Self Acceptance List](../Tools/SelfAcceptanceList.md)
+
+## Self-Compassion
+We all have both good qualities and flaws and experiences both successes and failures in life.
+
+Practise [acceptance](feel.md#acceptance).
+
+How you speak to yourself during and after stressful situations an make the difference finding calm and strength to move on or feeling overwhelmed of panic.
+
+What would you say to a good friend in the same situation? Now, tell yourself the same thing.
+
+[Self-Compassion Practise](https://self-compassion.org/self-compassion-practices/)
 
 ## Self-Expression
 How we express ourselves and speak to others has a profound impact on the type of world we're creating.

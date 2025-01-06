@@ -45,7 +45,19 @@ You always have to do uncomfortable things in a short term to get the good in th
 If something doesnt't work - you need to change something
 
 ## Consitency
-Consistency is key
+Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
+
+Get rather something done than nothing!!!
+
+Consitenly do the boring things when you don't feel like doing them
+
+The secret is to do few things for a long time.
+
+Stop trying to be spectacular. Start being consistent. Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones.
+
+The difference between great success and bitter failure is often found in consistently applying the fundamentals.
+
+
 
 ## Daily
 If you don't work hard today you won't make it next year...
@@ -98,6 +110,19 @@ Love the process of doing what you doing!
 You become good because you are committed to get better each and every day.
 
 Diversify your skills?
+
+## Mentor
+Pick someone you really respect, be a sponge, be obsessed and see what they do, learn everything they do - what did they do, how did they do it, why did they do it.
+
+Answer your questions in a way your mentor would answer it.
+
+Assign mentors from different places - they don't need to know about it.
+
+Exercise Ethik - Lebron James.
+
+
+
+
 ## Next step
 Focus on the next step.
 
@@ -125,6 +150,8 @@ It's not about the goal - it's about the process of getting there.
 That hit song? Years of practice, countless unheard tracks.   
 The championship athlete? Countless hours of unseen training.   
 The successful entrepreneur? Working on a Friday night, again.
+
+Nobody knows in the moment that they are on the right path 
 
 ## Progress
 We need to measure our results. Thing we measure are the thing we improve.
@@ -154,20 +181,111 @@ Later in the project slower and take less risks - more methodicaly
 ## Purpose
 Listen to your heart.
 
+Find the thing that ignites your curiosity and drive.
+
 Purpose gives power to endure the suffering.
 Purpose gives you filter to cutout choices:
 - is doing this useful for my purpose?
 - is drinking/eating this useful for my purpose?
 - is buying this useful for my purpose?
 
+Number one purpose in life is to better oneself. Why am I not doing this for myself?
+
+If you don't want to do something, you don't care enough about yourself.
+
+Find what you'd die for and then live for it.
+
+If you end up doing what you love the money will come.
+
+Realise your uniqueness:
+- Why are you special?
+- What are you uniquely here to do on this planet? What are you meant to do?
+- What makes you different?
+
+What is it you want to do with your life? Then every decision you make from here on out should be in service of that
+
 ### Reflection
 - Why am I here?
+- Am I to afraid to do what I really want?
 - To whom can I be of service?
 - What is most meaningful for you?
 - What is your life about?
+- What is the pain you enjoy that most people don't tolerate?
+- What does the world need?
+- Is there joy, ease and lightness in what I am doing?
+- Would you keep on doing it if nobody would be watching or can see your results?
+- What do you bring other people?
+
+## Rewards
+Don't fall for short term rewards.
+
+You got to earn the fruits you want from your work - nothing will ever give to you.
+
+### Intermittent reinforcement
+Delivery of a reward at irregular intervals has been determined to yield the greatest effort form the subject
+
+Reinforce behaviour at unpredictable intervals, rather then regularly
+
+Use random, intermittent rewards (like a slot machine) to maintain motivation. After your goal work, flip a coin: heads = reward vs. tails = no reward. #Toolbox 
+
+On a reward day, try using positive self-talk. Do it for 30-60 seconds to reinforce the neural circuits associated with internal motivation. Treat yourself to a physical reward from time to time. For example, watch a movie or eat a food you enjoy!
+
+
+### Rewards
+* Enjoy a favorite snack
+* Read a chapter of a book
+* Spend time meditating
+* Take a short break
+* Have a relaxing bath
+* Call a friend or family member
 
 ## Serve
 The point of all of this is to make the world not just yourself a better place
+## Success
+You only can compete with yourself - is this the best I can/could do today? Have I gone further today than yesterday? The only competition that makes sense - challenge your self.
+
+The only focus should be on getting better at what you're doing. Focus on what you are doing. Get better at what are you doing. Everything else is a waste of time.
+
+Success happens on the long run.
+
+Set your life/environment up to your obsessions.
+
+Be true to your strength - but also work on your weaknesses.
+
+Do the work. Over and over again - just do the work.
+
+You really want to be great at something, you have to truly care about it.
+
+We think some outward success is gonna change something inside but it’s not! It may make live more comfortable but it doesn’t change who we are Any hole in ourself is not get filled by success
+
+### Habits and skills to live a successful life 
+1. skill and habit to manage your state and emotional actions and reactions 
+2. Knowing what people need in general - and knowing and what you need in particular 
+3. People skills : how to see things from other peoples point of view and how to communicate from their view 
+4. Ability to focus, learn, practise, apply what you learn 
+
+### Do ordinary things
+Ordinary people can do extraordinary things by choosing to be what most people are unwilling to be: consistent, hardworking, patient, and determined.
+
+### Measurement of Success
+It's in how you choose to measure success. I don't measure my success by displays of monetary wealth. I prefer to measure it base on social and global impact.
+
+We must take care in choosing the way in which we measure success because the metrics we choose will determine all of our actions and beliefs.
+
+You get to choose how you measure success.
+
+Take a moment and set up Happiness Hypotheticals with some of your biggest drives and desires in your life and see what answer comes up.
+
+“Would you rather be rich and work a job you hate, or have an average income and work a job you love?”
+
+“Would I rather be read by a massive audience for something I don’t care writing about, or a smaller audience for something I do care writing about?”
+
+Definition of success must include how much you helped others 
+
+### Reflection
+- What are your metrics of you being successful?
+- What is working? What is not?
+- What are other people not doing? What can I do of that?
 
 ## To-dos
 
@@ -175,6 +293,8 @@ The point of all of this is to make the world not just yourself a better place
 Manage your energy, not your time
 - What type of energy do you have in the morning? Afternoon? Evening?
 Determine what tasks each energy level and time of day are best suited for
+
+
 ## Work
 Single task focus
 
