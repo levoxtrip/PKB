@@ -20,6 +20,8 @@ Balance [confidence](#confidence) with humility.
 ## Behaviour
 How we behave is based on how we react to internal and external triggers.
 
+Everything we do is desire to escape to discomfort - master internal triggers.
+
 ## Confidence
 Act and think confident
 
@@ -179,7 +181,8 @@ Are you juding just the outside without looking whats inside?
 - Keep balance of Stress and Relax - Stress helps you achieving your goals
 - Accept that the good always also contains the bad
 - Constrain your life - having smallest amount of/ doing the simplest of
-
+## Lifestyle
+Are you willing to pay the price for your lifestyle? The cost probably comes later.
 ## Long vs. shortime
 Be willing to delay short-term gratification in order to ahieve better long-term results.
 

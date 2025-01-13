@@ -17,8 +17,13 @@ Often we consume as an attempt to remove an unease in ourself.
 
 Appreciate having less than striving for more things.
 
+Is this thing a want or a need? 
+If it's a want - why do you want it? Do you just want dopamine?
+Wait 25 hrs before you buy it.
+
 ### Reflection
 - do you need it?
+- Is this thing a want or a need?
 - do you have something similar?
 - Is the money spend create a lasting memory/experience?
 - Will you remember this experience in a year?

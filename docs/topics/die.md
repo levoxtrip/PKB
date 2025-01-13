@@ -3,6 +3,7 @@ You are going to die - live the life you want before you die.
 
 To remind yourself that you gonna die, is a good way to avoid the thought, that you have something to loose in your life.There is no reason not to follow your heart
 
+Death is a stripping away of all that is not you.
 
 
 ## Regrets

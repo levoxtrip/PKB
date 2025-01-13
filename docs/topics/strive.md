@@ -43,7 +43,8 @@ You always have to do uncomfortable things in a short term to get the good in th
 
 ## Change
 If something doesnt't work - you need to change something
-
+## Career
+Identify the one skill that, if you developed it, would have the biggest impact on your career
 ## Consitency
 Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
 
@@ -57,7 +58,7 @@ Stop trying to be spectacular. Start being consistent. Moments don't make legend
 
 The difference between great success and bitter failure is often found in consistently applying the fundamentals.
 
-
+People continue with 10 years already still trying to achieve things
 
 ## Daily
 If you don't work hard today you won't make it next year...
@@ -122,7 +123,8 @@ Exercise Ethik - Lebron James.
 
 
 
-
+## Mindset
+Improvement is always possible
 ## Next step
 Focus on the next step.
 
@@ -176,7 +178,12 @@ Say no to everything, that is not essential or
 
 ## Projects
 In the beginning move fast and take high risk. 
-Later in the project slower and take less risks - more methodicaly
+Later in the project slower and take less risks - more methodicaly.
+
+### Perspective
+need to look at our projects from the perspective of a new potential customer and actually see what’s there.
+
+Does it make sense? Can you predict what’s going to happen when you click that button or open that menu? Is there sufficient feedback to know if the click or tap worked? Is it fast enough? If I read the email on my phone and click the link, is it broken?
 
 ## Purpose
 Listen to your heart.
@@ -258,6 +265,8 @@ You really want to be great at something, you have to truly care about it.
 
 We think some outward success is gonna change something inside but it’s not! It may make live more comfortable but it doesn’t change who we are Any hole in ourself is not get filled by success
 
+key to success is not doing more it is few things really well
+
 ### Habits and skills to live a successful life 
 1. skill and habit to manage your state and emotional actions and reactions 
 2. Knowing what people need in general - and knowing and what you need in particular 
@@ -298,9 +307,18 @@ Determine what tasks each energy level and time of day are best suited for
 ## Work
 Single task focus
 
-Remember the people you doing this for / the mission.
+Remember the people you doing this for / the mission. No matter what your job, find a way to remind yourself that someone needs you, and the work is making their life better
 
-Manage yoyur energy not your time. 
+Manage your energy not your time. 
+
+Put your phone away.
+
+Find what is intresting about the task.
+Create sense of urgency about the task.
+
+Schedule dedicated blocks of time at the same time every day to work.
 
 
-
+### Reflections
+- What has worked really good/bad today? Why?
+- Can I optimise any of the processes at work?

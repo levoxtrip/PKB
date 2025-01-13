@@ -59,6 +59,15 @@ To disidentify from the pain bring precence into the pain and transmute it.
 ## Responisbilty
 I am the cause of all my problems and therefore I alone am responsible and capable of solving them.
 
+## Self
+We often get our sense of who we are from things that ultimately have nothing to do with who we are: your social role, possessions, successes and failures.
+
+Deep-seated sense of lack or imcompleteness, of not being whole manifests as unsettling feeling of not being worthy or good enough.
+
+The ego is a derived sense of self, it needs to identify with external things. The most common ego identifications have to do with possessions, the work you do, social status and recognition, knowledge and education, physical appearance, special abilities, relationships, personal and family history, belief systems, and often also political, nationalistic, racial, religious, and other collective identifications. None of these is you.
+
+
+
 ## Self-Perception
 We all ahve a narrative about ourselves that shapes our self-perception.
 
@@ -75,6 +84,9 @@ We all have a dark side, hidden agression, envy, aggressive impulses - channel t
 Don't ever be ashamed of anything you've done in your life. Face it, fix it, make it better.
 
 ## Stress
+
+## Surrender
+What is not servicing you let it go
 
 
 ## Struggles
