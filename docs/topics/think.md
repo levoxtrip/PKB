@@ -5,6 +5,8 @@ Train yourself to think about hard problems
 # First principle thinking
 boil things down to their fundamental truths and reason up from there, as opposed to reasoning by analogy.
 
+It's about going to the end of the world chasing a chain of 'whys'
+
 actively questioning every assumption you think you ‘know’ about a given
 problem or scenario — and then creating new knowledge and solutions
 from scratch.
@@ -46,3 +48,8 @@ so I can serve more people. Interesting…
 
 ## Tools
 [Walk to think](../Tools/ThinkWalk.md)
+
+
+## Substraction
+When we see a problem we tend to add things instead of substracting things.
+Instead of trying to solve a problem by adding something - try to reduce something

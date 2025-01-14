@@ -6,7 +6,9 @@ When you start to study a field you need to identify the core principles than go
 
 When you're starting something new, the most important thing is knowing what to learn.
 
-Build the fundamentals and practise them over and over
+Build the fundamentals and practise them over and over.
+
+What are the patterns that get used in this framework.
 
 ## Curiosity
 When we are emotionally engaged our brain learns 3-4 times faster. 
@@ -28,10 +30,18 @@ Draw charts/diagrams to enhance learning and improve understanding.
 "Wayne Gretzki used a pen to follow the puck's movement during a game without looking down."
 
 ## Learning Flow
+0. Testing part from last time
 1. Curiosity
 "Understanding this topic  will help you a l ot in the future" 
+"ask why why why why
 2. Learning Session
 3*20 Min
+
+- Watch/read the information
+- Explain concept to yourself
+- Try to execute the information by yourself - active recall to improve the learning
+- Reread
+- Retry
 
 3. Reflection
 - What is the first principle of this topic/ knowledge

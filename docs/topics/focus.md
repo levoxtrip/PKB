@@ -39,7 +39,9 @@ Distraction notebook to keep track of what distracts you
 
 [Distraction Logging](../Tools/DistractionLogging.md)
 [Distraction Surf](../Tools/DistractionSurf.md)
-
+## Options
+Focused people eliminate options, not accumulate them.
+Without a focus, everything becomes a distraction.
 ## Now
 The only place where you can experience the flow of life is in the Now. So accept the present moment 
 

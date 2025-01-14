@@ -6,6 +6,30 @@ Belonging: Feel like a part of something bigger.
 
 Connect with other people
 
+## Affirmation
+- I deserve to be appreciated.
+- I am strong.
+- I can do this.
+- I am proud of who I am.
+- I am stronger because of my struggles.
+- I am kind.
+- I am beautiful inside and out.
+- I am enough.
+- I am grateful for the gifts in my life.
+- I am attracting positive experiences in my life.
+- I am open to new opportunities.
+- I deserve respect and loyalty.
+- I will achieve my goals.
+- I am successful.
+- I appreciate what I have in life right now.
+- I embrace change.
+- I deserve peace.
+- I will Stay away from negative forces in life.
+- I am a gift.
+- I am confident.
+- I am blessed.
+- I choose to see the positive, even in tough times.
+- I will follow my heart.
 
 ## Bad day
 When you have a bad day - make that somebody else has a great day. Use your suffering into service - doing something good for something else.
@@ -22,8 +46,12 @@ How we behave is based on how we react to internal and external triggers.
 
 Everything we do is desire to escape to discomfort - master internal triggers.
 
+all human actions and decisions originate in the pain-versus-pleasure principle
+
 ## Confidence
-Act and think confident
+Act and think confident.
+
+You have to believe that it can be done - that you can do it.
 
 If you want to do great work its an advantage to be optimistic, even though that means you'll risk looking like a fool sometimes.
 
@@ -31,12 +59,26 @@ You need that confidence, that absolute belief that you are the best and that yo
 
 Develop a healthy self-esteem - it is a essential part of our overall mental health.
 
+You can gain confidence by reflect which obstacles you already overcame yesterday, last week, last year
+
 ### Mindset
 The future is bright
 
 The dots will connect themself on the way
+## Control
+Focus on what is in your control rather then being upset sbout something you can't control.
 
 
+There are a lot of things you don't control.
+You don't pick your parents.
+You don't get to pick the country you are born in.
+You don’t control where you start, but you can change where you go.
+
+## Energy
+If you want to feel physically and mentally energized you have to move your body - exercise or walking.
+
+## Ego
+Outcome over ego
 ## Expectations
 Our brains expectations are woven into everthing we experience.
 
@@ -110,7 +152,7 @@ Increase friction for unwanted habits.
 
 ## Happiness
 True happiness comes from growth.
-
+The only way to happiness is through pain!!!
 What makes you happy is building and creating projects.
 
 Be fully engaged in your life.
@@ -136,6 +178,8 @@ Commit 100 Percent To The Things That Make You Happy.
 Do good deeds for others.
 Feel like part of something bigger.
 Connect with people.
+
+What is your happy place and how can you optimise your life around it?
 
 ### Money
 As long as you have money for your necessities money is not a factor that controls your happiness.
@@ -190,6 +234,15 @@ In short term you are good as your intensity. In long term you are good as your 
 
 ## Non-Attachment
 Everytime you get scared of losing something try to move towards non-attachment.
+## Now
+Buddhist monk once told me: “All I have learned in the twenty years that I have been a monk I can sum up in one sentence: All that arises passes away. This I know
+
+
+Narrow your life down to this moment. 
+Do you have a problem now?
+
+### Reflection
+- Are you always focused on becoming, achieving, and attaining, or alternatively chasing some new thrill or pleasure?
 
 ## Patience
 Good things need their time. Trust the process. Have pacience.
@@ -205,7 +258,9 @@ The problems and solutions we see in front of us depend on the lenses through wh
 Create a mindset where you think everything is happening in your favour.
 
 If you can't do something, you can't do it YET. You are not bad at it. You just haven't done it enough times.
-
+## Satisfaction
+Nothing out there will ever satisfy you except temporarily and superficially.
+Every situation you will encounter in your life will change, disappear or no longer satisfy you.
 ## Sleep
 Prioritize your sleep.
 
@@ -224,6 +279,12 @@ We all have our strength and weaknesses - Neither quality defines your core wort
 [Self Acceptance List](../Tools/SelfAcceptanceList.md)
 
 ## Self-Compassion
+Love should come from within instead of from outside. Loving yourself starts with liking yourself, which starts with respecting yourself, which starts with thinking of yourself in positive ways.
+
+The relationship you have with yourself is the most important relationship in your life.
+
+Cherish the person you have become.
+
 We all have both good qualities and flaws and experiences both successes and failures in life.
 
 Practise [acceptance](feel.md#acceptance).
@@ -232,7 +293,14 @@ How you speak to yourself during and after stressful situations an make the diff
 
 What would you say to a good friend in the same situation? Now, tell yourself the same thing.
 
+I will follow my heart. 
+
+"I love you, you did the best you could today, and even if you didn't accomplish all you had planned, I love you anyway."
+
+
 [Self-Compassion Practise](https://self-compassion.org/self-compassion-practices/)
+
+
 
 ## Self-Expression
 How we express ourselves and speak to others has a profound impact on the type of world we're creating.
@@ -243,6 +311,8 @@ Create self-belief through overcoming challenging tasks.
 [Confidence](be.md#confidence) comes from evidence of past acomplishments.
 
 ## Self-talk
+We need to learn to be better allies to ourselves many forms—positive self-talk, thoughtful self-care, self-confidence, self-assertion, and the habit of making well-thought-out choices about our health, careers, and the people we spend time with
+
 Become aware of your negative self talk - distance yourself from it when it is coming up.
 
 The way we talk to ourselves in moments of doubt is crucial.

@@ -1,5 +1,5 @@
 # Die
-You are going to die - live the life you want before you die.
+You’re going to die one day, and none of this is going to matter. So enjoy yourself. Do something positive. Project some love. Make someone happy. Laugh a little bit. Appreciate the moment. And do your work
 
 To remind yourself that you gonna die, is a good way to avoid the thought, that you have something to loose in your life.There is no reason not to follow your heart
 

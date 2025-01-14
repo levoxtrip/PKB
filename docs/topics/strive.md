@@ -1,16 +1,43 @@
 ## Action
-creating as many opportunities as we could through purposefull action
+Do it for you. Not for others.
+
+Stop waiting for life to give you what you think you deserve and go out and make it happen.
+
+Creating as many opportunities as we could through purposefull action.
 
 Don't wait til tomorrow for what you can do today.
 
 Action creates [confidence](./be.md#confidence) and momentum.
 
+Every step you take is a step towards your goal.
+
+Consider the future consequences of your actions.
+
+The way we act in the world affects the way we think and feel about ourselves and thoughts and feelings change our behaviour
+
+„It’s all about action. Going out there, doing it and taking all your negative bullshit along for the ride. It’s never going to get any better, any easier or any more understandable. This is it, life is now and you’re never going to have a better moment than this.“
+
+### Action reflection
+*Before Action:*
+Will this action make the future easier or harder?
+What long/shortterm consequence has this action?
+What happens if you don't take action? What is the cost of inaction?
+*After Action Review*
+What did I intend to accomplish?
+What happened?
+Why did it happen that way? - root cause = the real reason something happened.
+What will I do next time for a better outcome (or to repeat my success)?
+Reflection allows you to distill experience into learning. Don't just "do," think about what you're doing and what you've done.
+
 ### Challenging action
 If action seems hard, narrow the gap between where you are and what you focus on
 
+See challenges as opportunities.
+
 ### Focus on process
 Don't be overly concerned about the result of your actions - give full attention to the execution of the action itself.
-
+### Inaction
+The cost of inaction is the status quo. If you're ok where you are, then you don't need to do anything. But if you want to get to the next level, you need to understand the cost of doing nothing.
 ### Move fast and break things
 The faster you execute in situations with low stakes, the more successfull you can be.
 
@@ -23,6 +50,11 @@ It is never going to get any better or easier.
 
 Your actions gonna make your dreams come true.
 
+### Procrastination
+If procrastinating, you have 2 ways to solve it: Make the pain of inaction > Pain of action Make the pleasure of action > Pleasure of inaction
+
+
+
 ### Reflections
 - What can I do now to improve my situation?
 - If not now when?
@@ -30,9 +62,27 @@ Your actions gonna make your dreams come true.
 - What is the future impact of your current action?
 - What is the most direct route to it?
 - Would you stil do this if nobody knew?
+- Why do you do it?
+- What is the positive outcome?
+- What opportunities lies in this action?
+- Are you willing to actually do something, or are you just talk about it for the rest of your life.
+- What can I change?
+- What ONE thing can I do, such that by doing it, makes everything else easier or unnecessary?
+- Am I taking action to grow? 
+- Am I taking action?
+- Am I generating joy? 
+- Am I acting fearless and generative? 
+- Am meeting my standards?
+- Am I committed?
+
+### Resistance
+Nearly all of the friction in a task is at the beginning automate the early stages of your behavior. 
+If you feel resistance before you begin, it's usually procrastination and you need to get started If you feel resistance after you begin, it's usually feedback and you need to make adjustments It's not the being creative that is hard. What's hard is sitting down to be creative.
+
 
 ### Tools
 [Time Limited Action](../Tools/TimeLimittedAction.md)
+[Pre-GameRoutine](../Tools/PreGameRoutine.md)
 
 
 
@@ -63,10 +113,28 @@ People continue with 10 years already still trying to achieve things
 ## Daily
 If you don't work hard today you won't make it next year...
 
+## Decisions
+The hard choices that we most fear doing/asking/saying are very often exaclty what we most need to do - the biggest challenges and problems will never be solved with comfortable conversations wether with your own head or with other people.
+
+## Deathground
+You need to put yourself on deathground, have the sense or urgency  - the reality is that you can die tomorrow
+When urgency, deadlines, death is facing you, you fight 10 times harder 
+
+[Deadlines](../Tools/Deadlines.md)
+
+## Discipline
+The journey of self discipline for self discovery
 ## Effort
 Learning to access internal reward system from doing hard things and effort - you have to tell yourself this effort is great/pleasurable.
 Evoke dopamine from the friction and challenge.
+## Exhaustion
+The 40% rule says that when you mind is saying you that you are to exhausted to do something then you reached 40% of your whole capacity. You just haven't accessed the other 60% that are inside of you.
+## Extra
+It can be hard to appreciate how much a little extra makes a big difference.
 
+Making five extra calls a day may seem small, but do that for a month, and you'll have made 100 extra calls. Work an extra hour a day because you don't go out partying with your friends, and you've got 6 weeks of work in a year over your colleagues. That's six extra weeks of learning.
+
+When you consistently do more, the returns compound dramatically. Like superlinear growth curves, each extra bit of effort builds on previous overperformance. The key is that extra effort compounds - just as doing a bit less daily leads to compounding underperformance.s
 ## Failure
 Be wrong a lot.
 
@@ -107,6 +175,8 @@ Exploid both in a wa thats beneficial for yourself and others.
 ## Love
 Love the process of doing what you doing!
 
+Put love at the center of your work.
+
 ## Mastery
 You become good because you are committed to get better each and every day.
 
@@ -121,8 +191,13 @@ Assign mentors from different places - they don't need to know about it.
 
 Exercise Ethik - Lebron James.
 
+### Alter ego
+Create an alter ego/ a higher self that guides you through your tasks.
 
+## Motivation
 
+### Tools
+[Record Reflection](../Tools/RecordReflection.md)
 ## Mindset
 Improvement is always possible
 ## Next step
@@ -134,6 +209,8 @@ If you’re writing a book, focus on writing the best paragraph and not the enti
 
 ## Oportunities
 I'm not waiting for opportunities, I am taking action to create them.
+## Plateau
+“The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
 
 ## Positioning
 Giving yourself options for the future always appears unconfortable in the current moment. Putting yourself in a better position for tomorrow means doing something hard today. This can mean a lower return, living below your means or working hard when everyone else is having fun.
@@ -157,6 +234,7 @@ Nobody knows in the moment that they are on the right path
 
 ## Progress
 We need to measure our results. Thing we measure are the thing we improve.
+Make your progress visible.
 
 Measure your progress
 - ... days in a row
@@ -180,10 +258,53 @@ Say no to everything, that is not essential or
 In the beginning move fast and take high risk. 
 Later in the project slower and take less risks - more methodicaly.
 
+Work on ambitious projects.
+Great work happens by focusing consistently on something you're genuinely interested in.
+
+Instead of, “I have to do this project,” say, “I get to do this project.”
+
+### Debrief
+Debrief after every mission/projects - allows to identify what went wrong and how I can improve
+
+### Define stepping stones
+How can I create a result every 3 days? How can I advance every 3 days?
+3-day-Rule
+
+### Focus
+Which part really moves the needle - what matters most right now?
+
 ### Perspective
 need to look at our projects from the perspective of a new potential customer and actually see what’s there.
 
 Does it make sense? Can you predict what’s going to happen when you click that button or open that menu? Is there sufficient feedback to know if the click or tap worked? Is it fast enough? If I read the email on my phone and click the link, is it broken?
+
+### Plan
+You start with the end deadline and than work backwards and plan each phase of the project
+
+### Revise
+The best work comes from having the time to make improvements after the first version is done.
+Use extra time to revise project.
+
+### What could go wrong?
+Envision what could go wrong - what will go wrong - in advance, before starting.
+Why?
+
+### Reflections
+- What is your goal? What is the outcome you hope to achieve?
+- What are potential obstacles that can stop us achieving the goal?
+    - For each obstacle: if ... then ..
+
+### User
+Go out and do something that makes another person feel good.
+
+all products are asking things of their customers: to do things in a certain way, to think of themselves in a certain way — and usually that means changing what one does or how one does it; it often means changing how one thinks of oneself.
+
+To get people to say yes to a request that large, we need to (1) offer them a reward big enough to justify their effort and (2) do an exceptional, near-perfect job of execution thinking about who we want our customers to become
+
+One way to aim high is to try to make something that people will care about in a hundred years
+
+- What is the user problem we try to solve?
+- Who do you want your customers to become?
 
 ## Purpose
 Listen to your heart.
@@ -297,7 +418,9 @@ Definition of success must include how much you helped others
 - What are other people not doing? What can I do of that?
 
 ## To-dos
+Attach reason to your task - why is doing this task benefit you? Why is it important?
 
+What is the task/obstacle when you take away any emotion or fear?
 ### Energy
 Manage your energy, not your time
 - What type of energy do you have in the morning? Afternoon? Evening?

@@ -1,3 +1,6 @@
+# Reflect
+
+Carve out 15 minutes at the end of each week to look back at what you've accomplished.
 
 
 ## Reflection questions
