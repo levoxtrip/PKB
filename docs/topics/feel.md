@@ -43,11 +43,17 @@ Stop let your emotions drive our behaviour.
 
 Emotions are your bodys reaction to your mind
 
+### Feeling attacked
+That what other people say to you has nothing to do with you.
+
 ## Forgive
 Forgive other people, not necessarily because they deserve it but because you deserve it.
 
 I decide to leave all the old relationships behind me. I decide to forgive.
+## Intrusive Thoughts
+Intrusive thoughts are simulations of the brain of a worst case scenarios to prepare us for them. Accessing risk and consequences.
 
+Accept that this is how you brain works to adapt to uncertain circumstances.
 ## Mind
 What we feel and think will determine what we experience - what we experience determines how we feel and think - never-ending-cycle
 
@@ -84,7 +90,19 @@ We all have a dark side, hidden agression, envy, aggressive impulses - channel t
 Don't ever be ashamed of anything you've done in your life. Face it, fix it, make it better.
 
 ## Stress
+Stress relief strategies are:
+- exercising
+- yoga, meditation, breathing
+- reading
+- listening to music
+- going for walk outside + go into nature
+- PMR
+- paint
+- video games
+- MBSR 
 
+### Eating
+When I don't eat enough my body gets stressed
 ## Surrender
 What is not servicing you let it go
 

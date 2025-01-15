@@ -336,6 +336,13 @@ May you life with ease
 
 #### Forgiveness
 Forgive yourself when you don't achieve what you wanted to reach.
+## Shadow
+Dance and play with your inner shadow.
+
+I love your inner shadow and tell it - I hear you 
+## Trauma
+The only way out is through. 
+You can't go around your trauma. You have to go through it. Live through it. You have to tap into that memories as hard as it is.
 
 ## Values
 We value things more that are hard to get.
