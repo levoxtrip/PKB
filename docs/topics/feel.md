@@ -47,7 +47,9 @@ Emotions are your bodys reaction to your mind
 Forgive other people, not necessarily because they deserve it but because you deserve it.
 
 I decide to leave all the old relationships behind me. I decide to forgive.
-
+## Light
+Be outside 45 min a day.
+Most light you get in the morning.
 ## Mind
 What we feel and think will determine what we experience - what we experience determines how we feel and think - never-ending-cycle
 
@@ -76,6 +78,10 @@ Whose voices are we internalising?
 
 Define your self perception by process and actions that you execute.
 
+### Self-criticism
+- What would you say to a good friend in the same situation?
+Now tell yourself the same thing.
+
 ## Shadow
 We all have a dark side, hidden agression, envy, aggressive impulses - channel these into something positive/pro social like organising something for people.
 
@@ -88,6 +94,16 @@ Don't ever be ashamed of anything you've done in your life. Face it, fix it, mak
 ## Surrender
 What is not servicing you let it go
 
+you are on a path of experience for the purpose of your own growth and evolution and healing.
+
 
 ## Struggles
+
 The most situations that seem negative in the beginning actually bring something positive within - something to learn.
+
+
+## Thoughts
+Our thoughts shape our world.
+Disidentify with your thoughts - your are not your thoughts. You are the observer.
+
+Pay attention to any repetitive thought patterns.

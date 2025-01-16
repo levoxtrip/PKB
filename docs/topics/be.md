@@ -213,7 +213,11 @@ Create an identity of a person that does certain things:
 
 ## Judgment
 Are you juding just the outside without looking whats inside?
+## Life
+In our life we all climb our own mountain. It's height is endless.
 
+Climb the mountain like syphilus smiling - make the struggle excite you. Enjoy it and take control over it. 
+The struggle alone is enough to fill my heart.
 ## Life Guidelines
 - Do what you love - build cool stuff
 - Be and act optimistic

@@ -9,6 +9,15 @@ Deepen your relationships.
 
 Stretch your social muscle - join new communities, make more friends.
 
+Meet new people.
+
+Your community will have an outsized impact on your life and who you will become.
+
+## Annoyance
+What annoys us from other people shows often traits we also possess but are not aware of.
+
+- Is there a trait in others that bothers me because I struggle with it?
+
 ## Companion
 See other people as companions not as competition.
 
@@ -23,6 +32,8 @@ Don't compare your life to others. There's no comparison between the sun and the
 "I realized with all these people I was jealous of, I couldn't just choose
 little aspects of their life. I couldn't say I want his body, i want her money, i want  his personality. You have to be that person. Do you want to acutally be that person with all of their reactions and their desires, their family, their happiness level, their outlook on life, their self-image?
 
+## Compassion
+- What could be the reason behind the persons actions or perspectives, that I might not be aware of?
 
 ## Meeting People
 Learn to be open towards people that you meet. Don't expect the worst from them.
@@ -53,3 +64,7 @@ Open up to the universe and be vulnerable
 Try things out that are contrairy to your beliefs, likings etc.
 ## Parents
 Your parents may be smothering and obnoxious, but they do it because they care about you and it's the only way they know how to show it.
+## Suround yourself
+Be intentional who you allow in your life. 
+People that lift you up. That inspire you to be a better version of yourself.
+Take the time for the people. 

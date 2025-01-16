@@ -113,6 +113,8 @@ People continue with 10 years already still trying to achieve things
 ## Daily
 If you don't work hard today you won't make it next year...
 
+Wake up and think about what fun, interesting things you gonna have ahead of you today.
+
 ## Decisions
 The hard choices that we most fear doing/asking/saying are very often exaclty what we most need to do - the biggest challenges and problems will never be solved with comfortable conversations wether with your own head or with other people.
 
@@ -416,6 +418,19 @@ Definition of success must include how much you helped others
 - What are your metrics of you being successful?
 - What is working? What is not?
 - What are other people not doing? What can I do of that?
+## Systems
+Make processes/systems for things that happen regularly.
+Create flowcharts with steps to execute.
+
+e.g. you are tired and unmotivated - here is the flowchart what you have to execute.
+I'm tired -> cold shower -> NSDR -> Wim Hof breathing
+
+
+Create systems or routines for recurring tasks. Automate repetitive processes, delegate when possible, and establish habits that make essential actions easier
+
+Write down what you need to do on a piece of paper. Then, write down every single step you need to take to make it happen. Finally, ignore everything except the step you’re working on.
+
+- how can I build systems for the days where im weak and tired
 
 ## To-dos
 Attach reason to your task - why is doing this task benefit you? Why is it important?
