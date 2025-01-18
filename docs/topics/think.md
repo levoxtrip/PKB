@@ -53,3 +53,6 @@ so I can serve more people. Interesting…
 ## Substraction
 When we see a problem we tend to add things instead of substracting things.
 Instead of trying to solve a problem by adding something - try to reduce something
+
+## The opposite
+What ever ideas you have or hear, the opposite may also be true.

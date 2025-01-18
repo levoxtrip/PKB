@@ -85,7 +85,9 @@ If you feel resistance before you begin, it's usually procrastination and you ne
 [Pre-GameRoutine](../Tools/PreGameRoutine.md)
 
 
-
+## Anticipation
+"Anticipate: Skate to where the puck is going to be - not where it's been"
+Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
 ## Challenge
 You miss 100% of the shots you don't take.
 
@@ -95,6 +97,15 @@ You always have to do uncomfortable things in a short term to get the good in th
 If something doesnt't work - you need to change something
 ## Career
 Identify the one skill that, if you developed it, would have the biggest impact on your career
+## Complacency
+The best way to avoid complacency is to challenge yourself - at work, at your hobbies, exercising.
+
+Trying to achieve something in sorter time with a deadline could be a challenge 
+
+Sometimes we get complacent because we do the same things every day - get out of your rut - change your routine
+work at a different place
+
+“The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
 ## Consitency
 Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
 
@@ -197,9 +208,33 @@ Exercise Ethik - Lebron James.
 Create an alter ego/ a higher self that guides you through your tasks.
 
 ## Motivation
+The anticipation of a pleasure might be even more improtant for motivation than the actual pleasure.
 
+Festivals always motivated me because of the fear of missing an opportunity.
+
+Pull up the stakes of your project to get motivated
+
+Lack of mental motivation is often linked with lack of movement.
 ### Tools
+[NSDR + Wim Hof](../Tools/NSDRWimHof.md)
+
 [Record Reflection](../Tools/RecordReflection.md)
+
+[VisualizeMotivation](../Tools/VisualizeMotivation.md)
+
+[Intermittent Rewards](../Tools/IntermRewards.md)
+
+[Watch Videos](../Tools/WatchVideos.md)
+
+
+### Reflection
+- What is your intrinsic motivation?
+- How does this task/thing bring me closer to my goal?
+- Are you working harder then yesterday?
+- What is your passion behind this?
+- How good can you get?
+- How far can I get?
+- Image Goggins or Lebron ask you: are you just meeting the requirements or are you giving all you can give?"
 ## Mindset
 Improvement is always possible
 ## Next step
@@ -211,8 +246,7 @@ If you’re writing a book, focus on writing the best paragraph and not the enti
 
 ## Oportunities
 I'm not waiting for opportunities, I am taking action to create them.
-## Plateau
-“The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
+
 
 ## Positioning
 Giving yourself options for the future always appears unconfortable in the current moment. Putting yourself in a better position for tomorrow means doing something hard today. This can mean a lower return, living below your means or working hard when everyone else is having fun.
