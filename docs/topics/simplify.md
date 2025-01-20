@@ -53,7 +53,27 @@ We often just see what we don't have instead of what we have.
 The life with less things is a better one - you feel more free.
 
 ## Reduction
-Getting red of something is painful, but most of the time you won't miss the thing once it is gone.
+Creating space is the secret step to freeing yourself from the oppression of your busy life.
+
+Space in your life comes from hacking at choice, time and access.
+
+Removal No.1:
+How can I make every decision at twice the speed?
+
+Fever choices mean faster decisions.
+
+Rules. Limits. Barriers. Creating mental brick walls to stop making decisions
+
+Removal No.2:
+Work expands so as to till the time available for its completion 
+
+you will simply never have enough time to do everything you want to do.
+
+Removal No.3:
+Block access
+Protect your brain. Guard it. Remove all entry points to your brain except 
+
+Getting rid of something is painful, but most of the time you won't miss the thing once it is gone.
 
 Give everything away that doesn't spark joy in you or that improve your life.
 When in doubt, just remove.
@@ -64,6 +84,9 @@ The things you own end up owning you.
 - Do I need this object?
 - Do I use this object?
 - Am I sure I will use this in the future?
+
+### Automate 
+What can you Automate so you never think about it again?
 
 ### Extremes
 - If a fire would burn down your house would you rescure this or something else?

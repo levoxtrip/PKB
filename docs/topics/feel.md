@@ -115,10 +115,40 @@ Stress relief strategies are:
 
 ### Eating
 When I don't eat enough my body gets stressed
+
 ## Surrender
 What is not servicing you let it go
 
 you are on a path of experience for the purpose of your own growth and evolution and healing.
+
+The voice in your head. The voice is something we listen to and think that it is us. But that voice is not you. You are the observer of the voice. You are not the thought because you are watching it.
+
+Something that you are watching not something that you are.
+
+When something comes into you that disturbes you you need to let go and pass it through you.
+When a problem show up and your mind starts with chatter the first reaction is to lean away form it and relax into awareness. 
+
+Every moment of life is a spiritual experience. 
+
+You are causing the vast majority of you problems due to your mental reaction. Lean away from the mess that the mind is doing. Of overexagerating, overexemplifing. 
+
+We have gone to the mind. and said i'm not ok. how does everything need to be to be ok. We are trying to create that sitation. It doesnt work but we dont know it jet. We try to create situations that make us think we gonna be ok. And we things are changing and they don't match that model. We get scared.
+
+Fear is a thing. It's another object in the universe that you are capable exeprencing. You either can push it away and avoid it or you can let go and let i go right through you.
+
+Life is a natural unfolding of reality. You are suppose to harmonise and work with it. And not give up. 
+
+See if that voice that you are watching is actually helpful.
+
+Remove the thorn you have inside of you. Disturbance is gonna show you the thorn you are having. What is happening is irritating the thorn.
+Something happens outside. Deal with the disturbance this is how you remove the thorn. The fact something outside is stimulating the disturbance inside of you you uncovered somthing inside of you that needs to come out. 
+
+We need to use our problems as a way through the spiritual path. You should be exicited about your problem. Because they are an opportunity to see what is going on inside of you. 
+What do i do when i feel disturbance? I relax.
+
+Look at your disturbances and see what your disturbances try to tell us about ourselves. The disturbances are you heart that something is wrong in side of you you want to get it out. 
+How do you get it out? You relax behind it. 
+
 
 
 ## Struggles

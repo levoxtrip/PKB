@@ -172,6 +172,24 @@ Every time you fail ask yourself:
 - What good Thing can I take out of this
 - Why did I miss the goal?
 - Why didn’t I see this thing the way I could have?
+## Goals
+Clear goals help to stay motivated and focused.
+
+aim high, and aim frequently. The math says so. Why argue With that?
+
+### Timeframe
+12-week time period is appropriate for most goals
+
+you must identify the actions involved in achieving each of these ‘macro’-goals
+
+Total hours per week Specific days The length of each goal-oriented work session A specific time window (e.g., from 8 a.m. to 9 a.m.) or a time constraint (e.g., before 9 a.m.) for the goal-oriented work session
+
+## Break it down in smaller parts
+Larger goals need breaking down into smaller milestones.
+"What should i do this year/month/week/day?"
+
+### Reflection
+- how do you want to feel while you are going after it?
 
 ## Growth
 Real growth means to expose yourself to different kind of challenges not just the same ones after each other.
@@ -237,6 +255,56 @@ Lack of mental motivation is often linked with lack of movement.
 - Image Goggins or Lebron ask you: are you just meeting the requirements or are you giving all you can give?"
 ## Mindset
 Improvement is always possible
+
+## Negotiation
+Prepare before the negotiation
+
+Have good body language
+
+Use the word 'fair'
+
+Understand the other sides needs is crucial.
+
+Be soft on the person, hard on the problem. Always treat your counterpart with dignity.
+
+Vocalise potential losses from no deal.
+
+get the other person’s point of view and see things from that person’s angle as well as from your own.
+
+If you want to get to your outcome let the other side go first.
+
+Give the other side the feeling it was their idea.
+
+Listen proactively to the other sides fear of loss - what can they lose
+
+intentionally getting the other party to say “no” substantially increases the success rate of a negotiation
+
+INTERESTS • What do I want here? • What does the other side want? (Pro tip: Consider interests of each key stakeholder) • What are the common interests?
+
+FACTUAL & FINANCIAL RESEARCH • What are market prices? • What do experts say? • What are cultural norms and legal constraints?
+
+OPTIONS • Brainstorm possible deal terms (list 6+ creative options).
+
+RAPPORT • How can I be hard on the problem and soft on the person? • How can I set the right tone from the start? • Roleplay With friends or family
+
+EMPATHY & ETHICS • How do things look from the other side? • How do they fit into their organization? What are the unique challenges of their role? • What might their ethical or spiritual considerations be?
+
+SETTING & SCHEDULING • Where and when will you negotiate? • How important is discretion? Should negotiations be held in private or public? • What, if any, deadline will you face?
+
+ALTERNATIVES TO AGREEMENT • What will you do if there's no deal? Knowing this will give you confidence to walk away. • Rank your alternative options.
+
+WHO • Who can help? • Whose agreement must I win? • Who might be a decision-maker outside of view? (Spouse, boss, etc.)
+
+INDEPENDENT CRITERIA • What are the objective benchmarks and industry standards? (Ex: Kelly Blue Book value) • These let you say. "Don't take my word for it; let's turn to something we both trust."
+
+TOPICS, TARGETS, & TRADEOFFS • Topics (List agenda items like salary, hours, vacation time, etc.) • Targets (For each topic, write down your best target and walk away target) • Tradeoffs (Prioritize your targets, so you're prepared if you need to make tradeoffs)
+
+
+### Books
+- Great Courses: The Art of Negotiating the Best Deal (Audible) by Seth Freeman
+- You Don't Get What You Deserve, You Get What You Negotiate by Chester Louis Karrass
+- Never Split the Difference by Chris Voss
+
 ## Next step
 Focus on the next step.
 

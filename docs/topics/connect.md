@@ -34,9 +34,24 @@ little aspects of their life. I couldn't say I want his body, i want her money, 
 
 ## Compassion
 - What could be the reason behind the persons actions or perspectives, that I might not be aware of?
+## Family
+You don't have nothing to do with the thoughts and ideas from your relatives.
 
+eat with your family without any distraction so you can have good and deep conversation
 ## Meeting People
 Learn to be open towards people that you meet. Don't expect the worst from them.
+
+Be genuinly interested in other people and their problems and lifes.
+
+Meet new people with a smile and an open heart.
+
+Remember the persons name.
+
+Encourage a person to talk about themselves - their victories, their experiences - don't stear the conversation to yourself.
+
+To be interesting by being interested in other people.
+
+Always make the other person feel important.
 
 ## Expectations
 Don't expect anything from other people.

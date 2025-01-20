@@ -48,6 +48,9 @@ Everything we do is desire to escape to discomfort - master internal triggers.
 
 all human actions and decisions originate in the pain-versus-pleasure principle
 
+### Reflection
+- How am I complicit in creating the conditions I say I don't want.
+
 ## Confidence
 Act and think confident.
 
