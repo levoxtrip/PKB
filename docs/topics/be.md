@@ -46,7 +46,31 @@ How we behave is based on how we react to internal and external triggers.
 
 Everything we do is desire to escape to discomfort - master internal triggers.
 
-all human actions and decisions originate in the pain-versus-pleasure principle
+all human actions and decisions originate in the pain-versus-pleasure principle.
+
+Be the change you wish to see in the world.
+
+### Build behaviours
+
+#### Notification
+Create notifications that remind you to ...
+
+#### Streaks
+Use the concept of a streak 
+Make it really obvious for how many days in a row you already do this behaviour
+
+Write down in notebook a chart of days 1-31 and and for every day you use a dot. If you don't the streak is broken
+
+### Stop behaviour
+Take a 30-day berak from whatever it is that you rely on for pleasure
+
+Place obstacles between you and your addictive behaviours
+
+What could you do instead o the i wont behaviour that might satisfy the same needs?
+If you weren’t doing the bad habit, what might you be doing instead?
+
+### Challenge
+Do a little bit every day. Do something for 30 days
 
 ### Reflection
 - How am I complicit in creating the conditions I say I don't want.

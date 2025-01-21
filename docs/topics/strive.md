@@ -177,12 +177,38 @@ Clear goals help to stay motivated and focused.
 
 aim high, and aim frequently. The math says so. Why argue With that?
 
+No matter how many external goals you achieve you keep setting more.
+
+It is not uncommon for people to spend their whole life waiting to start living One day I’ll make it.” Is your goal taking up so much of your attention that you reduce the present moment to a means to an end
+
 ### Timeframe
 12-week time period is appropriate for most goals
 
 you must identify the actions involved in achieving each of these ‘macro’-goals
 
 Total hours per week Specific days The length of each goal-oriented work session A specific time window (e.g., from 8 a.m. to 9 a.m.) or a time constraint (e.g., before 9 a.m.) for the goal-oriented work session
+
+### Quest
+Instead of goals set quests.
+Quest is an adventure and you expecct it to be one. You  expect it to take you into new and unfamiliar landscape with challenges and surprises and curious encoutners. 
+
+A quest is personally transformative – the endeavor itself shapes who you are, and what you’re capable of.
+
+A quest has a dragon to slay (and it’s inside you). From a distance, the dragon always seems unconquerable, yet the hero finds a way.
+
+### Reaching goals
+Often when you reach you goal not much changed. Even if you reach your life goal you won't happy automatically.
+
+### Setting goals
+- Decide precisely what you want.
+- Write this goal down. 
+- Set a deadline by which you plan to achieve it. 
+- List what you will need to do to achieve your goal. 
+- Turn the list into a plan. Organize it by priority and sequence.
+- Take action immediately. Do anything, but don’t hesitate.
+- Promise yourself to make some small step toward your goal each and every day
+
+Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.
 
 ## Break it down in smaller parts
 Larger goals need breaking down into smaller milestones.

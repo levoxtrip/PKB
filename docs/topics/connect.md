@@ -67,6 +67,10 @@ Give more than you expect getting from other people.
 
 Find ways to bring value to others and yoyur own results will be supercharged at a result.
 
+Focus on helping other people to achieve their goals and desires - serve the other people.
+
+Don't expect anything from other people and always give something to other people
+
 ### Tools
 [Act of random kindness](../Tools/ActOfRandomKindness.md)
 
@@ -79,6 +83,18 @@ Open up to the universe and be vulnerable
 Try things out that are contrairy to your beliefs, likings etc.
 ## Parents
 Your parents may be smothering and obnoxious, but they do it because they care about you and it's the only way they know how to show it.
+## Relationship
+The greatest catalyst for change in a relationship is complete acceptance of your partner, without needing to judge or change them in any way.
+
+If you want to be a better partner, ask yourself, what does a bad partner do?
+
+Don't ask what does the other person do for the relationship. Ask what do I do for the relationship? And what don't I do?
+
+Get the other persons point of view and see things from that persons angle as well as from yours.
+
+Always expect good intention from your partner and the people.
+
+There are at least two sides to every story and we have to be willing to listen to both.
 ## Suround yourself
 Be intentional who you allow in your life. 
 People that lift you up. That inspire you to be a better version of yourself.
