@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="generator" content="mkdocs-1.6.1, mkdocs-terminal-4.7.0">
+     
+     
+    <link rel="icon" type="image/png" sizes="192x192" href="../../img/android-chrome-192x192.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="../../img/android-chrome-512x512.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="../../img/apple-touch-icon.png" />
+<link rel="shortcut icon" type="image/png" sizes="48x48" href="../../img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="../../img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="../../img/favicon-32x32.png" />
+
+
+    
+ 
+<title>Strive - PKB</title>
+
+
+<link href="../../css/fontawesome/css/fontawesome.min.css" rel="stylesheet">
+<link href="../../css/fontawesome/css/solid.min.css" rel="stylesheet">
+<link href="../../css/normalize.css" rel="stylesheet">
+<link href="../../css/terminal.css" rel="stylesheet">
+<link href="../../css/theme.css" rel="stylesheet">
+<link href="../../css/theme.tile_grid.css" rel="stylesheet">
+<link href="../../css/theme.footer.css" rel="stylesheet">
+<!-- default color palette -->
+<link href="../../css/palettes/default.css" rel="stylesheet">
+
+<!-- page layout -->
+<style>
+/* initially set page layout to a one column grid */
+.terminal-mkdocs-main-grid {
+    display: grid;
+    grid-column-gap: 1.4em;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+}
+
+/*  
+*   when side navigation is not hidden, use a two column grid.  
+*   if the screen is too narrow, fall back to the initial one column grid layout.
+*   in this case the main content will be placed under the navigation panel. 
+*/
+@media only screen and (min-width: 70em) {
+    .terminal-mkdocs-main-grid {
+        grid-template-columns: 4fr 9fr;
+    }
+}</style>
+
+
+
+     
+    
+    
+
+    
+    <!-- search css support -->
+<link href="../../css/search/bootstrap-modal.css" rel="stylesheet">
+<!-- search scripts -->
+<script>
+    var base_url = "../..",
+    shortcuts = "{}";
+</script>
+<script src="../../js/jquery/jquery-1.10.1.min.js" defer></script>
+<script src="../../js/bootstrap/bootstrap.min.js" defer></script>
+<script src="../../js/mkdocs/base.js" defer></script>
+    
+    
+    
+    
+    <script src="../../search/main.js"></script>
+    
+
+    
+</head>
+
+<body class="terminal"><div class="container">
+    <div class="terminal-nav">
+        <header class="terminal-logo">
+            <div id="mkdocs-terminal-site-name" class="logo terminal-prompt"><a href="/" class="no-style">PKB</a></div>
+        </header>
+        
+        <nav class="terminal-menu">
+            
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                
+                <li property="itemListElement" typeof="ListItem">
+                    <a href="../.." class="menu-item " property="item" typeof="WebPage">
+                        <span property="name">Welcome</span>
+                    </a>
+                    <meta property="position" content="0">
+                </li>
+                
+                
+                
+                
+                
+                    
+                    
+
+
+<li property="itemListElement" typeof="ListItem">
+    <a href="#" class="menu-item" data-toggle="modal" data-target="#mkdocs_search_modal" property="item" typeof="SearchAction">
+        <i aria-hidden="true" class="fa fa-search"></i> <span property="name">Search</span>
+    </a>
+    <meta property="position" content="1">
+</li>
+                    
+            </ul>
+            
+        </nav>
+    </div>
+</div>
+        
+    <div class="container">
+        <div class="terminal-mkdocs-main-grid"><aside id="terminal-mkdocs-side-panel"><nav>
+  
+    <ul class="terminal-mkdocs-side-nav-items">
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../..">Welcome</a>
+        
+    
+    
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+        
+        
+
+        
+            
+    
+        
+        
+            
+            
+            <span class="
+        
+    
+
+    terminal-mkdocs-side-nav-item terminal-mkdocs-side-nav-section-no-index">Tools</span>
+        
+    
+    
+        
+      
+        
+            <ul class="terminal-mkdocs-side-nav-li-ul">
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/ActOfRandomKindness/">Act of Random Kindness</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/BreakingSpiralThinking/">Breaking spiral thinking</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/BuffetPrioTest/">Buffet Prio Test</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/Deadlines/">Deadlines</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/DeathbedTest/">Deathbed Test</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/DistractionLogging/">Distraction Logging</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/DistractionSurf/">Distraction Surf</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/EmotionalStateGratitude/">Emotional State of Enormous Gratitude</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/FocusBlocks/">Focus Block</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/HappinessJournal/">Happiness Journal</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/ImagineWhiteScreen/">Imagine white Screen</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/ImmerseNature/">Immerse in nature</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/IntermRewards/">Intermitten Rewards</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/NSDRWimHof/">NSDR + WimHof</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/Painting/">Painting</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/PositiveMantra/">Positive Mantra</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/PowerPosture/">Power Posture</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/PreGameRoutine/">Pre-game Routine</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/RecordReflection/">Record reflection</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/SelfAcceptanceList/">Self-Acceptance List</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/Smiling/">Smiling</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/StillBodyActiveMind/">Still Body Active Mind</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/StoreBox/">Store in Box</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/ThinkWalk/">Walk To Think</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/TimeLimittedAction/">Time limitted action</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/VisualizeMotivation/">Visualise Motivation</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/WatchVideos/">Watch Videos</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../../Tools/Winbox/">Winbox</a>
+        
+    
+    </li>
+            
+            
+    </ul>
+        
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+        
+        
+
+        
+            
+    
+        
+        <span class="
+        
+    
+
+    terminal-mkdocs-side-nav-item--active terminal-mkdocs-side-nav-section-no-index">Topics</span>
+    
+    
+        
+      
+        
+            <ul class="terminal-mkdocs-side-nav-li-ul">
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../ListAchievements/">List of my achievements</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../be/">Be</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../connect/">Connect</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../create/">Create</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../die/">Die</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../feel/">Feel</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../finance/">Finance</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../focus/">Focus</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../invest/">Invest</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../learn/">Learn</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../live/">live</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../love/">Love</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../move/">Move</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../reflect/">Reflect</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../relax/">Relax</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../simplify/">Simplify</a>
+        
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        <span class="
+
+    terminal-mkdocs-side-nav-item--active">Strive</span>
+    
+    </li>
+            
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="../think/">Think</a>
+        
+    
+    </li>
+            
+            
+    </ul>
+        
+    
+  </li>
+        
+    </ul>
+  
+</nav>
+</aside>
+            <main id="terminal-mkdocs-main-content">
+<section id="mkdocs-terminal-content">
+    <h2 id="action">Action</h2>
+<p>Do it for you. Not for others.</p>
+<p>Stop waiting for life to give you what you think you deserve and go out and make it happen.</p>
+<p>Creating as many opportunities as we could through purposefull action.</p>
+<p>Don't wait til tomorrow for what you can do today.</p>
+<p>Action creates <a href="../be/#confidence">confidence</a> and momentum.</p>
+<p>Every step you take is a step towards your goal.</p>
+<p>Consider the future consequences of your actions.</p>
+<p>The way we act in the world affects the way we think and feel about ourselves and thoughts and feelings change our behaviour</p>
+<p>„It’s all about action. Going out there, doing it and taking all your negative bullshit along for the ride. It’s never going to get any better, any easier or any more understandable. This is it, life is now and you’re never going to have a better moment than this.“</p>
+<h3 id="action-reflection">Action reflection</h3>
+<p><em>Before Action:</em>
+Will this action make the future easier or harder?
+What long/shortterm consequence has this action?
+What happens if you don't take action? What is the cost of inaction?
+<em>After Action Review</em>
+What did I intend to accomplish?
+What happened?
+Why did it happen that way? - root cause = the real reason something happened.
+What will I do next time for a better outcome (or to repeat my success)?
+Reflection allows you to distill experience into learning. Don't just "do," think about what you're doing and what you've done.</p>
+<h3 id="challenging-action">Challenging action</h3>
+<p>If action seems hard, narrow the gap between where you are and what you focus on</p>
+<p>See challenges as opportunities.</p>
+<h3 id="focus-on-process">Focus on process</h3>
+<p>Don't be overly concerned about the result of your actions - give full attention to the execution of the action itself.</p>
+<h3 id="inaction">Inaction</h3>
+<p>The cost of inaction is the status quo. If you're ok where you are, then you don't need to do anything. But if you want to get to the next level, you need to understand the cost of doing nothing.</p>
+<h3 id="move-fast-and-break-things">Move fast and break things</h3>
+<p>The faster you execute in situations with low stakes, the more successfull you can be.</p>
+<h3 id="mindset">Mindset</h3>
+<p>There is always something you can do to improve your current situation/position.</p>
+<p>Act with positive mindset.</p>
+<p>It is never going to get any better or easier.</p>
+<p>Your actions gonna make your dreams come true.</p>
+<h3 id="procrastination">Procrastination</h3>
+<p>If procrastinating, you have 2 ways to solve it: Make the pain of inaction &gt; Pain of action Make the pleasure of action &gt; Pleasure of inaction</p>
+<h3 id="reflections">Reflections</h3>
+<ul>
+<li>What can I do now to improve my situation?</li>
+<li>If not now when?</li>
+<li>What is the cost of inaction?</li>
+<li>What is the future impact of your current action?</li>
+<li>What is the most direct route to it?</li>
+<li>Would you stil do this if nobody knew?</li>
+<li>Why do you do it?</li>
+<li>What is the positive outcome?</li>
+<li>What opportunities lies in this action?</li>
+<li>Are you willing to actually do something, or are you just talk about it for the rest of your life.</li>
+<li>What can I change?</li>
+<li>What ONE thing can I do, such that by doing it, makes everything else easier or unnecessary?</li>
+<li>Am I taking action to grow? </li>
+<li>Am I taking action?</li>
+<li>Am I generating joy? </li>
+<li>Am I acting fearless and generative? </li>
+<li>Am meeting my standards?</li>
+<li>Am I committed?</li>
+</ul>
+<h3 id="resistance">Resistance</h3>
+<p>Nearly all of the friction in a task is at the beginning automate the early stages of your behavior. 
+If you feel resistance before you begin, it's usually procrastination and you need to get started If you feel resistance after you begin, it's usually feedback and you need to make adjustments It's not the being creative that is hard. What's hard is sitting down to be creative.</p>
+<h3 id="tools">Tools</h3>
+<p><a href="../../Tools/TimeLimittedAction/">Time Limited Action</a>
+<a href="../../Tools/PreGameRoutine/">Pre-GameRoutine</a></p>
+<h2 id="anticipation">Anticipation</h2>
+<p>"Anticipate: Skate to where the puck is going to be - not where it's been"
+Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are</p>
+<h2 id="challenge">Challenge</h2>
+<p>You miss 100% of the shots you don't take.</p>
+<p>You always have to do uncomfortable things in a short term to get the good in the long term</p>
+<h2 id="change">Change</h2>
+<p>If something doesnt't work - you need to change something</p>
+<h2 id="career">Career</h2>
+<p>Identify the one skill that, if you developed it, would have the biggest impact on your career</p>
+<h2 id="complacency">Complacency</h2>
+<p>The best way to avoid complacency is to challenge yourself - at work, at your hobbies, exercising.</p>
+<p>Trying to achieve something in sorter time with a deadline could be a challenge </p>
+<p>Sometimes we get complacent because we do the same things every day - get out of your rut - change your routine
+work at a different place</p>
+<p>“The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"</p>
+<h2 id="consitency">Consitency</h2>
+<p>Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.</p>
+<p>Get rather something done than nothing!!!</p>
+<p>Consitenly do the boring things when you don't feel like doing them</p>
+<p>The secret is to do few things for a long time.</p>
+<p>Stop trying to be spectacular. Start being consistent. Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones.</p>
+<p>The difference between great success and bitter failure is often found in consistently applying the fundamentals.</p>
+<p>People continue with 10 years already still trying to achieve things</p>
+<h2 id="daily">Daily</h2>
+<p>If you don't work hard today you won't make it next year...</p>
+<p>Wake up and think about what fun, interesting things you gonna have ahead of you today.</p>
+<h2 id="decisions">Decisions</h2>
+<p>The hard choices that we most fear doing/asking/saying are very often exaclty what we most need to do - the biggest challenges and problems will never be solved with comfortable conversations wether with your own head or with other people.</p>
+<h2 id="deathground">Deathground</h2>
+<p>You need to put yourself on deathground, have the sense or urgency  - the reality is that you can die tomorrow
+When urgency, deadlines, death is facing you, you fight 10 times harder </p>
+<p><a href="../../Tools/Deadlines/">Deadlines</a></p>
+<h2 id="discipline">Discipline</h2>
+<p>The journey of self discipline for self discovery</p>
+<h2 id="effort">Effort</h2>
+<p>Learning to access internal reward system from doing hard things and effort - you have to tell yourself this effort is great/pleasurable.
+Evoke dopamine from the friction and challenge.</p>
+<h2 id="exhaustion">Exhaustion</h2>
+<p>The 40% rule says that when you mind is saying you that you are to exhausted to do something then you reached 40% of your whole capacity. You just haven't accessed the other 60% that are inside of you.</p>
+<h2 id="extra">Extra</h2>
+<p>It can be hard to appreciate how much a little extra makes a big difference.</p>
+<p>Making five extra calls a day may seem small, but do that for a month, and you'll have made 100 extra calls. Work an extra hour a day because you don't go out partying with your friends, and you've got 6 weeks of work in a year over your colleagues. That's six extra weeks of learning.</p>
+<p>When you consistently do more, the returns compound dramatically. Like superlinear growth curves, each extra bit of effort builds on previous overperformance. The key is that extra effort compounds - just as doing a bit less daily leads to compounding underperformance.s</p>
+<h2 id="failure">Failure</h2>
+<p>Be wrong a lot.</p>
+<p>Exposing yourself to possible failure helps you to figure out how you can get better.</p>
+<p>You are going to fail if you want to maximize your potential!</p>
+<h3 id="fear-of-failure">Fear of failure</h3>
+<p>To reduce fear of failure focus on smallest action that moves you forward your goal/solving the problem.</p>
+<p>It is important to remember that failure is natural part of (creative) process. Failure can be an opportunity for growth and learning.</p>
+<h3 id="reflection">Reflection</h3>
+<p>Take a step back and analyse what went wrong.
+Every time you fail ask yourself:
+- What did I do wrong?
+- How can I improve it?
+- What should I do differently that would have produced a different result?
+- What can I learn from this failure?
+- What is in the failure that I can use
+-What can I learn from it?
+- What good Thing can I take out of this
+- Why did I miss the goal?
+- Why didn’t I see this thing the way I could have?</p>
+<h2 id="goals">Goals</h2>
+<p>Clear goals help to stay motivated and focused.</p>
+<p>aim high, and aim frequently. The math says so. Why argue With that?</p>
+<p>No matter how many external goals you achieve you keep setting more.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living One day I’ll make it.” Is your goal taking up so much of your attention that you reduce the present moment to a means to an end</p>
+<h3 id="timeframe">Timeframe</h3>
+<p>12-week time period is appropriate for most goals</p>
+<p>you must identify the actions involved in achieving each of these ‘macro’-goals</p>
+<p>Total hours per week Specific days The length of each goal-oriented work session A specific time window (e.g., from 8 a.m. to 9 a.m.) or a time constraint (e.g., before 9 a.m.) for the goal-oriented work session</p>
+<h3 id="quest">Quest</h3>
+<p>Instead of goals set quests.
+Quest is an adventure and you expecct it to be one. You  expect it to take you into new and unfamiliar landscape with challenges and surprises and curious encoutners. </p>
+<p>A quest is personally transformative – the endeavor itself shapes who you are, and what you’re capable of.</p>
+<p>A quest has a dragon to slay (and it’s inside you). From a distance, the dragon always seems unconquerable, yet the hero finds a way.</p>
+<h3 id="reaching-goals">Reaching goals</h3>
+<p>Often when you reach you goal not much changed. Even if you reach your life goal you won't happy automatically.</p>
+<h3 id="setting-goals">Setting goals</h3>
+<ul>
+<li>Decide precisely what you want.</li>
+<li>Write this goal down. </li>
+<li>Set a deadline by which you plan to achieve it. </li>
+<li>List what you will need to do to achieve your goal. </li>
+<li>Turn the list into a plan. Organize it by priority and sequence.</li>
+<li>Take action immediately. Do anything, but don’t hesitate.</li>
+<li>Promise yourself to make some small step toward your goal each and every day</li>
+</ul>
+<p>Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.</p>
+<h2 id="break-it-down-in-smaller-parts">Break it down in smaller parts</h2>
+<p>Larger goals need breaking down into smaller milestones.
+"What should i do this year/month/week/day?"</p>
+<h3 id="reflection_1">Reflection</h3>
+<ul>
+<li>how do you want to feel while you are going after it?</li>
+</ul>
+<h2 id="growth">Growth</h2>
+<p>Real growth means to expose yourself to different kind of challenges not just the same ones after each other.</p>
+<p>Do constantly what you don't like. Something what you are not comfortable with.</p>
+<p>Growth is usually painful to some degree. That’s because growth requires loss—a loss of your old values, your old behaviors, your old loves, your old identity. </p>
+<h2 id="identify-strength-and-weaknesses">Identify Strength and Weaknesses</h2>
+<p>Identify your weaknesses, find creative was to leverage your strengths.
+Exploid both in a wa thats beneficial for yourself and others.</p>
+<h2 id="love">Love</h2>
+<p>Love the process of doing what you doing!</p>
+<p>Put love at the center of your work.</p>
+<h2 id="mastery">Mastery</h2>
+<p>You become good because you are committed to get better each and every day.</p>
+<p>Diversify your skills?</p>
+<h2 id="mentor">Mentor</h2>
+<p>Pick someone you really respect, be a sponge, be obsessed and see what they do, learn everything they do - what did they do, how did they do it, why did they do it.</p>
+<p>Answer your questions in a way your mentor would answer it.</p>
+<p>Assign mentors from different places - they don't need to know about it.</p>
+<p>Exercise Ethik - Lebron James.</p>
+<h3 id="alter-ego">Alter ego</h3>
+<p>Create an alter ego/ a higher self that guides you through your tasks.</p>
+<h2 id="motivation">Motivation</h2>
+<p>The anticipation of a pleasure might be even more improtant for motivation than the actual pleasure.</p>
+<p>Festivals always motivated me because of the fear of missing an opportunity.</p>
+<p>Pull up the stakes of your project to get motivated</p>
+<p>Lack of mental motivation is often linked with lack of movement.</p>
+<h3 id="tools_1">Tools</h3>
+<p><a href="../../Tools/NSDRWimHof/">NSDR + Wim Hof</a></p>
+<p><a href="../../Tools/RecordReflection/">Record Reflection</a></p>
+<p><a href="../../Tools/VisualizeMotivation/">VisualizeMotivation</a></p>
+<p><a href="../../Tools/IntermRewards/">Intermittent Rewards</a></p>
+<p><a href="../../Tools/WatchVideos/">Watch Videos</a></p>
+<h3 id="reflection_2">Reflection</h3>
+<ul>
+<li>What is your intrinsic motivation?</li>
+<li>How does this task/thing bring me closer to my goal?</li>
+<li>Are you working harder then yesterday?</li>
+<li>What is your passion behind this?</li>
+<li>How good can you get?</li>
+<li>How far can I get?</li>
+<li>Image Goggins or Lebron ask you: are you just meeting the requirements or are you giving all you can give?"</li>
+</ul>
+<h2 id="mindset_1">Mindset</h2>
+<p>Improvement is always possible</p>
+<h2 id="negotiation">Negotiation</h2>
+<p>Prepare before the negotiation</p>
+<p>Have good body language</p>
+<p>Use the word 'fair'</p>
+<p>Understand the other sides needs is crucial.</p>
+<p>Be soft on the person, hard on the problem. Always treat your counterpart with dignity.</p>
+<p>Vocalise potential losses from no deal.</p>
+<p>get the other person’s point of view and see things from that person’s angle as well as from your own.</p>
+<p>If you want to get to your outcome let the other side go first.</p>
+<p>Give the other side the feeling it was their idea.</p>
+<p>Listen proactively to the other sides fear of loss - what can they lose</p>
+<p>intentionally getting the other party to say “no” substantially increases the success rate of a negotiation</p>
+<p>INTERESTS • What do I want here? • What does the other side want? (Pro tip: Consider interests of each key stakeholder) • What are the common interests?</p>
+<p>FACTUAL &amp; FINANCIAL RESEARCH • What are market prices? • What do experts say? • What are cultural norms and legal constraints?</p>
+<p>OPTIONS • Brainstorm possible deal terms (list 6+ creative options).</p>
+<p>RAPPORT • How can I be hard on the problem and soft on the person? • How can I set the right tone from the start? • Roleplay With friends or family</p>
+<p>EMPATHY &amp; ETHICS • How do things look from the other side? • How do they fit into their organization? What are the unique challenges of their role? • What might their ethical or spiritual considerations be?</p>
+<p>SETTING &amp; SCHEDULING • Where and when will you negotiate? • How important is discretion? Should negotiations be held in private or public? • What, if any, deadline will you face?</p>
+<p>ALTERNATIVES TO AGREEMENT • What will you do if there's no deal? Knowing this will give you confidence to walk away. • Rank your alternative options.</p>
+<p>WHO • Who can help? • Whose agreement must I win? • Who might be a decision-maker outside of view? (Spouse, boss, etc.)</p>
+<p>INDEPENDENT CRITERIA • What are the objective benchmarks and industry standards? (Ex: Kelly Blue Book value) • These let you say. "Don't take my word for it; let's turn to something we both trust."</p>
+<p>TOPICS, TARGETS, &amp; TRADEOFFS • Topics (List agenda items like salary, hours, vacation time, etc.) • Targets (For each topic, write down your best target and walk away target) • Tradeoffs (Prioritize your targets, so you're prepared if you need to make tradeoffs)</p>
+<h3 id="books">Books</h3>
+<ul>
+<li>Great Courses: The Art of Negotiating the Best Deal (Audible) by Seth Freeman</li>
+<li>You Don't Get What You Deserve, You Get What You Negotiate by Chester Louis Karrass</li>
+<li>Never Split the Difference by Chris Voss</li>
+</ul>
+<h2 id="next-step">Next step</h2>
+<p>Focus on the next step.</p>
+<p>If you’re writing a book, focus on writing the best paragraph and not the entire book. If you’re playing sports, focus on the next play and not winning the game. If you’re starting a company, focus on delighting one customer. Or, if you’re my kids, don’t focus on the pile of T-shirts to be folded, focus on one shirt.
+<strong>Focus on a small but critical part of the task that moves you forward. Execute. Repeat</strong></p>
+<h2 id="oportunities">Oportunities</h2>
+<p>I'm not waiting for opportunities, I am taking action to create them.</p>
+<h2 id="positioning">Positioning</h2>
+<p>Giving yourself options for the future always appears unconfortable in the current moment. Putting yourself in a better position for tomorrow means doing something hard today. This can mean a lower return, living below your means or working hard when everyone else is having fun.</p>
+<p>"Poor positioning kills more dreams than poor decisions."</p>
+<p>Master your circumstances rather than be mastered by them. </p>
+<p>the best way to put yourself in a good position is with good preparation</p>
+<h2 id="process">Process</h2>
+<p>Fall in love with the process of doing things - not just finishing.</p>
+<p>It's not about the goal - it's about the process of getting there.</p>
+<p>That hit song? Years of practice, countless unheard tracks. <br />
+The championship athlete? Countless hours of unseen training. <br />
+The successful entrepreneur? Working on a Friday night, again.</p>
+<p>Nobody knows in the moment that they are on the right path </p>
+<h2 id="progress">Progress</h2>
+<p>We need to measure our results. Thing we measure are the thing we improve.
+Make your progress visible.</p>
+<p>Measure your progress
+- ... days in a row
+- 15/25 min increments</p>
+<h3 id="tools_2">Tools</h3>
+<p><a href="../../Tools/Winbox/">Win Box</a></p>
+<h2 id="prioritize">Prioritize</h2>
+<p>which 20% of my actions bring me 80% of the results?</p>
+<p>Focus on fewer things - it’s defining the few things that can really fundamentally change your business and life.</p>
+<p>Your productivity vanishes with the maount of things you focus on a day - the more projects a day the worse the productivity due to context switching.</p>
+<p>Say no to everything, that is not essential or </p>
+<p><a href="../../Tools/BuffetPrioTest/">Buffet Prio Test</a></p>
+<h2 id="projects">Projects</h2>
+<p>In the beginning move fast and take high risk. 
+Later in the project slower and take less risks - more methodicaly.</p>
+<p>Work on ambitious projects.
+Great work happens by focusing consistently on something you're genuinely interested in.</p>
+<p>Instead of, “I have to do this project,” say, “I get to do this project.”</p>
+<h3 id="debrief">Debrief</h3>
+<p>Debrief after every mission/projects - allows to identify what went wrong and how I can improve</p>
+<h3 id="define-stepping-stones">Define stepping stones</h3>
+<p>How can I create a result every 3 days? How can I advance every 3 days?
+3-day-Rule</p>
+<h3 id="focus">Focus</h3>
+<p>Which part really moves the needle - what matters most right now?</p>
+<h3 id="perspective">Perspective</h3>
+<p>need to look at our projects from the perspective of a new potential customer and actually see what’s there.</p>
+<p>Does it make sense? Can you predict what’s going to happen when you click that button or open that menu? Is there sufficient feedback to know if the click or tap worked? Is it fast enough? If I read the email on my phone and click the link, is it broken?</p>
+<h3 id="plan">Plan</h3>
+<p>You start with the end deadline and than work backwards and plan each phase of the project</p>
+<h3 id="revise">Revise</h3>
+<p>The best work comes from having the time to make improvements after the first version is done.
+Use extra time to revise project.</p>
+<h3 id="what-could-go-wrong">What could go wrong?</h3>
+<p>Envision what could go wrong - what will go wrong - in advance, before starting.
+Why?</p>
+<h3 id="reflections_1">Reflections</h3>
+<ul>
+<li>What is your goal? What is the outcome you hope to achieve?</li>
+<li>What are potential obstacles that can stop us achieving the goal?<ul>
+<li>For each obstacle: if ... then ..</li>
+</ul>
+</li>
+</ul>
+<h3 id="user">User</h3>
+<p>Go out and do something that makes another person feel good.</p>
+<p>all products are asking things of their customers: to do things in a certain way, to think of themselves in a certain way — and usually that means changing what one does or how one does it; it often means changing how one thinks of oneself.</p>
+<p>To get people to say yes to a request that large, we need to (1) offer them a reward big enough to justify their effort and (2) do an exceptional, near-perfect job of execution thinking about who we want our customers to become</p>
+<p>One way to aim high is to try to make something that people will care about in a hundred years</p>
+<ul>
+<li>What is the user problem we try to solve?</li>
+<li>Who do you want your customers to become?</li>
+</ul>
+<h2 id="purpose">Purpose</h2>
+<p>Listen to your heart.</p>
+<p>Find the thing that ignites your curiosity and drive.</p>
+<p>Purpose gives power to endure the suffering.
+Purpose gives you filter to cutout choices:
+- is doing this useful for my purpose?
+- is drinking/eating this useful for my purpose?
+- is buying this useful for my purpose?</p>
+<p>Number one purpose in life is to better oneself. Why am I not doing this for myself?</p>
+<p>If you don't want to do something, you don't care enough about yourself.</p>
+<p>Find what you'd die for and then live for it.</p>
+<p>If you end up doing what you love the money will come.</p>
+<p>Realise your uniqueness:
+- Why are you special?
+- What are you uniquely here to do on this planet? What are you meant to do?
+- What makes you different?</p>
+<p>What is it you want to do with your life? Then every decision you make from here on out should be in service of that</p>
+<h3 id="reflection_3">Reflection</h3>
+<ul>
+<li>Why am I here?</li>
+<li>Am I to afraid to do what I really want?</li>
+<li>To whom can I be of service?</li>
+<li>What is most meaningful for you?</li>
+<li>What is your life about?</li>
+<li>What is the pain you enjoy that most people don't tolerate?</li>
+<li>What does the world need?</li>
+<li>Is there joy, ease and lightness in what I am doing?</li>
+<li>Would you keep on doing it if nobody would be watching or can see your results?</li>
+<li>What do you bring other people?</li>
+</ul>
+<h2 id="rewards">Rewards</h2>
+<p>Don't fall for short term rewards.</p>
+<p>You got to earn the fruits you want from your work - nothing will ever give to you.</p>
+<h3 id="intermittent-reinforcement">Intermittent reinforcement</h3>
+<p>Delivery of a reward at irregular intervals has been determined to yield the greatest effort form the subject</p>
+<p>Reinforce behaviour at unpredictable intervals, rather then regularly</p>
+<p>Use random, intermittent rewards (like a slot machine) to maintain motivation. After your goal work, flip a coin: heads = reward vs. tails = no reward. #Toolbox </p>
+<p>On a reward day, try using positive self-talk. Do it for 30-60 seconds to reinforce the neural circuits associated with internal motivation. Treat yourself to a physical reward from time to time. For example, watch a movie or eat a food you enjoy!</p>
+<h3 id="rewards_1">Rewards</h3>
+<ul>
+<li>Enjoy a favorite snack</li>
+<li>Read a chapter of a book</li>
+<li>Spend time meditating</li>
+<li>Take a short break</li>
+<li>Have a relaxing bath</li>
+<li>Call a friend or family member</li>
+</ul>
+<h2 id="serve">Serve</h2>
+<p>The point of all of this is to make the world not just yourself a better place</p>
+<h2 id="success">Success</h2>
+<p>You only can compete with yourself - is this the best I can/could do today? Have I gone further today than yesterday? The only competition that makes sense - challenge your self.</p>
+<p>The only focus should be on getting better at what you're doing. Focus on what you are doing. Get better at what are you doing. Everything else is a waste of time.</p>
+<p>Success happens on the long run.</p>
+<p>Set your life/environment up to your obsessions.</p>
+<p>Be true to your strength - but also work on your weaknesses.</p>
+<p>Do the work. Over and over again - just do the work.</p>
+<p>You really want to be great at something, you have to truly care about it.</p>
+<p>We think some outward success is gonna change something inside but it’s not! It may make live more comfortable but it doesn’t change who we are Any hole in ourself is not get filled by success</p>
+<p>key to success is not doing more it is few things really well</p>
+<h3 id="habits-and-skills-to-live-a-successful-life">Habits and skills to live a successful life</h3>
+<ol>
+<li>skill and habit to manage your state and emotional actions and reactions </li>
+<li>Knowing what people need in general - and knowing and what you need in particular </li>
+<li>People skills : how to see things from other peoples point of view and how to communicate from their view </li>
+<li>Ability to focus, learn, practise, apply what you learn </li>
+</ol>
+<h3 id="do-ordinary-things">Do ordinary things</h3>
+<p>Ordinary people can do extraordinary things by choosing to be what most people are unwilling to be: consistent, hardworking, patient, and determined.</p>
+<h3 id="measurement-of-success">Measurement of Success</h3>
+<p>It's in how you choose to measure success. I don't measure my success by displays of monetary wealth. I prefer to measure it base on social and global impact.</p>
+<p>We must take care in choosing the way in which we measure success because the metrics we choose will determine all of our actions and beliefs.</p>
+<p>You get to choose how you measure success.</p>
+<p>Take a moment and set up Happiness Hypotheticals with some of your biggest drives and desires in your life and see what answer comes up.</p>
+<p>“Would you rather be rich and work a job you hate, or have an average income and work a job you love?”</p>
+<p>“Would I rather be read by a massive audience for something I don’t care writing about, or a smaller audience for something I do care writing about?”</p>
+<p>Definition of success must include how much you helped others </p>
+<h3 id="reflection_4">Reflection</h3>
+<ul>
+<li>What are your metrics of you being successful?</li>
+<li>What is working? What is not?</li>
+<li>What are other people not doing? What can I do of that?</li>
+</ul>
+<h2 id="systems">Systems</h2>
+<p>Make processes/systems for things that happen regularly.
+Create flowcharts with steps to execute.</p>
+<p>e.g. you are tired and unmotivated - here is the flowchart what you have to execute.
+I'm tired -&gt; cold shower -&gt; NSDR -&gt; Wim Hof breathing</p>
+<p>Create systems or routines for recurring tasks. Automate repetitive processes, delegate when possible, and establish habits that make essential actions easier</p>
+<p>Write down what you need to do on a piece of paper. Then, write down every single step you need to take to make it happen. Finally, ignore everything except the step you’re working on.</p>
+<ul>
+<li>how can I build systems for the days where im weak and tired</li>
+</ul>
+<h2 id="to-dos">To-dos</h2>
+<p>Attach reason to your task - why is doing this task benefit you? Why is it important?</p>
+<p>What is the task/obstacle when you take away any emotion or fear?</p>
+<h3 id="energy">Energy</h3>
+<p>Manage your energy, not your time
+- What type of energy do you have in the morning? Afternoon? Evening?
+Determine what tasks each energy level and time of day are best suited for</p>
+<h2 id="work">Work</h2>
+<p>Single task focus</p>
+<p>Remember the people you doing this for / the mission. No matter what your job, find a way to remind yourself that someone needs you, and the work is making their life better</p>
+<p>Manage your energy not your time. </p>
+<p>Put your phone away.</p>
+<p>Find what is intresting about the task.
+Create sense of urgency about the task.</p>
+<p>Schedule dedicated blocks of time at the same time every day to work.</p>
+<h3 id="reflections_2">Reflections</h3>
+<ul>
+<li>What has worked really good/bad today? Why?</li>
+<li>Can I optimise any of the processes at work?</li>
+</ul>
+</section>
+
+            </main>
+        </div>
+        <hr><footer>
+    <div class="terminal-mkdocs-footer-grid">
+        <div id="terminal-mkdocs-footer-copyright-info">
+            
+            <p class="text-center text-muted">&copy; 2024 <a href="https://github.com/levoxtrip" target="_blank" rel="noopener"> Leon Volbers</a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="levoxtrip" data-color="#40DCA5" data-emoji="😍"  data-font="Arial" data-text="Support this project" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></p>
+             Site built with <a href="http://www.mkdocs.org">MkDocs</a> and <a href="https://github.com/ntno/mkdocs-terminal">Terminal for MkDocs</a>.
+        </div>
+    </div>
+</footer>
+    </div>
+
+    
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="alertdialog" aria-modal="true" aria-labelledby="searchModalLabel">
+    <div class="modal-dialog modal-lg" role="search">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="searchModalLabel">Search</h5>
+                <button type="button" class="close btn btn-default btn-ghost" data-dismiss="modal"><span aria-hidden="true">x</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p id="searchInputLabel">Type to start searching</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" aria-labelledby="searchInputLabel" placeholder="" id="mkdocs-search-query" title="Please enter search terms here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No document matches found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    
+    
+</body>
+
+</html>
