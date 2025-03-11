@@ -1,9 +1,11 @@
 ## Action
 Do it for you. Not for others.
 
+Do less but with more attention and intensity.
+
 Stop waiting for life to give you what you think you deserve and go out and make it happen.
 
-Creating as many opportunities as we could through purposefull action.
+Creating as many opportunities as we could through purposeful action.
 
 Don't wait til tomorrow for what you can do today.
 
@@ -13,9 +15,11 @@ Every step you take is a step towards your goal.
 
 Consider the future consequences of your actions.
 
-The way we act in the world affects the way we think and feel about ourselves and thoughts and feelings change our behaviour
+The way we act in the world affects the way we think and feel about ourselves and thoughts and feelings change our behavior
 
 „It’s all about action. Going out there, doing it and taking all your negative bullshit along for the ride. It’s never going to get any better, any easier or any more understandable. This is it, life is now and you’re never going to have a better moment than this.“
+
+Spark to create activation energy - a necessary upfront cost.
 
 ### Action reflection
 *Before Action:*
@@ -88,10 +92,23 @@ If you feel resistance before you begin, it's usually procrastination and you ne
 ## Anticipation
 "Anticipate: Skate to where the puck is going to be - not where it's been"
 Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
+## Bravery
+Bravery feels like fear.
+## Business
+Find the contrast - better to dominate a small pond than drowning in an ocean.
+
+How can you solve the problems others have?
+
+## Certainty
+Reduce certainty and see how you life is.
+
 ## Challenge
 You miss 100% of the shots you don't take.
 
-You always have to do uncomfortable things in a short term to get the good in the long term
+You always have to do uncomfortable things in a short term to get the good in the long term.
+
+### Tools
+[Wakeup Challenge](../Tools/WakeUpChallenge.md)
 
 ## Change
 If something doesnt't work - you need to change something
@@ -106,12 +123,12 @@ Sometimes we get complacent because we do the same things every day - get out of
 work at a different place
 
 “The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
-## Consitency
+## Consistency
 Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
 
 Get rather something done than nothing!!!
 
-Consitenly do the boring things when you don't feel like doing them
+Consistently do the boring things when you don't feel like doing them
 
 The secret is to do few things for a long time.
 
@@ -119,7 +136,9 @@ Stop trying to be spectacular. Start being consistent. Moments don't make legend
 
 The difference between great success and bitter failure is often found in consistently applying the fundamentals.
 
-People continue with 10 years already still trying to achieve things
+People continue with 10 years already still trying to achieve things.
+
+stick relentlessly to what you want to achieve - but adapt how you achieve it.
 
 ## Daily
 If you don't work hard today you won't make it next year...
@@ -154,6 +173,8 @@ Be wrong a lot.
 Exposing yourself to possible failure helps you to figure out how you can get better.
 
 You are going to fail if you want to maximize your potential!
+
+Take the opposite approach. Instead of becoming discouraged and depressed by any kind of downturn, you must see this as a wake-up call, a challenge that you will transform into an opportunity for powe
 
 ### Fear of failure
 To reduce fear of failure focus on smallest action that moves you forward your goal/solving the problem.
@@ -209,7 +230,9 @@ Often when you reach you goal not much changed. Even if you reach your life goal
 - Promise yourself to make some small step toward your goal each and every day
 
 Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.
-
+### Reflection
+- What is preventing me from achieving my goals?
+- How do you guarantee failure?
 ## Break it down in smaller parts
 Larger goals need breaking down into smaller milestones.
 "What should i do this year/month/week/day?"
@@ -233,7 +256,8 @@ Exploid both in a wa thats beneficial for yourself and others.
 Love the process of doing what you doing!
 
 Put love at the center of your work.
-
+##  Luck
+You make your luck by following your instincts, taking risk and embracing every possibility.
 ## Mastery
 You become good because you are committed to get better each and every day.
 
@@ -338,7 +362,7 @@ If you’re writing a book, focus on writing the best paragraph and not the enti
 **Focus on a small but critical part of the task that moves you forward. Execute. Repeat**
 
 
-## Oportunities
+## Opportunities
 I'm not waiting for opportunities, I am taking action to create them.
 
 
@@ -369,6 +393,8 @@ Make your progress visible.
 Measure your progress
 - ... days in a row
 - 15/25 min increments
+
+Try to prove yourself wrong as quickly as possible leads to progress.
 
 ### Tools
 [Win Box](../Tools/Winbox.md)
@@ -473,7 +499,8 @@ What is it you want to do with your life? Then every decision you make from here
 - Is there joy, ease and lightness in what I am doing?
 - Would you keep on doing it if nobody would be watching or can see your results?
 - What do you bring other people?
-
+## Reliability
+Outperform people by being more reliable.
 ## Rewards
 Don't fall for short term rewards.
 
@@ -516,7 +543,11 @@ You really want to be great at something, you have to truly care about it.
 
 We think some outward success is gonna change something inside but it’s not! It may make live more comfortable but it doesn’t change who we are Any hole in ourself is not get filled by success
 
-key to success is not doing more it is few things really well
+key to success is not doing more it is few things really well.
+
+Success:
+- Build stuff you love
+- Creat win-win for all
 
 ### Habits and skills to live a successful life 
 1. skill and habit to manage your state and emotional actions and reactions 

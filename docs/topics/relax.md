@@ -9,5 +9,7 @@ Working without breaks and free time doesn't lead to more success in the long ru
 
 [Stress](./feel.md#stress) and relaxation need to be balanced.
 
+Working till exhaustion doesn't bring me much returns.
+
 ## Tools
 [Painting](../Tools/Painting.md)

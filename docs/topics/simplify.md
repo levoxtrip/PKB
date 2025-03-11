@@ -32,7 +32,8 @@ Wait 25 hrs before you buy it.
 - Why is your mind so focused on consuming right now?
 - Do you want to buy it to get dopamin?
 
-
+### Tools
+[30 days no](../Tools/30daysno.md)
 
 ## Craving
 Everything you crave is because you think it will give you a better state of mind/being in life.
@@ -51,6 +52,10 @@ We often just see what we don't have instead of what we have.
 
 ## Less
 The life with less things is a better one - you feel more free.
+
+Having less puts you in much more life situations.
+
+Say no to more things.
 
 ## Reduction
 Creating space is the secret step to freeing yourself from the oppression of your busy life.
@@ -79,11 +84,21 @@ Give everything away that doesn't spark joy in you or that improve your life.
 When in doubt, just remove.
 
 The things you own end up owning you.
-
+- is this essential?
 - Do I love this object?
 - Do I need this object?
 - Do I use this object?
 - Am I sure I will use this in the future?
+
+Give away what doesn not "spark joy" in your life.
+
+Why do I have this?
+
+Under what cirumstances am I using this? If no answer -> away.
+
+### Tools
+[Reduce to 100 things](../Tools/100thingsReduction.md)
+
 
 ### Automate 
 What can you Automate so you never think about it again?

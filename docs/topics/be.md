@@ -41,7 +41,7 @@ Life and the body try to stay balanced between pleasure and pain! Both sides cau
 
 Balance [confidence](#confidence) with humility.
 
-## Behaviour
+## Behavior
 How we behave is based on how we react to internal and external triggers.
 
 Everything we do is desire to escape to discomfort - master internal triggers.
@@ -245,6 +245,8 @@ In our life we all climb our own mountain. It's height is endless.
 
 Climb the mountain like syphilus smiling - make the struggle excite you. Enjoy it and take control over it. 
 The struggle alone is enough to fill my heart.
+
+Take and accept the life how it comes to you.
 ## Life Guidelines
 - Do what you love - build cool stuff
 - Be and act optimistic
@@ -258,10 +260,10 @@ The struggle alone is enough to fill my heart.
 - Constrain your life - having smallest amount of/ doing the simplest of
 ## Lifestyle
 Are you willing to pay the price for your lifestyle? The cost probably comes later.
-## Long vs. shortime
+## Long- vs. shorttime
 Be willing to delay short-term gratification in order to ahieve better long-term results.
 
-In short term you are good as your intensity. In long term you are good as your [consistency](strive.md#consitency)
+In short term you are good as your intensity. In long term you are good as your [consistency](strive.md#consistency)
 
 ## Non-Attachment
 Everytime you get scared of losing something try to move towards non-attachment.
@@ -274,7 +276,8 @@ Do you have a problem now?
 
 ### Reflection
 - Are you always focused on becoming, achieving, and attaining, or alternatively chasing some new thrill or pleasure?
-
+## Open
+Be open.
 ## Patience
 Good things need their time. Trust the process. Have pacience.
 
@@ -285,8 +288,12 @@ Two things define you. Your patience when you don't have much and the attitude w
 ## Perspective
 The problems and solutions we see in front of us depend on the lenses through which we view the world.
 
+Allow and consider opinions that are contrary to your world view. Don't take them personally.
+
 ## Positivity
 Create a mindset where you think everything is happening in your favour.
+
+Decide to be happier and more satisfied while you are hustling. Enjoy life and relax.
 
 If you can't do something, you can't do it YET. You are not bad at it. You just haven't done it enough times.
 ## Satisfaction
@@ -310,6 +317,8 @@ We all have our strength and weaknesses - Neither quality defines your core wort
 [Self Acceptance List](../Tools/SelfAcceptanceList.md)
 
 ## Self-Compassion
+Don't beat yourself up and stop expecting too much from you and all the people around you.
+
 Love should come from within instead of from outside. Loving yourself starts with liking yourself, which starts with respecting yourself, which starts with thinking of yourself in positive ways.
 
 The relationship you have with yourself is the most important relationship in your life.

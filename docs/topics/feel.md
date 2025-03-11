@@ -3,15 +3,16 @@ Feelings are signals/messages.
 
 If you have difficulty feeling your emotions start focusing your attention on the inner energy field in your body.
 
-Not expressing your emotions can ahve severe physiological problems.
+Not expressing your emotions can have severe physiological problems.
 
 
 ## Acceptance
+I am enough!
 Accept the present moment like you have chosen it to be like it is - unconditionally and without reservation
 
 Anything you accept fully will get you there, will take you into peace.
 
-Instead of surpressing unpleasant feelings, accept the feelings.
+Instead of suppressing unpleasant feelings, accept the feelings.
 
 Accept what you have and how your life is.
 
@@ -25,6 +26,33 @@ Low [self-esteem](be.md#self-loveesteem) and neglectful experiences with your fi
 ### Tools
 [Celebrate your Success](../Tools/CelebrateSuccess.md)
 [Positive Mantra](../Tools/PositiveMantra.md)
+## Anxiety
+How you handle anxiety is one of the most important qualities in your life.
+
+Often anxiety is a signal that there is a problem that you don't understand / can't resolve.
+
+You don't want to act when you are anxious.
+
+
+### Exposure
+Anxiety can also be a compass for where your biggest growth lies.
+
+Expose yourself to small anxiety educing situations and learn to manage the difficult feelings.
+
+In exposure therapy people are encouraged to directly confront their fears to recalibrating the perceptions
+
+
+
+### Reflection
+- What triggers anxiety in you? What caused your anxiety in the past?
+
+### Tools
+- Write down anxious thoughts on paper.
+- What is the smallest step/action I can take right now?
+- Reduce you media intake, no news, no social media for most of the week
+[Handling Emotional Problems](../Tools/HandlingEmotionalProblems.md)
+- [Movement](../Tools/Movement.md)
+
 
 ## Completeness
 To fill the hole of feeling uncomplete we enter the pursuit of ego gratification and strive after possesions, money, success or recognition - so we can feel better about ourselves. But even with these things the hole is still there. 
@@ -70,7 +98,7 @@ Our brains expectations are woven into everything we experience
 ## Pain
 To disidentify from the pain bring precence into the pain and transmute it.
 
-## Responisbilty
+## Responsibility
 I am the cause of all my problems and therefore I alone am responsible and capable of solving them.
 
 ## Self
