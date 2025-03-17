@@ -1,6 +1,8 @@
 ## Action
 Do it for you. Not for others.
 
+“Everything you do - with or without an audience - provides evidence to you about who you are and what you're capable of.”
+
 Stop waiting for life to give you what you think you deserve and go out and make it happen.
 
 Creating as many opportunities as we could through purposefull action.
@@ -88,6 +90,8 @@ If you feel resistance before you begin, it's usually procrastination and you ne
 ## Anticipation
 "Anticipate: Skate to where the puck is going to be - not where it's been"
 Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
+## Business
+Sell solutions to problems
 ## Challenge
 You miss 100% of the shots you don't take.
 
@@ -136,6 +140,8 @@ When urgency, deadlines, death is facing you, you fight 10 times harder
 [Deadlines](../Tools/Deadlines.md)
 
 ## Discipline
+If you are not disciplined in the little things, you won’t be disciplined in the big things.”
+
 The journey of self discipline for self discovery
 ## Effort
 Learning to access internal reward system from doing hard things and effort - you have to tell yourself this effort is great/pleasurable.
@@ -210,7 +216,7 @@ Often when you reach you goal not much changed. Even if you reach your life goal
 
 Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.
 
-## Break it down in smaller parts
+### Break it down in smaller parts
 Larger goals need breaking down into smaller milestones.
 "What should i do this year/month/week/day?"
 
@@ -239,6 +245,12 @@ You become good because you are committed to get better each and every day.
 
 Diversify your skills?
 
+## Meaning
+The meaning you give work determines its difficulty.
+
+A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
+
+Your relationship with the work shapes its weight more than the work itself.
 ## Mentor
 Pick someone you really respect, be a sponge, be obsessed and see what they do, learn everything they do - what did they do, how did they do it, why did they do it.
 
@@ -559,6 +571,7 @@ Create systems or routines for recurring tasks. Automate repetitive processes, d
 Write down what you need to do on a piece of paper. Then, write down every single step you need to take to make it happen. Finally, ignore everything except the step you’re working on.
 
 - how can I build systems for the days where im weak and tired
+## Time
 
 ## To-dos
 Attach reason to your task - why is doing this task benefit you? Why is it important?
@@ -584,6 +597,8 @@ Create sense of urgency about the task.
 
 Schedule dedicated blocks of time at the same time every day to work.
 
+### Tool
+Challenge yourself to find as many bugs a possible. every bug you earn something.
 
 ### Reflections
 - What has worked really good/bad today? Why?

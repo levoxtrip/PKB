@@ -5,6 +5,10 @@ You don't need more time; You need more focus.
 
 What we focus on determines what we feel.
 
+You don't need more time. You need more focus.
+
+Time isn't the constraint. Your choices are.
+
 ## Clear headspace
 Having a cluttered mind can hinder discipline and consitency. Organise your mind is crucial for maintaining discipline.
 
