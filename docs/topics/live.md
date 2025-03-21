@@ -17,6 +17,8 @@ To do anything. That’s freedom.
 
 To have everything. That’s happiness.
 
+Trust the messages of life instead of understanding them intellectually
+
 ## Challenges
 Whenever anything negative happens to you, there is a deep lesson concealed within it, although you may not see it at the time
 
@@ -78,3 +80,16 @@ Life is too short to do mediocre work and it is definitely too short to build sh
 - Have you done everything you wanted to do in your life?
 - If you had the ability to wave a magic wand and utterly change your life, how differently would it look?
 
+## Luxury
+The real luxuries in life are time and health.
+time health
+a quiet mind
+slow mornings
+ability to travel
+rest without guilt
+a good night's sleep
+calm and "boring" days
+meaningful conversations
+home-cooked meals
+people you love
+people who love you back

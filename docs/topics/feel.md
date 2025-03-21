@@ -112,6 +112,8 @@ Our brains expectations are woven into everything we experience
 
 To disidentify from the pain bring precence into the pain and transmute it.
 
+Engage with the pain by looking it in the eye.
+Observing it.
 ## Responsibility
 
 I am the cause of all my problems and therefore I alone am responsible and capable of solving them.

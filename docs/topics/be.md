@@ -207,6 +207,9 @@ True happiness comes from growth.
 The only way to happiness is through pain!!!
 What makes you happy is building and creating projects.
 
+The hardest truth about happiness is that it's a choice.
+
+
 Be fully engaged in your life.
 
 Everyday moments of tiny happiness matters more then big prices.

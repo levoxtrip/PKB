@@ -1,9 +1,10 @@
 ## Action
+"Every time I sat down at the computer to work on the program, I took a breath and remembered that I was writing this as a gift to the universe"
+
 
 Do it for you. Not for others.
-
+“Everything you do - with or without an audience - provides evidence to you about who you are and what you're capable of.”
 Do less but with more attention and intensity.
-
 Stop waiting for life to give you what you think you deserve and go out and make it happen.
 
 Creating as many opportunities as we could through purposeful action.
@@ -104,16 +105,14 @@ If you feel resistance before you begin, it's usually procrastination and you ne
 
 "Anticipate: Skate to where the puck is going to be - not where it's been"
 Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
-
 ## Bravery
-
 Bravery feels like fear.
-
 ## Business
-
 Find the contrast - better to dominate a small pond than drowning in an ocean.
 
 How can you solve the problems others have?
+First validate your idea with a landing page instead of building everything through.
+
 
 You need 10 years to build a proper business.
 
@@ -137,7 +136,6 @@ If you want to convince someone about something, don't focus on the advantages; 
 
 The most effective way of encouraging customers to purchase your product is to tell them how much money they are losing without
 ## Certainty
-
 Reduce certainty and see how you life is.
 
 ## Challenge
@@ -210,7 +208,6 @@ When urgency, deadlines, death is facing you, you fight 10 times harder
 [Deadlines](../Tools/Deadlines.md)
 
 ## Discipline
-
 The journey of self discipline for self discovery
 
 ## Effort
@@ -307,12 +304,9 @@ Often when you reach you goal not much changed. Even if you reach your life goal
 - Promise yourself to make some small step toward your goal each and every day
 
 Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.
-
 ### Reflection
-
 - What is preventing me from achieving my goals?
 - How do you guarantee failure?
-
 
 ## Break it down in smaller parts
 
@@ -352,6 +346,12 @@ You become good because you are committed to get better each and every day.
 
 Diversify your skills?
 
+## Meaning
+The meaning you give work determines its difficulty.
+
+A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
+
+Your relationship with the work shapes its weight more than the work itself.
 ## Mentor
 
 Pick someone you really respect, be a sponge, be obsessed and see what they do, learn everything they do - what did they do, how did they do it, why did they do it.
@@ -592,8 +592,6 @@ Listen to your heart.
 
 Find the thing that ignites your curiosity and drive.
 
-Work on something that captures the human imagination 
-
 Purpose gives power to endure the suffering.
 Purpose gives you filter to cutout choices:
 
@@ -633,7 +631,9 @@ What is it you want to do with your life? Then every decision you make from here
 ## Reliability
 
 Outperform people by being more reliable.
-
+## Responsibility
+you are responsible
+you have to change the choices you are making to get the results you want
 ## Results
 
 Every result you get is a delayed measure of your habit that you did before.
@@ -686,6 +686,8 @@ You really want to be great at something, you have to truly care about it.
 We think some outward success is gonna change something inside but it’s not! It may make live more comfortable but it doesn’t change who we are Any hole in ourself is not get filled by success
 
 key to success is not doing more it is few things really well.
+
+everyone who is successful worked hard over 10-20 years
 
 Success:
 
@@ -752,6 +754,7 @@ What can I stick to on my worst day.
 Write down what you need to do on a piece of paper. Then, write down every single step you need to take to make it happen. Finally, ignore everything except the step you’re working on.
 
 - how can I build systems for the days where im weak and tired
+## Time
 
 ## To-dos
 
@@ -786,6 +789,7 @@ Find what is intresting about the task.
 Create sense of urgency about the task.
 
 Schedule dedicated blocks of time at the same time every day to work.
+
 
 ### Reflections
 

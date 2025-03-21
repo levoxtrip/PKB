@@ -27,7 +27,8 @@ Test your knowledge
 If something is diffucult to execute or hard to comprehend its a sign of learning and making lasting improvements
 
 How can I challenge myself by using another tool/less code/more code/a diffrent object to achieve what I want
-
+## Deliberate disengagement
+Let mind drift after learning session
 ## Draw
 
 Draw charts/diagrams to enhance learning and improve understanding.
@@ -98,15 +99,22 @@ Work on a specific project. Pick a project that you are interested in and build 
 
 Assign to hackathons
 
+Learn something by directly building a project 
+
 ## Play
 
 Inject something playful to make the learning more fun.
+## Tutorial
+Watch Tutorials with full focus and mindfullness
+Note down steps by hand 
 
+Then try process yourself and only watch notes when you must. 
 ## Reflection
 
 We learn from the reflection/ active recall of the learned information.
 
 - What principles did I learn today?
+- How can this information be meaningful for you?
 
 ## Write
 
