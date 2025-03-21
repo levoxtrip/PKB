@@ -55,6 +55,11 @@ The only place where you can experience the flow of life is in the Now. So accep
 [What is changing](../Tools/NoticeChangingEnvironment.md)
 [Notice Changes](../Tools/NoticeChanges.md)
 
+## Vision
+Mental focus follows visual focus.
+
+To relax look far 
+
 
 
 ## Tools

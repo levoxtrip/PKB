@@ -1,4 +1,7 @@
 ## Action
+"Every time I sat down at the computer to work on the program, I took a breath and remembered that I was writing this as a gift to the universe"
+
+
 Do it for you. Not for others.
 “Everything you do - with or without an audience - provides evidence to you about who you are and what you're capable of.”
 Do less but with more attention and intensity.
@@ -21,11 +24,12 @@ The way we act in the world affects the way we think and feel about ourselves an
 Spark to create activation energy - a necessary upfront cost.
 
 ### Action reflection
-*Before Action:*
+
+_Before Action:_
 Will this action make the future easier or harder?
 What long/shortterm consequence has this action?
 What happens if you don't take action? What is the cost of inaction?
-*After Action Review*
+_After Action Review_
 What did I intend to accomplish?
 What happened?
 Why did it happen that way? - root cause = the real reason something happened.
@@ -33,18 +37,25 @@ What will I do next time for a better outcome (or to repeat my success)?
 Reflection allows you to distill experience into learning. Don't just "do," think about what you're doing and what you've done.
 
 ### Challenging action
+
 If action seems hard, narrow the gap between where you are and what you focus on
 
 See challenges as opportunities.
 
 ### Focus on process
+
 Don't be overly concerned about the result of your actions - give full attention to the execution of the action itself.
+
 ### Inaction
+
 The cost of inaction is the status quo. If you're ok where you are, then you don't need to do anything. But if you want to get to the next level, you need to understand the cost of doing nothing.
+
 ### Move fast and break things
+
 The faster you execute in situations with low stakes, the more successfull you can be.
 
 ### Mindset
+
 There is always something you can do to improve your current situation/position.
 
 Act with positive mindset.
@@ -54,11 +65,11 @@ It is never going to get any better or easier.
 Your actions gonna make your dreams come true.
 
 ### Procrastination
+
 If procrastinating, you have 2 ways to solve it: Make the pain of inaction > Pain of action Make the pleasure of action > Pleasure of inaction
 
-
-
 ### Reflections
+
 - What can I do now to improve my situation?
 - If not now when?
 - What is the cost of inaction?
@@ -71,51 +82,77 @@ If procrastinating, you have 2 ways to solve it: Make the pain of inaction > Pai
 - Are you willing to actually do something, or are you just talk about it for the rest of your life.
 - What can I change?
 - What ONE thing can I do, such that by doing it, makes everything else easier or unnecessary?
-- Am I taking action to grow? 
+- Am I taking action to grow?
 - Am I taking action?
-- Am I generating joy? 
-- Am I acting fearless and generative? 
+- Am I generating joy?
+- Am I acting fearless and generative?
 - Am meeting my standards?
 - Am I committed?
 
 ### Resistance
-Nearly all of the friction in a task is at the beginning automate the early stages of your behavior. 
+
+Nearly all of the friction in a task is at the beginning automate the early stages of your behavior.
 If you feel resistance before you begin, it's usually procrastination and you need to get started If you feel resistance after you begin, it's usually feedback and you need to make adjustments It's not the being creative that is hard. What's hard is sitting down to be creative.
 
-
 ### Tools
+
 [Time Limited Action](../Tools/TimeLimittedAction.md)
 [Pre-GameRoutine](../Tools/PreGameRoutine.md)
 
-
 ## Anticipation
+
 "Anticipate: Skate to where the puck is going to be - not where it's been"
 Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
+## Bravery
+Bravery feels like fear.
+## Business
+Find the contrast - better to dominate a small pond than drowning in an ocean.
+
+How can you solve the problems others have?
+
+### Products
+First validate your idea with a landing page instead of building everything through.
+## Certainty
+Reduce certainty and see how you life is.
+
 ## Challenge
+
 You miss 100% of the shots you don't take.
 
 You always have to do uncomfortable things in a short term to get the good in the long term.
 
 ### Tools
+
 [Wakeup Challenge](../Tools/WakeUpChallenge.md)
 
 ## Change
+
 If something doesnt't work - you need to change something
+
 ## Career
+
 Identify the one skill that, if you developed it, would have the biggest impact on your career
+
 ## Complacency
+
 The best way to avoid complacency is to challenge yourself - at work, at your hobbies, exercising.
 
-Trying to achieve something in sorter time with a deadline could be a challenge 
+Trying to achieve something in sorter time with a deadline could be a challenge
 
 Sometimes we get complacent because we do the same things every day - get out of your rut - change your routine
 work at a different place
 
 “The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
+
 ## Consistency
+
 Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
 
+Consistency is form of greatness.
+
 Get rather something done than nothing!!!
+
+1% better every day. A sustainable small thing over time.
 
 Consistently do the boring things when you don't feel like doing them
 
@@ -130,35 +167,44 @@ People continue with 10 years already still trying to achieve things.
 stick relentlessly to what you want to achieve - but adapt how you achieve it.
 
 ## Daily
+
 If you don't work hard today you won't make it next year...
 
 Wake up and think about what fun, interesting things you gonna have ahead of you today.
 
 ## Decisions
+
 The hard choices that we most fear doing/asking/saying are very often exaclty what we most need to do - the biggest challenges and problems will never be solved with comfortable conversations wether with your own head or with other people.
 
 ## Deathground
-You need to put yourself on deathground, have the sense or urgency  - the reality is that you can die tomorrow
-When urgency, deadlines, death is facing you, you fight 10 times harder 
+
+You need to put yourself on deathground, have the sense or urgency - the reality is that you can die tomorrow
+When urgency, deadlines, death is facing you, you fight 10 times harder
 
 [Deadlines](../Tools/Deadlines.md)
 
 ## Discipline
-If you are not disciplined in the little things, you won’t be disciplined in the big things.”
-
 The journey of self discipline for self discovery
+
 ## Effort
+
 Learning to access internal reward system from doing hard things and effort - you have to tell yourself this effort is great/pleasurable.
 Evoke dopamine from the friction and challenge.
+
 ## Exhaustion
+
 The 40% rule says that when you mind is saying you that you are to exhausted to do something then you reached 40% of your whole capacity. You just haven't accessed the other 60% that are inside of you.
+
 ## Extra
+
 It can be hard to appreciate how much a little extra makes a big difference.
 
 Making five extra calls a day may seem small, but do that for a month, and you'll have made 100 extra calls. Work an extra hour a day because you don't go out partying with your friends, and you've got 6 weeks of work in a year over your colleagues. That's six extra weeks of learning.
 
 When you consistently do more, the returns compound dramatically. Like superlinear growth curves, each extra bit of effort builds on previous overperformance. The key is that extra effort compounds - just as doing a bit less daily leads to compounding underperformance.s
+
 ## Failure
+
 Be wrong a lot.
 
 Exposing yourself to possible failure helps you to figure out how you can get better.
@@ -168,23 +214,28 @@ You are going to fail if you want to maximize your potential!
 Take the opposite approach. Instead of becoming discouraged and depressed by any kind of downturn, you must see this as a wake-up call, a challenge that you will transform into an opportunity for powe
 
 ### Fear of failure
+
 To reduce fear of failure focus on smallest action that moves you forward your goal/solving the problem.
 
 It is important to remember that failure is natural part of (creative) process. Failure can be an opportunity for growth and learning.
 
 ### Reflection
+
 Take a step back and analyse what went wrong.
 Every time you fail ask yourself:
+
 - What did I do wrong?
 - How can I improve it?
 - What should I do differently that would have produced a different result?
 - What can I learn from this failure?
 - What is in the failure that I can use
--What can I learn from it?
+  -What can I learn from it?
 - What good Thing can I take out of this
 - Why did I miss the goal?
 - Why didn’t I see this thing the way I could have?
+
 ## Goals
+
 Clear goals help to stay motivated and focused.
 
 aim high, and aim frequently. The math says so. Why argue With that?
@@ -194,6 +245,7 @@ No matter how many external goals you achieve you keep setting more.
 It is not uncommon for people to spend their whole life waiting to start living One day I’ll make it.” Is your goal taking up so much of your attention that you reduce the present moment to a means to an end
 
 ### Timeframe
+
 12-week time period is appropriate for most goals
 
 you must identify the actions involved in achieving each of these ‘macro’-goals
@@ -201,53 +253,66 @@ you must identify the actions involved in achieving each of these ‘macro’-go
 Total hours per week Specific days The length of each goal-oriented work session A specific time window (e.g., from 8 a.m. to 9 a.m.) or a time constraint (e.g., before 9 a.m.) for the goal-oriented work session
 
 ### Quest
+
 Instead of goals set quests.
-Quest is an adventure and you expecct it to be one. You  expect it to take you into new and unfamiliar landscape with challenges and surprises and curious encoutners. 
+Quest is an adventure and you expecct it to be one. You expect it to take you into new and unfamiliar landscape with challenges and surprises and curious encoutners.
 
 A quest is personally transformative – the endeavor itself shapes who you are, and what you’re capable of.
 
 A quest has a dragon to slay (and it’s inside you). From a distance, the dragon always seems unconquerable, yet the hero finds a way.
 
 ### Reaching goals
+
 Often when you reach you goal not much changed. Even if you reach your life goal you won't happy automatically.
 
 ### Setting goals
+
 - Decide precisely what you want.
-- Write this goal down. 
-- Set a deadline by which you plan to achieve it. 
-- List what you will need to do to achieve your goal. 
+- Write this goal down.
+- Set a deadline by which you plan to achieve it.
+- List what you will need to do to achieve your goal.
 - Turn the list into a plan. Organize it by priority and sequence.
 - Take action immediately. Do anything, but don’t hesitate.
 - Promise yourself to make some small step toward your goal each and every day
 
 Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.
-
+### Reflection
+- What is preventing me from achieving my goals?
+- How do you guarantee failure?
 ## Break it down in smaller parts
+
 Larger goals need breaking down into smaller milestones.
 "What should i do this year/month/week/day?"
 
 ### Reflection
+
 - how do you want to feel while you are going after it?
 
 ## Growth
+
 Real growth means to expose yourself to different kind of challenges not just the same ones after each other.
 
 Do constantly what you don't like. Something what you are not comfortable with.
 
-Growth is usually painful to some degree. That’s because growth requires loss—a loss of your old values, your old behaviors, your old loves, your old identity. 
-
+Growth is usually painful to some degree. That’s because growth requires loss—a loss of your old values, your old behaviors, your old loves, your old identity.
 
 ## Identify Strength and Weaknesses
+
 Identify your weaknesses, find creative was to leverage your strengths.
 Exploid both in a wa thats beneficial for yourself and others.
 
 ## Love
+
 Love the process of doing what you doing!
 
 Put love at the center of your work.
-##  Luck
+
+## Luck
+
 You make your luck by following your instincts, taking risk and embracing every possibility.
+
 ## Mastery
+
 You become good because you are committed to get better each and every day.
 
 Diversify your skills?
@@ -259,6 +324,7 @@ A coder working on a passion project works 12 hours straight and calls it energi
 
 Your relationship with the work shapes its weight more than the work itself.
 ## Mentor
+
 Pick someone you really respect, be a sponge, be obsessed and see what they do, learn everything they do - what did they do, how did they do it, why did they do it.
 
 Answer your questions in a way your mentor would answer it.
@@ -268,9 +334,11 @@ Assign mentors from different places - they don't need to know about it.
 Exercise Ethik - Lebron James.
 
 ### Alter ego
+
 Create an alter ego/ a higher self that guides you through your tasks.
 
 ## Motivation
+
 The anticipation of a pleasure might be even more improtant for motivation than the actual pleasure.
 
 Festivals always motivated me because of the fear of missing an opportunity.
@@ -278,7 +346,9 @@ Festivals always motivated me because of the fear of missing an opportunity.
 Pull up the stakes of your project to get motivated
 
 Lack of mental motivation is often linked with lack of movement.
+
 ### Tools
+
 [NSDR + Wim Hof](../Tools/NSDRWimHof.md)
 
 [Record Reflection](../Tools/RecordReflection.md)
@@ -289,8 +359,8 @@ Lack of mental motivation is often linked with lack of movement.
 
 [Watch Videos](../Tools/WatchVideos.md)
 
-
 ### Reflection
+
 - What is your intrinsic motivation?
 - How does this task/thing bring me closer to my goal?
 - Are you working harder then yesterday?
@@ -298,10 +368,18 @@ Lack of mental motivation is often linked with lack of movement.
 - How good can you get?
 - How far can I get?
 - Image Goggins or Lebron ask you: are you just meeting the requirements or are you giving all you can give?"
+
 ## Mindset
-Improvement is always possible
+
+Improvement is always possible.
+
+When dreaming - think big. When executing -think small.
+
+I let go of how I am perceived
+I let go of what I think others expect from me.
 
 ## Negotiation
+
 Prepare before the negotiation
 
 Have good body language
@@ -344,69 +422,76 @@ INDEPENDENT CRITERIA • What are the objective benchmarks and industry standard
 
 TOPICS, TARGETS, & TRADEOFFS • Topics (List agenda items like salary, hours, vacation time, etc.) • Targets (For each topic, write down your best target and walk away target) • Tradeoffs (Prioritize your targets, so you're prepared if you need to make tradeoffs)
 
-
 ### Books
+
 - Great Courses: The Art of Negotiating the Best Deal (Audible) by Seth Freeman
 - You Don't Get What You Deserve, You Get What You Negotiate by Chester Louis Karrass
 - Never Split the Difference by Chris Voss
 
 ## Next step
+
 Focus on the next step.
 
 If you’re writing a book, focus on writing the best paragraph and not the entire book. If you’re playing sports, focus on the next play and not winning the game. If you’re starting a company, focus on delighting one customer. Or, if you’re my kids, don’t focus on the pile of T-shirts to be folded, focus on one shirt.
 **Focus on a small but critical part of the task that moves you forward. Execute. Repeat**
 
-
 ## Opportunities
+
 I'm not waiting for opportunities, I am taking action to create them.
 
-
 ## Positioning
+
 Giving yourself options for the future always appears unconfortable in the current moment. Putting yourself in a better position for tomorrow means doing something hard today. This can mean a lower return, living below your means or working hard when everyone else is having fun.
 
 "Poor positioning kills more dreams than poor decisions."
 
-Master your circumstances rather than be mastered by them. 
+Master your circumstances rather than be mastered by them.
 
 the best way to put yourself in a good position is with good preparation
 
 ## Process
+
 Fall in love with the process of doing things - not just finishing.
 
 It's not about the goal - it's about the process of getting there.
 
-That hit song? Years of practice, countless unheard tracks.   
-The championship athlete? Countless hours of unseen training.   
+That hit song? Years of practice, countless unheard tracks.  
+The championship athlete? Countless hours of unseen training.  
 The successful entrepreneur? Working on a Friday night, again.
 
-Nobody knows in the moment that they are on the right path 
+Nobody knows in the moment that they are on the right path
 
 ## Progress
+
 We need to measure our results. Thing we measure are the thing we improve.
 Make your progress visible.
 
 Measure your progress
+
 - ... days in a row
 - 15/25 min increments
 
 Try to prove yourself wrong as quickly as possible leads to progress.
 
 ### Tools
+
 [Win Box](../Tools/Winbox.md)
 
 ## Prioritize
+
 which 20% of my actions bring me 80% of the results?
 
 Focus on fewer things - it’s defining the few things that can really fundamentally change your business and life.
 
 Your productivity vanishes with the maount of things you focus on a day - the more projects a day the worse the productivity due to context switching.
 
-Say no to everything, that is not essential or 
+Say no to everything, that is not essential or
 
 [Buffet Prio Test](../Tools/BuffetPrioTest.md)
 
 ## Projects
-In the beginning move fast and take high risk. 
+
+In the beginning move fast and take high risk.
 Later in the project slower and take less risks - more methodicaly.
 
 Work on ambitious projects.
@@ -415,37 +500,46 @@ Great work happens by focusing consistently on something you're genuinely intere
 Instead of, “I have to do this project,” say, “I get to do this project.”
 
 ### Debrief
+
 Debrief after every mission/projects - allows to identify what went wrong and how I can improve
 
 ### Define stepping stones
+
 How can I create a result every 3 days? How can I advance every 3 days?
 3-day-Rule
 
 ### Focus
+
 Which part really moves the needle - what matters most right now?
 
 ### Perspective
+
 need to look at our projects from the perspective of a new potential customer and actually see what’s there.
 
 Does it make sense? Can you predict what’s going to happen when you click that button or open that menu? Is there sufficient feedback to know if the click or tap worked? Is it fast enough? If I read the email on my phone and click the link, is it broken?
 
 ### Plan
+
 You start with the end deadline and than work backwards and plan each phase of the project
 
 ### Revise
+
 The best work comes from having the time to make improvements after the first version is done.
 Use extra time to revise project.
 
 ### What could go wrong?
+
 Envision what could go wrong - what will go wrong - in advance, before starting.
 Why?
 
 ### Reflections
+
 - What is your goal? What is the outcome you hope to achieve?
 - What are potential obstacles that can stop us achieving the goal?
-    - For each obstacle: if ... then ..
+  - For each obstacle: if ... then ..
 
 ### User
+
 Go out and do something that makes another person feel good.
 
 all products are asking things of their customers: to do things in a certain way, to think of themselves in a certain way — and usually that means changing what one does or how one does it; it often means changing how one thinks of oneself.
@@ -458,12 +552,16 @@ One way to aim high is to try to make something that people will care about in a
 - Who do you want your customers to become?
 
 ## Purpose
+
 Listen to your heart.
 
 Find the thing that ignites your curiosity and drive.
 
+What is your contribution to humanity, the earth?
+
 Purpose gives power to endure the suffering.
 Purpose gives you filter to cutout choices:
+
 - is doing this useful for my purpose?
 - is drinking/eating this useful for my purpose?
 - is buying this useful for my purpose?
@@ -477,6 +575,7 @@ Find what you'd die for and then live for it.
 If you end up doing what you love the money will come.
 
 Realise your uniqueness:
+
 - Why are you special?
 - What are you uniquely here to do on this planet? What are you meant to do?
 - What makes you different?
@@ -484,6 +583,7 @@ Realise your uniqueness:
 What is it you want to do with your life? Then every decision you make from here on out should be in service of that
 
 ### Reflection
+
 - Why am I here?
 - Am I to afraid to do what I really want?
 - To whom can I be of service?
@@ -494,34 +594,48 @@ What is it you want to do with your life? Then every decision you make from here
 - Is there joy, ease and lightness in what I am doing?
 - Would you keep on doing it if nobody would be watching or can see your results?
 - What do you bring other people?
+
 ## Reliability
+
 Outperform people by being more reliable.
+## Responsibility
+you are responsible
+you have to change the choices you are making to get the results you want
+## Results
+
+Every result you get is a delayed measure of your habit that you did before.
+
 ## Rewards
+
 Don't fall for short term rewards.
 
 You got to earn the fruits you want from your work - nothing will ever give to you.
 
 ### Intermittent reinforcement
+
 Delivery of a reward at irregular intervals has been determined to yield the greatest effort form the subject
 
 Reinforce behaviour at unpredictable intervals, rather then regularly
 
-Use random, intermittent rewards (like a slot machine) to maintain motivation. After your goal work, flip a coin: heads = reward vs. tails = no reward. #Toolbox 
+Use random, intermittent rewards (like a slot machine) to maintain motivation. After your goal work, flip a coin: heads = reward vs. tails = no reward. #Toolbox
 
 On a reward day, try using positive self-talk. Do it for 30-60 seconds to reinforce the neural circuits associated with internal motivation. Treat yourself to a physical reward from time to time. For example, watch a movie or eat a food you enjoy!
 
-
 ### Rewards
-* Enjoy a favorite snack
-* Read a chapter of a book
-* Spend time meditating
-* Take a short break
-* Have a relaxing bath
-* Call a friend or family member
+
+- Enjoy a favorite snack
+- Read a chapter of a book
+- Spend time meditating
+- Take a short break
+- Have a relaxing bath
+- Call a friend or family member
 
 ## Serve
+
 The point of all of this is to make the world not just yourself a better place
+
 ## Success
+
 You only can compete with yourself - is this the best I can/could do today? Have I gone further today than yesterday? The only competition that makes sense - challenge your self.
 
 The only focus should be on getting better at what you're doing. Focus on what you are doing. Get better at what are you doing. Everything else is a waste of time.
@@ -540,20 +654,26 @@ We think some outward success is gonna change something inside but it’s not! I
 
 key to success is not doing more it is few things really well.
 
+everyone who is successful worked hard over 10-20 years
+
 Success:
+
 - Build stuff you love
 - Creat win-win for all
 
-### Habits and skills to live a successful life 
-1. skill and habit to manage your state and emotional actions and reactions 
-2. Knowing what people need in general - and knowing and what you need in particular 
-3. People skills : how to see things from other peoples point of view and how to communicate from their view 
-4. Ability to focus, learn, practise, apply what you learn 
+### Habits and skills to live a successful life
+
+1. skill and habit to manage your state and emotional actions and reactions
+2. Knowing what people need in general - and knowing and what you need in particular
+3. People skills : how to see things from other peoples point of view and how to communicate from their view
+4. Ability to focus, learn, practise, apply what you learn
 
 ### Do ordinary things
+
 Ordinary people can do extraordinary things by choosing to be what most people are unwilling to be: consistent, hardworking, patient, and determined.
 
 ### Measurement of Success
+
 It's in how you choose to measure success. I don't measure my success by displays of monetary wealth. I prefer to measure it base on social and global impact.
 
 We must take care in choosing the way in which we measure success because the metrics we choose will determine all of our actions and beliefs.
@@ -566,21 +686,27 @@ Take a moment and set up Happiness Hypotheticals with some of your biggest drive
 
 “Would I rather be read by a massive audience for something I don’t care writing about, or a smaller audience for something I do care writing about?”
 
-Definition of success must include how much you helped others 
+Definition of success must include how much you helped others
 
 ### Reflection
+
 - What are your metrics of you being successful?
 - What is working? What is not?
 - What are other people not doing? What can I do of that?
+
 ## Systems
+
 Make processes/systems for things that happen regularly.
 Create flowcharts with steps to execute.
 
 e.g. you are tired and unmotivated - here is the flowchart what you have to execute.
 I'm tired -> cold shower -> NSDR -> Wim Hof breathing
 
-
 Create systems or routines for recurring tasks. Automate repetitive processes, delegate when possible, and establish habits that make essential actions easier
+
+The problem isn't you it's your systems.
+
+What can I stick to on my worst day.
 
 Write down what you need to do on a piece of paper. Then, write down every single step you need to take to make it happen. Finally, ignore everything except the step you’re working on.
 
@@ -588,21 +714,31 @@ Write down what you need to do on a piece of paper. Then, write down every singl
 ## Time
 
 ## To-dos
+
 Attach reason to your task - why is doing this task benefit you? Why is it important?
 
 What is the task/obstacle when you take away any emotion or fear?
-### Energy
-Manage your energy, not your time
-- What type of energy do you have in the morning? Afternoon? Evening?
-Determine what tasks each energy level and time of day are best suited for
 
+### Reflection
+
+- How is this task bringing you towards your purpose?
+- How can I make this task playful?
+- What is the smallest step?
+
+### Energy
+
+Manage your energy, not your time
+
+- What type of energy do you have in the morning? Afternoon? Evening?
+  Determine what tasks each energy level and time of day are best suited for
 
 ## Work
+
 Single task focus
 
 Remember the people you doing this for / the mission. No matter what your job, find a way to remind yourself that someone needs you, and the work is making their life better
 
-Manage your energy not your time. 
+Manage your energy not your time.
 
 Put your phone away.
 
@@ -611,9 +747,8 @@ Create sense of urgency about the task.
 
 Schedule dedicated blocks of time at the same time every day to work.
 
-### Tool
-Challenge yourself to find as many bugs a possible. every bug you earn something.
 
 ### Reflections
+
 - What has worked really good/bad today? Why?
 - Can I optimise any of the processes at work?
