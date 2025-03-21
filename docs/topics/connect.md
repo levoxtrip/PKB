@@ -67,6 +67,10 @@ Always make the other person feel important.
 
 Treat people as already trustworthy
 
+Let go of preconceived notions and prejudice and remain curious and open.
+
+Be ready to be surprised
+
 ## Expectations
 
 Don't expect anything from other people.

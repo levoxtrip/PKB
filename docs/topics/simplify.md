@@ -57,6 +57,9 @@ Having less puts you in much more life situations.
 
 Say no to more things.
 
+## No
+Learn to say no!
+
 ## Reduction
 Creating space is the secret step to freeing yourself from the oppression of your busy life.
 

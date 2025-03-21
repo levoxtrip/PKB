@@ -208,3 +208,5 @@ Our thoughts shape our world.
 Disidentify with your thoughts - your are not your thoughts. You are the observer.
 
 Pay attention to any repetitive thought patterns.
+
+

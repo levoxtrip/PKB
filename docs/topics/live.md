@@ -46,7 +46,18 @@ Loving someone is hard - being lonely is hard
 
 Life will never be easy. It will always be hard But we can choose our hard
 
-
+## Daily life
+Sleep
+Movement
+Enough breaks
+social relationships
+2 hrs before bed no food
+Wärme ableitnde Matratze
+Phone away in the evening
+487 breathing
+Journal your thoughts
+Every evening go through your mind about the events of the day
+Accept that you have to gentle with yourself
 ## Entropy
 Entropy, as a measure of disorder, explains why life always seems to get more, not less, complicated as time goes on.
 

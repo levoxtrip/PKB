@@ -5,6 +5,9 @@ You don't need more time; You need more focus.
 
 What we focus on determines what we feel.
 
+## Attention
+The most effective way to increase our ability to pay attention is to look for the novelty within the stimulus situation, whether it is a story, a map, or a painting.
+
 ## Clear headspace
 Having a cluttered mind can hinder discipline and consistency. Organize your mind is crucial for maintaining discipline.
 

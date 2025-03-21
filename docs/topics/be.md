@@ -295,7 +295,12 @@ Take and accept the life how it comes to you.
 ## Lifestyle
 
 Are you willing to pay the price for your lifestyle? The cost probably comes later.
+## Listen
+When listening there is only now.
+A sound is a reminer to wake up.
 
+Many of us don't experience life on the full spectrum.
+We hear information but we don't detect the subtle vibrations of feelings in the body.
 ## Long- vs. shorttime
 
 Be willing to delay short-term gratification in order to ahieve better long-term results.
@@ -305,6 +310,18 @@ In short term you are good as your intensity. In long term you are good as your 
 ## Mindfulness
 
 It doesn't matter what the experience is. It is about the quality of our attention.
+
+- what is new information?
+- what is different of it
+- wjqt are different perspective of it ?
+
+
+### Wonder
+- What is ... communicating?
+- What does the work want with you?
+- Does something in the work evoke a response in you?
+- What moves inside of you?
+- What does the work offer you today?
 
 ## Non-Attachment
 

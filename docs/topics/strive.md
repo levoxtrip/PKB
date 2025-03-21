@@ -16,6 +16,8 @@ Every step you take is a step towards your goal.
 
 Consider the future consequences of your actions.
 
+Let the action define the thought not the thought define the action.
+
 The way we act in the world affects the way we think and feel about ourselves and thoughts and feelings change our behavior
 
 „It’s all about action. Going out there, doing it and taking all your negative bullshit along for the ride. It’s never going to get any better, any easier or any more understandable. This is it, life is now and you’re never going to have a better moment than this.“
@@ -113,6 +115,27 @@ Find the contrast - better to dominate a small pond than drowning in an ocean.
 
 How can you solve the problems others have?
 
+You need 10 years to build a proper business.
+
+You don't get successful if you don't take risks
+
+You got to take action to get that action luck.
+
+Make something that solves a problem
+
+Business
+Absolut dominate one space and then move on to other similar spaces 
+
+Where do you win? Where are you the best in the world 
+
+What is your selling point 
+
+In business you ether help to make money or you help to save money
+
+### Marketing
+If you want to convince someone about something, don't focus on the advantages; instead highlight how it helps them doge the disadvantages.
+
+The most effective way of encouraging customers to purchase your product is to tell them how much money they are losing without
 ## Certainty
 
 Reduce certainty and see how you life is.
@@ -145,7 +168,8 @@ Sometimes we get complacent because we do the same things every day - get out of
 work at a different place
 
 “The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
-
+## Commitment
+Your emotional commitment to what you are doing will be translated directly into your work
 ## Consistency
 
 Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
@@ -214,7 +238,9 @@ Exposing yourself to possible failure helps you to figure out how you can get be
 
 You are going to fail if you want to maximize your potential!
 
-Take the opposite approach. Instead of becoming discouraged and depressed by any kind of downturn, you must see this as a wake-up call, a challenge that you will transform into an opportunity for powe
+Take the opposite approach. Instead of becoming discouraged and depressed by any kind of downturn, you must see this as a wake-up call, a challenge that you will transform into an opportunity for power.
+
+Failure is the information you need to get where you are going 
 
 ### Fear of failure
 
@@ -236,7 +262,8 @@ Every time you fail ask yourself:
 - What good Thing can I take out of this
 - Why did I miss the goal?
 - Why didn’t I see this thing the way I could have?
-
+## Fear
+Face your fear - even for just 10 mins a day. When you do it every da it's easier to do.
 ## Goals
 
 Clear goals help to stay motivated and focused.
@@ -254,7 +281,8 @@ It is not uncommon for people to spend their whole life waiting to start living 
 you must identify the actions involved in achieving each of these ‘macro’-goals
 
 Total hours per week Specific days The length of each goal-oriented work session A specific time window (e.g., from 8 a.m. to 9 a.m.) or a time constraint (e.g., before 9 a.m.) for the goal-oriented work session
-
+### Obstacles
+what stands in the way between you and your goal and how can you break down the roadblocks one by one
 ### Quest
 
 Instead of goals set quests.
@@ -284,6 +312,7 @@ Create your life goals and thenn break them down to yearly goals, monthly goals,
 
 - What is preventing me from achieving my goals?
 - How do you guarantee failure?
+
 
 ## Break it down in smaller parts
 
@@ -377,6 +406,9 @@ When dreaming - think big. When executing -think small.
 
 I let go of how I am perceived
 I let go of what I think others expect from me.
+
+The Way we think about experience. Can Complete determine how we feel about them 
+E.g exercise and pain 
 
 ## Negotiation
 
@@ -499,6 +531,9 @@ Great work happens by focusing consistently on something you're genuinely intere
 
 Instead of, “I have to do this project,” say, “I get to do this project.”
 
+Your project or problem should always be connected to something larger - a bigger question, an overarching idea, an inspring goal.
+Whenever your work feels stale, you must return to the larger purpose and goal.
+
 ### Debrief
 
 Debrief after every mission/projects - allows to identify what went wrong and how I can improve
@@ -556,6 +591,8 @@ One way to aim high is to try to make something that people will care about in a
 Listen to your heart.
 
 Find the thing that ignites your curiosity and drive.
+
+Work on something that captures the human imagination 
 
 Purpose gives power to endure the suffering.
 Purpose gives you filter to cutout choices:
@@ -654,6 +691,16 @@ Success:
 
 - Build stuff you love
 - Creat win-win for all
+
+### Singer success
+My formula for success was very simple: Do whatever is put in front of you with all your heart and soul without regard for personal results. Do the work as though it were given to you by the universe itself—because it was.
+
+serve with all my heart and soul what life brought before me
+
+Everything I did, I did to the absolute best of my ability
+
+I commit to do whatever is put in front of me with all my heart and soul without fear and to the absolute best of my ability. The work is given to me by the universe to serve humankind. 
+
 
 ### Habits and skills to live a successful life
 
