@@ -92,6 +92,8 @@ If you feel resistance before you begin, it's usually procrastination and you ne
 Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
 ## Business
 Sell solutions to problems
+
+An imperfect solution that exists outperforms a perfect one that doesn't.
 ## Challenge
 You miss 100% of the shots you don't take.
 
