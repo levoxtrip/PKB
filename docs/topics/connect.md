@@ -41,17 +41,19 @@ eat with your family without any distraction so you can have good and deep conve
 ## Meeting People
 Learn to be open towards people that you meet. Don't expect the worst from them.
 
-Be genuinly interested in other people and their problems and lifes.
+Be genuinely interested in other people and their problems and lives.
 
 Meet new people with a smile and an open heart.
 
 Remember the persons name.
 
-Encourage a person to talk about themselves - their victories, their experiences - don't stear the conversation to yourself.
+Encourage a person to talk about themselves - their victories, their experiences - don't move the conversation to yourself.
 
 To be interesting by being interested in other people.
 
 Always make the other person feel important.
+
+Treat people as already trustworthy
 
 ## Expectations
 Don't expect anything from other people.
@@ -95,7 +97,9 @@ Get the other persons point of view and see things from that persons angle as we
 Always expect good intention from your partner and the people.
 
 There are at least two sides to every story and we have to be willing to listen to both.
-## Suround yourself
+
+Best relationships are multiplier that improve your life.
+## Surround yourself
 Be intentional who you allow in your life. 
 People that lift you up. That inspire you to be a better version of yourself.
 Take the time for the people. 

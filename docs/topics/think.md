@@ -56,3 +56,6 @@ Instead of trying to solve a problem by adding something - try to reduce somethi
 
 ## The opposite
 What ever ideas you have or hear, the opposite may also be true.
+
+## Questions yourself
+Question yourself if something might not be true.

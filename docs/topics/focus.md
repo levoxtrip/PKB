@@ -10,13 +10,15 @@ You don't need more time. You need more focus.
 Time isn't the constraint. Your choices are.
 
 ## Clear headspace
-Having a cluttered mind can hinder discipline and consitency. Organise your mind is crucial for maintaining discipline.
+Having a cluttered mind can hinder discipline and consistency. Organize your mind is crucial for maintaining discipline.
 
-Meditate to clear your mind.
-
+- Meditation morning and evening
+- HIIT exercise
+- Cold Shower
+- Coherence breathing?
 
 ## Distractions
-Distractions are the assasins of great work. 
+Distractions are the assassins of great work. 
 
 Distractions are major reason why people lose motivation and focus.
 
@@ -47,7 +49,12 @@ Distraction notebook to keep track of what distracts you
 Focused people eliminate options, not accumulate them.
 Without a focus, everything becomes a distraction.
 ## Now
-The only place where you can experience the flow of life is in the Now. So accept the present moment 
+The only place where you can experience the flow of life is in the Now. So accept the present moment.
+
+### Tools
+[What is changing](../Tools/NoticeChangingEnvironment.md)
+[Notice Changes](../Tools/NoticeChanges.md)
+
 
 
 ## Tools

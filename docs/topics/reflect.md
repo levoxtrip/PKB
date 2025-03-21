@@ -11,9 +11,10 @@ Carve out 15 minutes at the end of each week to look back at what you've accompl
 ### Daily
 - Are you doing your best work?
 - Is this work in service of others?
+- What can I learn from today?
 
-### Expetations
-- Do I have internalised negative expectations?
+### Expectations
+- Do I have internalized negative expectations?
 ### Happiness
 - What are you happy about? What are you unhappy about? Where does that feeling come from?
 - What are you grateful for?
@@ -21,6 +22,9 @@ Carve out 15 minutes at the end of each week to look back at what you've accompl
 ### Look inside
 - What do I feel?
 - What am I seeing?
+
+### Results
+- What causes that I don't get what I want?
 
 ### Values
 - How would the person I want to become spend there time? 
