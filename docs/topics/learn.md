@@ -9,7 +9,7 @@ When you start to study a field you need to identify the core principles than go
 When you're starting something new, the most important thing is knowing what to learn.
 
 Build the fundamentals and practise them over and over.
-
+Build extremely simple things and slowly growing in complexity
 What are the patterns that get used in this framework.
 
 ## Curiosity
