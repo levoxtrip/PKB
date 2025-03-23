@@ -104,6 +104,11 @@ Learn something by directly building a project
 ## Play
 
 Inject something playful to make the learning more fun.
+
+## Recovery
+The passive passive elements of practice is as important 
+as the active.
+
 ## Tutorial
 Watch Tutorials with full focus and mindfullness
 Note down steps by hand 
