@@ -1,6 +1,9 @@
 ## Action
 "Every time I sat down at the computer to work on the program, I took a breath and remembered that I was writing this as a gift to the universe"
 
+Imagine you have these two characters inside you
+the maker and the explainer. Bypass what the 
+explainer days and focus on the maker.
 
 Do it for you. Not for others.
 “Everything you do - with or without an audience - provides evidence to you about who you are and what you're capable of.”
