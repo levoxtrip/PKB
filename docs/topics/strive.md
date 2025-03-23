@@ -340,7 +340,7 @@ Love the process of doing what you doing!
 Put love at the center of your work.
 
 When we making things we love our mission
-is completed!
+is accomplished!
 
 ## Luck
 
