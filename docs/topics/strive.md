@@ -339,6 +339,9 @@ Love the process of doing what you doing!
 
 Put love at the center of your work.
 
+When we making things we love our mission
+is completed!
+
 ## Luck
 
 You make your luck by following your instincts, taking risk and embracing every possibility.
