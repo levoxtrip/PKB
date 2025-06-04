@@ -2,6 +2,21 @@
 
 Goal is to understand how system/topic works and the various ways you can use them to your advantage.
 
+# Questions
+
+## While learning
+
+What are the fundamental principle/rule that this topic build opon - why do they work this way/why do they get used here?
+
+## developing process understanding
+
+If I break down how this works into its most essential steps/components - what would they be - how do they interact to create the whole
+
+## Application
+
+Where else could these core principles apply - in unexpected ways
+How might i use them to solve different problems
+
 ## Basic concepts
 
 When you start to study a field you need to identify the core principles than govern the field.
@@ -11,6 +26,17 @@ When you're starting something new, the most important thing is knowing what to 
 Build the fundamentals and practise them over and over.
 
 What are the patterns that get used in this framework.
+
+## Projects
+Expand your knowledge by working on projects! Go from projects to projects learning new things that you think are cool and interesting.
+
+Experimentation and exploration. Fun hobby projects.
+
+Look between connections between these fields and look for there applications.
+
+Write a lot of code and continously try to improve.
+
+Constantly push yourself to learn more and more
 
 ## Curiosity
 

@@ -1,4 +1,5 @@
 # live
+
 There is only one success—to be able to spend your life in your own way.
 
 The struggle is the one constant in all of our lives.
@@ -17,10 +18,14 @@ To do anything. That’s freedom.
 
 To have everything. That’s happiness.
 
+With the awareness that time is passing, the artist creates his work like a committed Sisyphus who cannot conquer the mountain but knows how to enjoy the views on the way up.
+
 ## Challenges
+
 Whenever anything negative happens to you, there is a deep lesson concealed within it, although you may not see it at the time
 
 ## Choice
+
 Integrity is a choice.
 
 Kindness is a choice.
@@ -46,24 +51,29 @@ Loving someone is hard - being lonely is hard
 
 Life will never be easy. It will always be hard But we can choose our hard
 
-
 ## Entropy
+
 Entropy, as a measure of disorder, explains why life always seems to get more, not less, complicated as time goes on.
 
 Disorder is not a mistake; it is the default. Order is always artificial and temporary.
 
 ## Flow
+
 you have to allow to get carried away by the waves ts to hard to super intentionally plan your life allow what ever happens you should stay open to where ever your life brings you
+
 ## Life situation
+
 If you find your here and now intolerable and it makes you unhappy, you have three options: remove yourself from the situation, change it, or accept it totally Then accept the consequences
+
 ## Pushing limits
+
 Life is too short to do mediocre work and it is definitely too short to build shitty things life is too short to be scared of problems
 
-* Great work gets ignored
-* Stop asking for permission
-* You don't need gatekeepers to be
+- Great work gets ignored
+- Stop asking for permission
+- You don't need gatekeepers to be
 
 ## Reflections
+
 - Have you done everything you wanted to do in your life?
 - If you had the ability to wave a magic wand and utterly change your life, how differently would it look?
-

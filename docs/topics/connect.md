@@ -1,12 +1,9 @@
 # Connect
 
-The quality of your life is the quality of your relationships.
 
 Train yourself to take nothing personally.
 
 Don't inflict suffering on other beings.
-
-Deepen your relationships.
 
 Stretch your social muscle - join new communities, make more friends.
 
@@ -87,9 +84,7 @@ Focus on helping other people to achieve their goals and desires - serve the oth
 
 Don't expect anything from other people and always give something to other people
 
-### Tools
 
-[Act of random kindness](../Tools/ActOfRandomKindness.md)
 
 ## Help
 

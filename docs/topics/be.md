@@ -1,10 +1,6 @@
 # Be
 
-Serving: Do good deeds for others.
-
 Belonging: Feel like a part of something bigger.
-
-Connect with other people
 
 ## Affirmation
 
@@ -60,16 +56,9 @@ Be the change you wish to see in the world.
 
 Create notifications that remind you to ...
 
-#### Streaks
-
-Use the concept of a streak
-Make it really obvious for how many days in a row you already do this behaviour
-
-Write down in notebook a chart of days 1-31 and and for every day you use a dot. If you don't the streak is broken
-
 ### Stop behaviour
 
-Take a 30-day berak from whatever it is that you rely on for pleasure
+Take a 30-day break from whatever it is that you rely on for pleasure
 
 Place obstacles between you and your addictive behaviours
 
@@ -106,16 +95,12 @@ The dots will connect themself on the way
 
 ## Control
 
-Focus on what is in your control rather then being upset sbout something you can't control.
+Focus on what is in your control rather then being upset about something you can't control.
 
 There are a lot of things you don't control.
 You don't pick your parents.
 You don't get to pick the country you are born in.
 You don’t control where you start, but you can change where you go.
-
-## Energy
-
-If you want to feel physically and mentally energized you have to move your body - exercise or walking.
 
 ## Ego
 
@@ -268,7 +253,7 @@ Create an identity of a person that does certain things:
 
 ## Judgment
 
-Are you juding just the outside without looking whats inside?
+Are you judging just the outside without looking whats inside?
 
 ## Life
 
@@ -455,13 +440,6 @@ Decide what you want in your life and what you will not allow to intrude.
 
 ### Money
 
-Dont solve for money, dont solve for prestige.
+Don't solve for money, don't solve for prestige.
 
 Money is nice but one can choose to see it not as the absolute measure of wealth, but as a useful tool to help achieve true inner wealth.
-
-### Define your values
-
-- What is important to you?
-- What do you want in your life?
-- What is pushing you?
-- What is your message?
