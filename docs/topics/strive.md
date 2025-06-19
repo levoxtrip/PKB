@@ -1,10 +1,16 @@
 ## Action
+"Every time I sat down at the computer to work on the program, I took a breath and remembered that I was writing this as a gift to the universe"
+
+Imagine you have these two characters inside you
+the maker and the explainer. Bypass what the 
+explainer days and focus on the maker.
 
 Do it for you. Not for others.
-
+“Everything you do - with or without an audience - provides evidence to you about who you are and what you're capable of.”
 Do less but with more attention and intensity.
-
 Stop waiting for life to give you what you think you deserve and go out and make it happen.
+
+Nothing can be changed until it is faced.
 
 Creating as many opportunities as we could through purposeful action.
 
@@ -15,6 +21,8 @@ Action creates [confidence](./be.md#confidence) and momentum.
 Every step you take is a step towards your goal.
 
 Consider the future consequences of your actions.
+
+Let the action define the thought not the thought define the action.
 
 The way we act in the world affects the way we think and feel about ourselves and thoughts and feelings change our behavior
 
@@ -39,7 +47,7 @@ Reflection allows you to distill experience into learning. Don't just "do," thin
 
 If action seems hard, narrow the gap between where you are and what you focus on
 
-See challenges as opportunities.
+See challenges as opportunities. Every problem is a gift. Without them we wouldn't grow.
 
 ### Focus on process
 
@@ -97,24 +105,44 @@ If you feel resistance before you begin, it's usually procrastination and you ne
 
 [Time Limited Action](../Tools/TimeLimittedAction.md)
 [Pre-GameRoutine](../Tools/PreGameRoutine.md)
-
+## Advantage
+You get an advantage when you:
+- Do the work that none of your competitors wants to do
 ## Anticipation
 
 "Anticipate: Skate to where the puck is going to be - not where it's been"
 Go where you think what you want is gonna be - go to the events where the people you want to be surrounded by are
-
 ## Bravery
-
 Bravery feels like fear.
-
 ## Business
-
 Find the contrast - better to dominate a small pond than drowning in an ocean.
 
 How can you solve the problems others have?
+First validate your idea with a landing page instead of building everything through.
 
+
+You need 10 years to build a proper business.
+
+You don't get successful if you don't take risks
+
+You got to take action to get that action luck.
+
+Make something that solves a problem
+
+Business
+Absolut dominate one space and then move on to other similar spaces 
+
+Where do you win? Where are you the best in the world 
+
+What is your selling point 
+
+In business you ether help to make money or you help to save money
+
+### Marketing
+If you want to convince someone about something, don't focus on the advantages; instead highlight how it helps them doge the disadvantages.
+
+The most effective way of encouraging customers to purchase your product is to tell them how much money they are losing without
 ## Certainty
-
 Reduce certainty and see how you life is.
 
 ## Challenge
@@ -145,7 +173,8 @@ Sometimes we get complacent because we do the same things every day - get out of
 work at a different place
 
 “The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’"
-
+## Commitment
+Your emotional commitment to what you are doing will be translated directly into your work
 ## Consistency
 
 Consistency is key. People who do great things don't get a lot done every day. They get something done, rather than nothing.
@@ -186,7 +215,6 @@ When urgency, deadlines, death is facing you, you fight 10 times harder
 [Deadlines](../Tools/Deadlines.md)
 
 ## Discipline
-
 The journey of self discipline for self discovery
 
 ## Effort
@@ -214,7 +242,11 @@ Exposing yourself to possible failure helps you to figure out how you can get be
 
 You are going to fail if you want to maximize your potential!
 
-Take the opposite approach. Instead of becoming discouraged and depressed by any kind of downturn, you must see this as a wake-up call, a challenge that you will transform into an opportunity for powe
+Take the opposite approach. Instead of becoming discouraged and depressed by any kind of downturn, you must see this as a wake-up call, a challenge that you will transform into an opportunity for power.
+
+Failure is the information you need to get where you are going 
+
+Failure always brings something valuable. Don't let it leave until you extract that value.
 
 ### Fear of failure
 
@@ -236,6 +268,11 @@ Every time you fail ask yourself:
 - What good Thing can I take out of this
 - Why did I miss the goal?
 - Why didn’t I see this thing the way I could have?
+## Fear
+Face your fear - even for just 10 mins a day. When you do it every da it's easier to do.
+
+## Focus
+Success demands singleness of purpose. Doing fewer things for more effect.
 
 ## Goals
 
@@ -254,7 +291,8 @@ It is not uncommon for people to spend their whole life waiting to start living 
 you must identify the actions involved in achieving each of these ‘macro’-goals
 
 Total hours per week Specific days The length of each goal-oriented work session A specific time window (e.g., from 8 a.m. to 9 a.m.) or a time constraint (e.g., before 9 a.m.) for the goal-oriented work session
-
+### Obstacles
+what stands in the way between you and your goal and how can you break down the roadblocks one by one
 ### Quest
 
 Instead of goals set quests.
@@ -279,9 +317,7 @@ Often when you reach you goal not much changed. Even if you reach your life goal
 - Promise yourself to make some small step toward your goal each and every day
 
 Create your life goals and thenn break them down to yearly goals, monthly goals, weekly goals and daily goals.
-
 ### Reflection
-
 - What is preventing me from achieving my goals?
 - How do you guarantee failure?
 
@@ -302,6 +338,8 @@ Do constantly what you don't like. Something what you are not comfortable with.
 
 Growth is usually painful to some degree. That’s because growth requires loss—a loss of your old values, your old behaviors, your old loves, your old identity.
 
+Growth must be chosen again and again. Fear must be overcome again and again.
+
 ## Identify Strength and Weaknesses
 
 Identify your weaknesses, find creative was to leverage your strengths.
@@ -313,6 +351,9 @@ Love the process of doing what you doing!
 
 Put love at the center of your work.
 
+When we making things we love our mission
+is accomplished!
+
 ## Luck
 
 You make your luck by following your instincts, taking risk and embracing every possibility.
@@ -323,6 +364,12 @@ You become good because you are committed to get better each and every day.
 
 Diversify your skills?
 
+## Meaning
+The meaning you give work determines its difficulty.
+
+A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
+
+Your relationship with the work shapes its weight more than the work itself.
 ## Mentor
 
 Pick someone you really respect, be a sponge, be obsessed and see what they do, learn everything they do - what did they do, how did they do it, why did they do it.
@@ -377,6 +424,9 @@ When dreaming - think big. When executing -think small.
 
 I let go of how I am perceived
 I let go of what I think others expect from me.
+
+The Way we think about experience. Can Complete determine how we feel about them 
+E.g exercise and pain 
 
 ## Negotiation
 
@@ -499,6 +549,9 @@ Great work happens by focusing consistently on something you're genuinely intere
 
 Instead of, “I have to do this project,” say, “I get to do this project.”
 
+Your project or problem should always be connected to something larger - a bigger question, an overarching idea, an inspring goal.
+Whenever your work feels stale, you must return to the larger purpose and goal.
+
 ### Debrief
 
 Debrief after every mission/projects - allows to identify what went wrong and how I can improve
@@ -596,7 +649,9 @@ What is it you want to do with your life? Then every decision you make from here
 ## Reliability
 
 Outperform people by being more reliable.
-
+## Responsibility
+you are responsible
+you have to change the choices you are making to get the results you want
 ## Results
 
 Every result you get is a delayed measure of your habit that you did before.
@@ -650,10 +705,22 @@ We think some outward success is gonna change something inside but it’s not! I
 
 key to success is not doing more it is few things really well.
 
+everyone who is successful worked hard over 10-20 years
+
 Success:
 
 - Build stuff you love
 - Creat win-win for all
+
+### Singer success
+My formula for success was very simple: Do whatever is put in front of you with all your heart and soul without regard for personal results. Do the work as though it were given to you by the universe itself—because it was.
+
+serve with all my heart and soul what life brought before me
+
+Everything I did, I did to the absolute best of my ability
+
+I commit to do whatever is put in front of me with all my heart and soul without fear and to the absolute best of my ability. The work is given to me by the universe to serve humankind. 
+
 
 ### Habits and skills to live a successful life
 
@@ -705,6 +772,7 @@ What can I stick to on my worst day.
 Write down what you need to do on a piece of paper. Then, write down every single step you need to take to make it happen. Finally, ignore everything except the step you’re working on.
 
 - how can I build systems for the days where im weak and tired
+## Time
 
 ## To-dos
 
@@ -739,6 +807,7 @@ Find what is intresting about the task.
 Create sense of urgency about the task.
 
 Schedule dedicated blocks of time at the same time every day to work.
+
 
 ### Reflections
 

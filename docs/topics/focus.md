@@ -54,6 +54,18 @@ Without a focus, everything becomes a distraction.
 
 The only place where you can experience the flow of life is in the Now. So accept the present moment.
 
+### Tools
+[What is changing](../Tools/NoticeChangingEnvironment.md)
+[Notice Changes](../Tools/NoticeChanges.md)
+
+## Vision
+Mental focus follows visual focus.
+
+To relax look far 
+
+## Meaning
+Add meaning to your activity. Adding more meaning can help with focus.
+
 ## Tools
 
 [Imagine White Screen](../Tools/ImagineWhiteScreen.md)

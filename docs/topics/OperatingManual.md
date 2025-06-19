@@ -7,6 +7,7 @@
 # Daily
 
 What am I looking forward to today?
+Seek out moments of play and joy
 
 # Mindset
 

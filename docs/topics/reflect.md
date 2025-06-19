@@ -23,6 +23,9 @@ Carve out 15 minutes at the end of each week to look back at what you've accompl
 - What do I feel?
 - What am I seeing?
 
+###
+- What action can I take to change my behavior or mindset?
+
 ### Results
 - What causes that I don't get what I want?
 

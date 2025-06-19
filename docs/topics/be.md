@@ -2,6 +2,9 @@
 
 Belonging: Feel like a part of something bigger.
 
+
+
+
 ## Affirmation
 
 - I deserve to be appreciated.
@@ -27,6 +30,16 @@ Belonging: Feel like a part of something bigger.
 - I am blessed.
 - I choose to see the positive, even in tough times.
 - I will follow my heart.
+
+
+
+
+
+
+## Attitude
+We have a choice every day regarding the attitude we will embrace for that day!
+We can not change the past, we can not change the inevitable, the only thing we can change is out attitude every day!
+
 
 ## Bad day
 
@@ -192,6 +205,9 @@ True happiness comes from growth.
 The only way to happiness is through pain!!!
 What makes you happy is building and creating projects.
 
+The hardest truth about happiness is that it's a choice.
+
+
 Be fully engaged in your life.
 
 Everyday moments of tiny happiness matters more then big prices.
@@ -202,7 +218,7 @@ The harder we try to be happy the less happy we are.
 
 Happiness = Satisfaction/Needs
 
-Buddtha taught that your happiness and unhappiness are in fact one. There is none without the other.
+Buddha taught that your happiness and unhappiness are in fact one. There is none without the other.
 
 Practising [gratitude](#gratitude) makes ones happier. People who are happier tend to be more grateful and appreciative for what they have.
 
@@ -217,6 +233,8 @@ Feel like part of something bigger.
 Connect with people.
 
 What is your happy place and how can you optimise your life around it?
+
+To be happy we can connect ourself which something bigger than us. To strive for something that is bigger than us.
 
 ### Money
 
@@ -280,7 +298,12 @@ Take and accept the life how it comes to you.
 ## Lifestyle
 
 Are you willing to pay the price for your lifestyle? The cost probably comes later.
+## Listen
+When listening there is only now.
+A sound is a reminer to wake up.
 
+Many of us don't experience life on the full spectrum.
+We hear information but we don't detect the subtle vibrations of feelings in the body.
 ## Long- vs. shorttime
 
 Be willing to delay short-term gratification in order to ahieve better long-term results.
@@ -290,6 +313,18 @@ In short term you are good as your intensity. In long term you are good as your 
 ## Mindfulness
 
 It doesn't matter what the experience is. It is about the quality of our attention.
+
+- what is new information?
+- what is different of it
+- wjqt are different perspective of it ?
+
+
+### Wonder
+- What is ... communicating?
+- What does the work want with you?
+- Does something in the work evoke a response in you?
+- What moves inside of you?
+- What does the work offer you today?
 
 ## Non-Attachment
 
@@ -368,7 +403,7 @@ Cherish the person you have become.
 
 We all have both good qualities and flaws and experiences both successes and failures in life.
 
-Practise [acceptance](feel.md#acceptance).
+Practice [acceptance](feel.md#acceptance).
 
 How you speak to yourself during and after stressful situations an make the difference finding calm and strength to move on or feeling overwhelmed of panic.
 
@@ -379,6 +414,21 @@ I will follow my heart.
 "I love you, you did the best you could today, and even if you didn't accomplish all you had planned, I love you anyway."
 
 [Self-Compassion Practise](https://self-compassion.org/self-compassion-practices/)
+
+"May I be happy,
+May I feel saved and loved,
+May I be healthy.
+May I live with easy."
+
+"May I be peaceful,
+May I feel save,
+May I feel well"
+
+Change it up to fit for your current situation.
+
+Self-compassion as a contrary of shame.
+
+
 
 ## Self-Expression
 
@@ -425,6 +475,10 @@ Dance and play with your inner shadow.
 
 I love your inner shadow and tell it - I hear you
 
+## Story
+We are the sum of the stories we tell ourselves.
+
+What story had I been telling myself?
 ## Trauma
 
 The only way out is through.

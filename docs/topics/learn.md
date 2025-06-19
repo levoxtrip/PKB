@@ -4,6 +4,11 @@ Goal is to understand how system/topic works and the various ways you can use th
 
 # Questions
 
+## Have a reason to learn
+Have a self-oriented goal(enjoying future job) but also a beyond-the-self-oriented" goal(having a positive impact on the world) increases the motivation to learn.
+Knowing what exactly the skill is going to be used for increases motivation and helps finding out what information is usefull and which not.
+
+
 ## While learning
 
 What are the fundamental principle/rule that this topic build opon - why do they work this way/why do they get used here?
@@ -24,7 +29,7 @@ When you start to study a field you need to identify the core principles than go
 When you're starting something new, the most important thing is knowing what to learn.
 
 Build the fundamentals and practise them over and over.
-
+Build extremely simple things and slowly growing in complexity
 What are the patterns that get used in this framework.
 
 ## Projects
@@ -45,7 +50,7 @@ Create curiosity and aw around the topic.
 
 Ask "Why, Why, Why, Why"
 
-## Deliberate practise
+## Deliberate practice
 
 Train at the edge of your ability.
 Test your knowledge
@@ -53,7 +58,8 @@ Test your knowledge
 If something is diffucult to execute or hard to comprehend its a sign of learning and making lasting improvements
 
 How can I challenge myself by using another tool/less code/more code/a diffrent object to achieve what I want
-
+## Deliberate disengagement
+Let mind drift after learning session
 ## Draw
 
 Draw charts/diagrams to enhance learning and improve understanding.
@@ -124,15 +130,30 @@ Work on a specific project. Pick a project that you are interested in and build 
 
 Assign to hackathons
 
+Learn something by directly building a project.
+
+## Chunking
+Breaking down large amounts of information in small meaningful groups can help the learning.
+
 ## Play
 
 Inject something playful to make the learning more fun.
 
+## Recovery
+The passive passive elements of practice is as important 
+as the active.
+
+## Tutorial
+Watch Tutorials with full focus and mindfullness
+Note down steps by hand 
+
+Then try process yourself and only watch notes when you must. 
 ## Reflection
 
 We learn from the reflection/ active recall of the learned information.
 
 - What principles did I learn today?
+- How can this information be meaningful for you?
 
 ## Write
 

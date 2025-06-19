@@ -104,7 +104,9 @@ Accept that this is how you brain works to adapt to uncertain circumstances.
 
 ## Mind
 
-What we feel and think will determine what we experience - what we experience determines how we feel and think - never-ending-cycle
+What we feel and think will determine what we experience - what we experience determines how we feel and think - never-ending-cycle.
+
+How we feel is depending on what story we tell ourselves. What narrative do we have towards something? We can reframe the narrative to let the story help us instead of stopping us.
 
 Our brains expectations are woven into everything we experience
 
@@ -112,6 +114,8 @@ Our brains expectations are woven into everything we experience
 
 To disidentify from the pain bring precence into the pain and transmute it.
 
+Engage with the pain by looking it in the eye.
+Observing it.
 ## Responsibility
 
 I am the cause of all my problems and therefore I alone am responsible and capable of solving them.
@@ -159,6 +163,15 @@ Stress relief strategies are:
 - paint
 - video games
 - MBSR
+
+
+
+### Reframe stress
+Reframe the racing heartbeat as a sign of energy for an important and rewarding event. The stress response is a resource to achieve you goals.
+
+People who see stress as enhancing tend to focus more on the positive elements of a situation and become more pro active.
+
+You are not anxious - you are excited
 
 ### Eating
 
@@ -208,3 +221,5 @@ Our thoughts shape our world.
 Disidentify with your thoughts - your are not your thoughts. You are the observer.
 
 Pay attention to any repetitive thought patterns.
+
+

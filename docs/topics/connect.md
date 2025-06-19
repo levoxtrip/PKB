@@ -64,6 +64,10 @@ Always make the other person feel important.
 
 Treat people as already trustworthy
 
+Let go of preconceived notions and prejudice and remain curious and open.
+
+Be ready to be surprised
+
 ## Expectations
 
 Don't expect anything from other people.
@@ -71,6 +75,9 @@ Don't expect anything from other people.
 Other people don't have to fullfill you expectations.
 
 Other people disappointed you because your ego expected something from them what they couldn't fullfill.
+
+Be aware of *actor-observer bias* - we judge our own actions differently than others' identical actions.
+When you don't respond, you attribute it to external circumstances (busy, forgot, timing). When others don't respond, you attribute it to their internal disposition or feelings toward you (hatred).
 
 ## Give
 
@@ -115,6 +122,8 @@ Always expect good intention from your partner and the people.
 There are at least two sides to every story and we have to be willing to listen to both.
 
 Best relationships are multiplier that improve your life.
+
+Newer blame others for your unhappiness.
 
 ## Surround yourself
 

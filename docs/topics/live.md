@@ -18,11 +18,20 @@ To do anything. That’s freedom.
 
 To have everything. That’s happiness.
 
+Trust the messages of life instead of understanding them intellectually
+
 With the awareness that time is passing, the artist creates his work like a committed Sisyphus who cannot conquer the mountain but knows how to enjoy the views on the way up.
+
+Have fun, be yourself, makes mistakes.
+
 
 ## Challenges
 
-Whenever anything negative happens to you, there is a deep lesson concealed within it, although you may not see it at the time
+Whenever anything negative happens to you, there is a deep lesson concealed within it, although you may not see it at the time.
+
+Sometimes the bad things put us directly on the path to the best things that will happen to us.
+
+All problems become smaller when you confront them instead of dodging them.
 
 ## Choice
 
@@ -51,6 +60,19 @@ Loving someone is hard - being lonely is hard
 
 Life will never be easy. It will always be hard But we can choose our hard
 
+## Daily life
+Sleep
+Movement
+Enough breaks
+social relationships
+2 hrs before bed no food
+Wärme ableitnde Matratze
+Phone away in the evening
+487 breathing
+Journal your thoughts
+Every evening go through your mind about the events of the day
+Accept that you have to gentle with yourself
+
 ## Entropy
 
 Entropy, as a measure of disorder, explains why life always seems to get more, not less, complicated as time goes on.
@@ -77,3 +99,17 @@ Life is too short to do mediocre work and it is definitely too short to build sh
 
 - Have you done everything you wanted to do in your life?
 - If you had the ability to wave a magic wand and utterly change your life, how differently would it look?
+
+## Luxury
+The real luxuries in life are time and health.
+time health
+a quiet mind
+slow mornings
+ability to travel
+rest without guilt
+a good night's sleep
+calm and "boring" days
+meaningful conversations
+home-cooked meals
+people you love
+people who love you back
